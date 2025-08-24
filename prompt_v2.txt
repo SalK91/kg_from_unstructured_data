@@ -1,0 +1,103 @@
+Knowledge-graph extraction for literary texts
+Purpose: Given an input text chunk (one or more sentences), extract entities, relationships, and entity attributes with deterministic rules, provenance, and update semantics so outputs are consistent across chunks and documents.
+
+1) OVERVIEW
+- Extract: entities, attributes, and relationships.
+- Allowed entity types: Person, Location, Organization, Event, Work, Object, Date, Role, Vehicle, Artifact, Publication, Institution, Mythical_Creature, Character_Role.
+- Allowed relation types: friend_of, partner_of, lives_at, lives_with, meets, investigates, author_of, owns, kills, found_at, mentions, ally_of, enemy_of, sibling_of, parent_of, member_of, located_in, created_by, inspired_by, possesses, discovers.
+- Core relations to prioritize: friend_of, lives_at, lives_with, meets, investigates, author_of, owns, kills, found_at, mentions.
+
+2) ID AND CANONICALIZATION RULES
+- Entities receive stable sequential IDs: e1, e2, ... continuing from the global entity list.
+- Canonical name selection (deterministic):
+  1. If the global entity list already contains a matching canonical name or an alias (case-insensitive normalized match), reuse that entity ID and canonical name.
+  2. Otherwise, prefer the longest, most explicit name encountered in the chunk (e.g., "Inspector Lestrade" > "Lestrade" > "Mr Lestrade"). If multiple equally long alternatives exist, choose the one that includes titles/roles.
+  3. Store both `name` (canonical name) and `aliases` (list).
+- Alias matching algorithm (deterministic):
+  - Exact case-insensitive match of token sequence → match.
+  - Punctuation- and whitespace-normalized match (strip diacritics, convert curly quotes) → match.
+  - Possessive normalization: "Dr Watson's" → match to "Dr Watson".
+  - Do NOT automatically fuzzy-merge different names (no Levenshtein merging) unless additional explicit contextual evidence is available (same role + same location + same organization in same chunk). If ambiguous, create separate entities with a `disambiguation_hint` attribute.
+- Never create an entity for a pronoun unless the previous sentence(s) explicitly mention the referent (see Pronouns/Coreference).
+
+3) PRONOUNS & COREFERENCE
+- Coreference window: link pronouns to the nearest preceding explicit mention within the same sentence or up to two previous sentences (window = 2), **only** when a clear single antecedent exists.
+- Do not link pronouns across paragraph boundaries unless the referent is unambiguous and present in the global entity list.
+- If multiple candidate antecedents exist with similar salience, do **not** create a pronoun link (leave pronoun unlinked).
+- When linking, add the pronoun mention as an additional evidence_span for that entity rather than creating a new entity.
+
+4) ATTRIBUTES (schema & update semantics)
+- Attributes object is optional; include only when the chunk contains explicit attribute statements.
+- Attribute normalization rules:
+  - Single-valued attributes: profession, birthdate, residence, birth_place, deathdate. These are overridden by later chunks (later chunk wins).
+  - Multi-valued attributes: traits, skills, personality, appearance. Append unique values (case-insensitive uniqueness); do not overwrite previous values.
+  - For Date attributes: normalize to ISO 8601 (YYYY-MM-DD). If only partial dates are available, use `YYYY` or `YYYY-MM`.
+- Example attribute structure:
+  "attributes": { "profession": {"value":"Doctor","source":"chunk_3","sentence_index":0}, "personality":["observant","eccentric"], "birthdate": {"value":"1854-??-??","raw":"born in 1854"} }
+- Keep a history list for single-valued attributes if contradictory values appear; mark `current` as the active value and include older values in `history` with provenance.
+
+5) RELATION EXTRACTION (evidence & directionality)
+- Relations must be supported by explicit textual evidence or clearly indicated implication (see “strong implication” below).
+- Relationship object must include: `source` (entity id), `relation` (lowercase), `target` (entity id).
+- Evidence object format: { "text": "<sentence text>", "chunk_id": "...", "sentence_index": N, "char_start": X, "char_end": Y }.
+- For symmetric relations (e.g., friend_of), record relation once; include both entity IDs in the same order as extracted. Upstream consumers may treat friend_of as undirected.
+- Negation/modality: do NOT extract positive relations if the sentence contains negation (e.g., "did not kill", "never met"), conditional (e.g., "would have killed"), or speculative markers ("might have", "perhaps"). If the relation is negated, optionally record a `negated: true` metadata field with provenance instead of the relation.
+
+6) WHAT COUNTS AS “STRONGLY IMPLIED”
+- Strong implication should be applied conservatively. Examples that qualify:
+  - "They shared a flat" → `lives_with`.
+  - "He returned to his house at 221B" and "She also lived there" → `lives_at`.
+  - "Author X's novel Y features character Z" → `created_by` or `author_of` depending on direction.
+- Examples that do NOT qualify (avoid hallucination):
+  - "He preferred solitude" → do NOT create `lives_alone` unless the text explicitly says so.
+  - "He often visited London" → `meets` or `visits` can be extracted only if target is a person or place explicitly mentioned in the same sentence; otherwise do not infer further relations.
+78) OUTPUT SCHEMA (concise)
+- Top-level JSON keys: `entities` (array), `relationships` (array).
+- Entity object minimal fields:
+  {
+    "id": "eN",
+    "name": "Canonical Name",
+    "type": "Person",
+    "aliases": ["Alt Name", "ShortName"],
+    "attributes": { ... }   // optional
+  }
+- Relationship object minimal fields:
+  {
+    "source": "eN",
+    "relation": "meets",
+    "target": "eM",
+    "negated": false  // optional
+  }
+
+9) DEDUPLICATION & UPDATES ACROSS CHUNKS
+- When processing a new chunk:
+  1. Match mentions to the global entity list using the alias algorithm.
+  2. If a match is found, reuse the existing `id` and append new evidence and multi-valued attributes; override single-valued attributes as specified.
+  3. If no match found, create a new `eN` id and record initial provenance.
+- Idempotency: re-processing the same chunk should not duplicate evidence spans. Use evidence span hashes (text + sentence_index + chunk_id) to detect duplicates.
+
+EXAMPLES (must follow output schema exactly)
+
+a) Input chunk: "Holmes met Dr Watson at 221B Baker Street. Watson was a doctor. Holmes was eccentric."
+Output:
+{
+  "entities": [
+    {"id":"e1","name":"Sherlock Holmes","type":"Person","aliases":["Holmes"],"span":"Holmes"},
+    {"id":"e2","name":"Dr Watson","type":"Person","aliases":["Watson","Dr. Watson"],"span":"Dr Watson","attributes":{"profession":{"value":"Doctor","source":"chunk_1","sentence_index":1}}},
+    {"id":"e3","name":"221B Baker Street","type":"Location","aliases":[],"span":"221B Baker Street"}
+  ],
+  "relationships": [
+    {"source":"e1","relation":"meets","target":"e2"},
+    {"source":"e1","relation":"lives_at","target":"e3"},
+    {"source":"e2","relation":"lives_at","target":"e3"}]}
+  ]
+}
+
+b) Negation example: "He did not kill the man."
+- Do not generate a `kills` relation. Optionally produce a negation note in metadata.
+
+Usage
+
+* {ENTITYLIST} → current global entity list
+* {RELATIONLIST} → current global relation types
+* {CHUNK} → text to extract from

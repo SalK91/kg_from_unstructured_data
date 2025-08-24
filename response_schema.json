@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "properties": {
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "type": {
+            "type": "string",
+            "enum": ["Person", "Location", "Organization", "Event", "Work", "Object", "Date", "Role"]
+          },
+          "aliases": { "type": "array", "items": { "type": "string" } },
+          "span": { "type": "string" }
+        },
+        "required": ["id", "name", "type", "aliases", "span"]
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": { "type": "string" },
+          "relation": { "type": "string" },
+          "target": { "type": "string" },
+          "evidence_span": { "type": "string" }
+        },
+        "required": ["source", "relation", "target", "evidence_span"]
+      }
+    }
+  },
+  "required": ["entities", "relationships"]
+}

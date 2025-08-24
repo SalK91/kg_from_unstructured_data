@@ -1,0 +1,3942 @@
+{
+  "entities": [
+    {
+      "id": "e1",
+      "name": "Dr Watson",
+      "type": "Person",
+      "aliases": [
+        "Watson"
+      ],
+      "span": "I took my degree of Doctor of Medicine"
+    },
+    {
+      "id": "e2",
+      "name": "University of London",
+      "type": "Organization",
+      "aliases": [],
+      "span": "University of London"
+    },
+    {
+      "id": "e3",
+      "name": "Netley",
+      "type": "Location",
+      "aliases": [],
+      "span": "Netley"
+    },
+    {
+      "id": "e4",
+      "name": "Fifth Northumberland Fusiliers",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Fifth Northumberland Fusiliers"
+    },
+    {
+      "id": "e5",
+      "name": "India",
+      "type": "Location",
+      "aliases": [],
+      "span": "India"
+    },
+    {
+      "id": "e6",
+      "name": "Bombay",
+      "type": "Location",
+      "aliases": [],
+      "span": "Bombay"
+    },
+    {
+      "id": "e7",
+      "name": "Candahar",
+      "type": "Location",
+      "aliases": [],
+      "span": "Candahar"
+    },
+    {
+      "id": "e8",
+      "name": "Berkshires",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Berkshires"
+    },
+    {
+      "id": "e9",
+      "name": "Maiwand",
+      "type": "Location",
+      "aliases": [],
+      "span": "Maiwand"
+    },
+    {
+      "id": "e10",
+      "name": "Murray",
+      "type": "Person",
+      "aliases": [],
+      "span": "Murray, my orderly"
+    },
+    {
+      "id": "e11",
+      "name": "Peshawar",
+      "type": "Location",
+      "aliases": [],
+      "span": "Peshawar"
+    },
+    {
+      "id": "e12",
+      "name": "England",
+      "type": "Location",
+      "aliases": [],
+      "span": "England"
+    },
+    {
+      "id": "e13",
+      "name": "London",
+      "type": "Location",
+      "aliases": [],
+      "span": "London"
+    },
+    {
+      "id": "e14",
+      "name": "Strand",
+      "type": "Location",
+      "aliases": [],
+      "span": "Strand"
+    },
+    {
+      "id": "e15",
+      "name": "Stamford",
+      "type": "Person",
+      "aliases": [
+        "young Stamford"
+      ],
+      "span": "young Stamford"
+    },
+    {
+      "id": "e16",
+      "name": "Barts",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Barts"
+    },
+    {
+      "id": "e17",
+      "name": "Sherlock Holmes",
+      "type": "Person",
+      "aliases": [],
+      "span": "Sherlock Holmes"
+    },
+    {
+      "id": "e18",
+      "name": "Holborn",
+      "type": "Location",
+      "aliases": [
+        "Holborn Restaurant"
+      ],
+      "span": "Holborn"
+    },
+    {
+      "id": "e19",
+      "name": "Criterion Bar",
+      "type": "Location",
+      "aliases": [],
+      "span": "Criterion Bar"
+    },
+    {
+      "id": "e20",
+      "name": "Afghanistan",
+      "type": "Location",
+      "aliases": [],
+      "span": "Afghanistan"
+    },
+    {
+      "id": "e21",
+      "name": "Portsmouth",
+      "type": "Location",
+      "aliases": [],
+      "span": "Portsmouth"
+    },
+    {
+      "id": "e22",
+      "name": "Chemical Laboratory",
+      "type": "Location",
+      "aliases": [],
+      "span": "chemical laboratory"
+    },
+    {
+      "id": "e23",
+      "name": "Dr. Watson",
+      "type": "Person",
+      "aliases": [
+        "Watson"
+      ],
+      "span": "Dr. Watson"
+    },
+    {
+      "id": "e24",
+      "name": "Baker Street",
+      "type": "Location",
+      "aliases": [],
+      "span": "Baker Street"
+    },
+    {
+      "id": "e25",
+      "name": "Holborn Restaurant",
+      "type": "Location",
+      "aliases": [
+        "Holborn"
+      ],
+      "span": "Holborn"
+    },
+    {
+      "id": "e26",
+      "name": "221B Baker Street",
+      "type": "Location",
+      "aliases": [],
+      "span": "No. 221B, Baker Street"
+    },
+    {
+      "id": "e27",
+      "name": "Lestrade",
+      "type": "Person",
+      "aliases": [
+        "Mr. Lestrade"
+      ],
+      "span": "Mr. Lestrade"
+    },
+    {
+      "id": "e28",
+      "name": "Enoch J. Drebber",
+      "type": "Person",
+      "aliases": [],
+      "span": "Enoch J. Drebber"
+    },
+    {
+      "id": "e29",
+      "name": "Tobias Gregson",
+      "type": "Person",
+      "aliases": [],
+      "span": "TOBIAS GREGSON"
+    },
+    {
+      "id": "e30",
+      "name": "Lauriston Gardens",
+      "type": "Location",
+      "aliases": [],
+      "span": "Lauriston Gardens"
+    },
+    {
+      "id": "e31",
+      "name": "Brixton Road",
+      "type": "Location",
+      "aliases": [],
+      "span": "Brixton Road"
+    },
+    {
+      "id": "e32",
+      "name": "Cleveland",
+      "type": "Location",
+      "aliases": [],
+      "span": "Cleveland"
+    },
+    {
+      "id": "e33",
+      "name": "Ohio",
+      "type": "Location",
+      "aliases": [],
+      "span": "Ohio"
+    },
+    {
+      "id": "e34",
+      "name": "U.S.A.",
+      "type": "Location",
+      "aliases": [],
+      "span": "U. S. A."
+    },
+    {
+      "id": "e35",
+      "name": "Royal Marine Light Infantry",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Royal Marine Light Infantry"
+    },
+    {
+      "id": "e36",
+      "name": "Scotland Yard",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Scotland Yard"
+    },
+    {
+      "id": "e37",
+      "name": "The Lauriston Gardens Mystery",
+      "type": "Event",
+      "aliases": [],
+      "span": "THE LAURISTON GARDENS MYSTERY"
+    },
+    {
+      "id": "e38",
+      "name": "Number 3, Lauriston Gardens",
+      "type": "Location",
+      "aliases": [],
+      "span": "Number 3, Lauriston Gardens"
+    },
+    {
+      "id": "e39",
+      "name": "Joseph Stangerson",
+      "type": "Person",
+      "aliases": [],
+      "span": "Joseph Stangerson"
+    },
+    {
+      "id": "e40",
+      "name": "American Exchange",
+      "type": "Location",
+      "aliases": [],
+      "span": "American Exchange"
+    },
+    {
+      "id": "e41",
+      "name": "Liverpool",
+      "type": "Location",
+      "aliases": [],
+      "span": "Liverpool"
+    },
+    {
+      "id": "e42",
+      "name": "New York",
+      "type": "Location",
+      "aliases": [],
+      "span": "New York"
+    },
+    {
+      "id": "e43",
+      "name": "Utrecht",
+      "type": "Location",
+      "aliases": [],
+      "span": "Utrecht"
+    },
+    {
+      "id": "e44",
+      "name": "RACHE",
+      "type": "Object",
+      "aliases": [],
+      "span": "RACHE"
+    },
+    {
+      "id": "e45",
+      "name": "John Rance",
+      "type": "Person",
+      "aliases": [],
+      "span": "John Rance"
+    },
+    {
+      "id": "e46",
+      "name": "Audley Court",
+      "type": "Location",
+      "aliases": [],
+      "span": "Audley Court"
+    },
+    {
+      "id": "e47",
+      "name": "Kennington Park Gate",
+      "type": "Location",
+      "aliases": [],
+      "span": "Kennington Park Gate"
+    },
+    {
+      "id": "e48",
+      "name": "Van Jansen",
+      "type": "Person",
+      "aliases": [],
+      "span": "Van Jansen"
+    },
+    {
+      "id": "e49",
+      "name": "Rachel",
+      "type": "Person",
+      "aliases": [],
+      "span": "Rachel"
+    },
+    {
+      "id": "e50",
+      "name": "Germany",
+      "type": "Location",
+      "aliases": [],
+      "span": "German"
+    },
+    {
+      "id": "e51",
+      "name": "Gregson",
+      "type": "Person",
+      "aliases": [
+        "Mr. Gregson"
+      ],
+      "span": "Gregson"
+    },
+    {
+      "id": "e52",
+      "name": "Doctor Watson",
+      "type": "Person",
+      "aliases": [
+        "I",
+        "my",
+        "me"
+      ],
+      "span": "I confess that I was considerably startled by this fresh proof of the practical nature of my companion’s theories."
+    },
+    {
+      "id": "e53",
+      "name": "Harry Murcher",
+      "type": "Person",
+      "aliases": [],
+      "span": "Harry Murcher"
+    },
+    {
+      "id": "e54",
+      "name": "Henrietta Street",
+      "type": "Location",
+      "aliases": [],
+      "span": "Henrietta Street"
+    },
+    {
+      "id": "e55",
+      "name": "White Hart Tavern",
+      "type": "Location",
+      "aliases": [
+        "White Hart"
+      ],
+      "span": "In Brixton Road, this morning,” it ran, “a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "id": "e56",
+      "name": "Holland Grove",
+      "type": "Location",
+      "aliases": [],
+      "span": "In Brixton Road, this morning,” it ran, “a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "id": "e57",
+      "name": "Wedding Ring",
+      "type": "Object",
+      "aliases": [],
+      "span": "a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "id": "e58",
+      "name": "Sally",
+      "type": "Person",
+      "aliases": [],
+      "span": "my girl Sally"
+    },
+    {
+      "id": "e59",
+      "name": "No. 3, Lauriston Gardens",
+      "type": "Location",
+      "aliases": [],
+      "span": "No. 3, Lauriston Gardens"
+    },
+    {
+      "id": "e60",
+      "name": "Duncan Street, Houndsditch",
+      "type": "Location",
+      "aliases": [],
+      "span": "Duncan Street, Houndsditch"
+    },
+    {
+      "id": "e61",
+      "name": "Mayfield Place, Peckham",
+      "type": "Location",
+      "aliases": [],
+      "span": "Mayfield Place, Peckham"
+    },
+    {
+      "id": "e62",
+      "name": "Mrs. Sawyer",
+      "type": "Person",
+      "aliases": [],
+      "span": "Mrs. Sawyer"
+    },
+    {
+      "id": "e63",
+      "name": "Wiggins",
+      "type": "Person",
+      "aliases": [],
+      "span": "Wiggins"
+    },
+    {
+      "id": "e64",
+      "name": "Torquay Terrace",
+      "type": "Location",
+      "aliases": [],
+      "span": "Torquay Terrace"
+    },
+    {
+      "id": "e65",
+      "name": "Camberwell",
+      "type": "Location",
+      "aliases": [],
+      "span": "Camberwell"
+    },
+    {
+      "id": "e66",
+      "name": "Euston Station",
+      "type": "Location",
+      "aliases": [],
+      "span": "Euston Station"
+    },
+    {
+      "id": "e67",
+      "name": "The Daily Telegraph",
+      "type": "Organization",
+      "aliases": [],
+      "span": "The _Daily Telegraph_"
+    },
+    {
+      "id": "e68",
+      "name": "The Standard",
+      "type": "Organization",
+      "aliases": [],
+      "span": "The _Standard_"
+    },
+    {
+      "id": "e69",
+      "name": "The Daily News",
+      "type": "Organization",
+      "aliases": [],
+      "span": "The _Daily News_"
+    },
+    {
+      "id": "e70",
+      "name": "Brixton Mystery",
+      "type": "Event",
+      "aliases": [],
+      "span": "Brixton Mystery"
+    },
+    {
+      "id": "e71",
+      "name": "Arthur Charpentier",
+      "type": "Person",
+      "aliases": [],
+      "span": "Arthur Charpentier"
+    },
+    {
+      "id": "e72",
+      "name": "Madame Charpentier",
+      "type": "Person",
+      "aliases": [],
+      "span": "Madame Charpentier"
+    },
+    {
+      "id": "e73",
+      "name": "Tom Dennis",
+      "type": "Person",
+      "aliases": [],
+      "span": "Tom Dennis"
+    },
+    {
+      "id": "e74",
+      "name": "Houndsditch",
+      "type": "Location",
+      "aliases": [],
+      "span": "Houndsditch"
+    },
+    {
+      "id": "e75",
+      "name": "Peckham",
+      "type": "Location",
+      "aliases": [],
+      "span": "Peckham"
+    },
+    {
+      "id": "e76",
+      "name": "Alice Charpentier",
+      "type": "Person",
+      "aliases": [],
+      "span": "Alice"
+    },
+    {
+      "id": "e77",
+      "name": "Keswick",
+      "type": "Person",
+      "aliases": [],
+      "span": "Keswick"
+    },
+    {
+      "id": "e78",
+      "name": "Duncan Street",
+      "type": "Location",
+      "aliases": [],
+      "span": "Duncan Street"
+    },
+    {
+      "id": "e79",
+      "name": "Mayfield Place",
+      "type": "Location",
+      "aliases": [],
+      "span": "Mayfield Place"
+    },
+    {
+      "id": "e80",
+      "name": "Inspector Lestrade",
+      "type": "Person",
+      "aliases": [
+        "Lestrade"
+      ],
+      "span": "Lestrade"
+    },
+    {
+      "id": "e81",
+      "name": "Little George Street",
+      "type": "Location",
+      "aliases": [],
+      "span": "Little George Street"
+    },
+    {
+      "id": "e82",
+      "name": "Halliday's Private Hotel",
+      "type": "Location",
+      "aliases": [],
+      "span": "Halliday's Private Hotel"
+    },
+    {
+      "id": "e83",
+      "name": "Vehmgericht",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Vehmgericht"
+    },
+    {
+      "id": "e84",
+      "name": "Carbonari",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Carbonari"
+    },
+    {
+      "id": "e85",
+      "name": "J. H.",
+      "type": "Person",
+      "aliases": [],
+      "span": "J. H."
+    },
+    {
+      "id": "e86",
+      "name": "Enoch Drebber",
+      "type": "Person",
+      "aliases": [
+        "Drebber"
+      ],
+      "span": "Enoch Drebber"
+    },
+    {
+      "id": "e87",
+      "name": "Jefferson Hope",
+      "type": "Person",
+      "aliases": [],
+      "span": "Jefferson Hope"
+    },
+    {
+      "id": "e88",
+      "name": "Alice",
+      "type": "Person",
+      "aliases": [],
+      "span": "Alice"
+    },
+    {
+      "id": "e89",
+      "name": "Poisonous Pills",
+      "type": "Object",
+      "aliases": [],
+      "span": "pills"
+    },
+    {
+      "id": "e90",
+      "name": "Solitary Traveller",
+      "type": "Person",
+      "aliases": [],
+      "span": "a solitary traveller"
+    },
+    {
+      "id": "e91",
+      "name": "Sierra Blanco",
+      "type": "Location",
+      "aliases": [],
+      "span": "Sierra Blanco"
+    },
+    {
+      "id": "e92",
+      "name": "Great Alkali Plain",
+      "type": "Location",
+      "aliases": [],
+      "span": "great salt plain"
+    },
+    {
+      "id": "e93",
+      "name": "Mrs. Charpentier",
+      "type": "Person",
+      "aliases": [],
+      "span": "Mrs. Charpentier"
+    },
+    {
+      "id": "e94",
+      "name": "Lieutenant Charpentier",
+      "type": "Person",
+      "aliases": [],
+      "span": "Lieutenant Charpentier"
+    },
+    {
+      "id": "e95",
+      "name": "Pearly Grey Pills",
+      "type": "Object",
+      "aliases": [],
+      "span": "pearly grey colour, small, round, and almost transparent against the light"
+    },
+    {
+      "id": "e96",
+      "name": "Terrier",
+      "type": "Object",
+      "aliases": [
+        "dog"
+      ],
+      "span": "little devil of a terrier"
+    },
+    {
+      "id": "e97",
+      "name": "John Ferrier",
+      "type": "Person",
+      "aliases": [],
+      "span": "John Ferrier"
+    },
+    {
+      "id": "e98",
+      "name": "Lucy Ferrier",
+      "type": "Person",
+      "aliases": [],
+      "span": "Lucy Ferrier"
+    },
+    {
+      "id": "e99",
+      "name": "Brother Stangerson",
+      "type": "Person",
+      "aliases": [],
+      "span": "Brother Stangerson"
+    },
+    {
+      "id": "e100",
+      "name": "Rio Grande",
+      "type": "Location",
+      "aliases": [],
+      "span": "Rio Grande"
+    },
+    {
+      "id": "e101",
+      "name": "Nauvoo",
+      "type": "Location",
+      "aliases": [],
+      "span": "Nauvoo"
+    },
+    {
+      "id": "e102",
+      "name": "Illinois",
+      "type": "Location",
+      "aliases": [],
+      "span": "Illinois"
+    },
+    {
+      "id": "e103",
+      "name": "Palmyra",
+      "type": "Location",
+      "aliases": [],
+      "span": "Palmyra"
+    },
+    {
+      "id": "e104",
+      "name": "Mormons",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Mormons"
+    },
+    {
+      "id": "e105",
+      "name": "Brigham Young",
+      "type": "Person",
+      "aliases": [],
+      "span": "Brigham Young has said it, and he has spoken with the voice of Joseph Smith,"
+    },
+    {
+      "id": "e106",
+      "name": "Joseph Smith",
+      "type": "Person",
+      "aliases": [],
+      "span": "Brigham Young has said it, and he has spoken with the voice of Joseph Smith,"
+    },
+    {
+      "id": "e107",
+      "name": "Utah",
+      "type": "Location",
+      "aliases": [],
+      "span": "the broad valley of Utah bathed in the sunlight beneath them,"
+    },
+    {
+      "id": "e108",
+      "name": "Mississippi",
+      "type": "Location",
+      "aliases": [],
+      "span": "From the shores of the Mississippi to the western slopes of the Rocky Mountains"
+    },
+    {
+      "id": "e109",
+      "name": "Rocky Mountains",
+      "type": "Location",
+      "aliases": [],
+      "span": "From the shores of the Mississippi to the western slopes of the Rocky Mountains"
+    },
+    {
+      "id": "e110",
+      "name": "Pills",
+      "type": "Object",
+      "aliases": [],
+      "span": "box containing a couple of pills."
+    },
+    {
+      "id": "e111",
+      "name": "Elder Stangerson",
+      "type": "Person",
+      "aliases": [],
+      "span": "Elder Stangerson"
+    },
+    {
+      "id": "e112",
+      "name": "Salt Lake City",
+      "type": "Location",
+      "aliases": [],
+      "span": "Salt Lake City"
+    },
+    {
+      "id": "e113",
+      "name": "Wahsatch Mountains",
+      "type": "Location",
+      "aliases": [],
+      "span": "Wahsatch Mountains"
+    },
+    {
+      "id": "e114",
+      "name": "California",
+      "type": "Location",
+      "aliases": [],
+      "span": "California"
+    },
+    {
+      "id": "e115",
+      "name": "Stangerson",
+      "type": "Person",
+      "aliases": [],
+      "span": "Stangerson"
+    },
+    {
+      "id": "e116",
+      "name": "Nevada Mountains",
+      "type": "Location",
+      "aliases": [],
+      "span": "Nevada Mountains"
+    },
+    {
+      "id": "e117",
+      "name": "Overland Route",
+      "type": "Location",
+      "aliases": [],
+      "span": "the Overland Route lay through the City of the Elect."
+    },
+    {
+      "id": "e118",
+      "name": "City of the Elect",
+      "type": "Location",
+      "aliases": [],
+      "span": "the Overland Route lay through the City of the Elect."
+    },
+    {
+      "id": "e119",
+      "name": "Pacific slope",
+      "type": "Location",
+      "aliases": [],
+      "span": "in the whole Pacific slope."
+    },
+    {
+      "id": "e120",
+      "name": "St. Louis",
+      "type": "Location",
+      "aliases": [],
+      "span": "the Jefferson Hopes of St. Louis."
+    },
+    {
+      "id": "e121",
+      "name": "Sierra breezes",
+      "type": "Location",
+      "aliases": [],
+      "span": "as frank and wholesome as the Sierra breezes,"
+    },
+    {
+      "id": "e122",
+      "name": "Drebber",
+      "type": "Person",
+      "aliases": [],
+      "span": "Drebber has a son"
+    },
+    {
+      "id": "e123",
+      "name": "Elder Drebber",
+      "type": "Person",
+      "aliases": [],
+      "span": "Elder Drebber"
+    },
+    {
+      "id": "e124",
+      "name": "Danite Band",
+      "type": "Organization",
+      "aliases": [
+        "Avenging Angels"
+      ],
+      "span": "Danite Band"
+    },
+    {
+      "id": "e125",
+      "name": "Stangerson's son",
+      "type": "Person",
+      "aliases": [],
+      "span": "Stangerson has a son"
+    },
+    {
+      "id": "e126",
+      "name": "Drebber's son",
+      "type": "Person",
+      "aliases": [],
+      "span": "Drebber has a son"
+    },
+    {
+      "id": "e127",
+      "name": "Carson City",
+      "type": "Location",
+      "aliases": [],
+      "span": "Carson City"
+    },
+    {
+      "id": "e128",
+      "name": "Eagle Ravine",
+      "type": "Location",
+      "aliases": [],
+      "span": "Eagle Ravine"
+    },
+    {
+      "id": "e129",
+      "name": "Mormon Prophet",
+      "type": "Person",
+      "aliases": [],
+      "span": "Mormon Prophet"
+    },
+    {
+      "id": "e130",
+      "name": "Council of Four",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Council of Four"
+    },
+    {
+      "id": "e131",
+      "name": "Lucy",
+      "type": "Person",
+      "aliases": [
+        "Lucy Ferrier"
+      ],
+      "span": "Yet her bright and happy face reconciled him to the arrangement"
+    },
+    {
+      "id": "e132",
+      "name": "Nevada",
+      "type": "Location",
+      "aliases": [],
+      "span": "Nevada"
+    },
+    {
+      "id": "e133",
+      "name": "Secret Societies of Italy",
+      "type": "Organization",
+      "aliases": [],
+      "span": "the Secret Societies of Italy"
+    },
+    {
+      "id": "e134",
+      "name": "Inquisition of Seville",
+      "type": "Organization",
+      "aliases": [],
+      "span": "the Inquisition of Seville"
+    },
+    {
+      "id": "e135",
+      "name": "Cowper",
+      "type": "Person",
+      "aliases": [],
+      "span": "Cowper"
+    },
+    {
+      "id": "e136",
+      "name": "Endowment House",
+      "type": "Location",
+      "aliases": [],
+      "span": "Endowment House"
+    },
+    {
+      "id": "e137",
+      "name": "Holy Four",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Holy Four"
+    },
+    {
+      "id": "e138",
+      "name": "John Ferrier's Grave",
+      "type": "Location",
+      "aliases": [],
+      "span": "John Ferrier’s grave"
+    },
+    {
+      "id": "e139",
+      "name": "Europe",
+      "type": "Location",
+      "aliases": [],
+      "span": "Europe"
+    },
+    {
+      "id": "e140",
+      "name": "St. Petersburg",
+      "type": "Location",
+      "aliases": [],
+      "span": "St. Petersburg"
+    },
+    {
+      "id": "e141",
+      "name": "Paris",
+      "type": "Location",
+      "aliases": [],
+      "span": "Paris"
+    },
+    {
+      "id": "e142",
+      "name": "Copenhagen",
+      "type": "Location",
+      "aliases": [],
+      "span": "Copenhagen"
+    },
+    {
+      "id": "e143",
+      "name": "Carson",
+      "type": "Location",
+      "aliases": [],
+      "span": "Carson"
+    },
+    {
+      "id": "e144",
+      "name": "Mormon Church",
+      "type": "Organization",
+      "aliases": [
+        "Chosen People",
+        "Saints"
+      ],
+      "span": "Mormon"
+    },
+    {
+      "id": "e145",
+      "name": "Avenging Angels",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Avenging Angels"
+    },
+    {
+      "id": "e146",
+      "name": "Aortic Aneurysm",
+      "type": "Object",
+      "aliases": [],
+      "span": "aortic aneurism"
+    },
+    {
+      "id": "e147",
+      "name": "Halliday’s Private Hotel",
+      "type": "Location",
+      "aliases": [],
+      "span": "‘Drive me to Halliday’s Private Hotel,’ said he."
+    },
+    {
+      "id": "e148",
+      "name": "Waterloo Bridge",
+      "type": "Location",
+      "aliases": [],
+      "span": "We rattled across Waterloo Bridge and through miles of streets,"
+    },
+    {
+      "id": "e149",
+      "name": "York College",
+      "type": "Organization",
+      "aliases": [],
+      "span": "Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College."
+    },
+    {
+      "id": "e150",
+      "name": "Police Station",
+      "type": "Location",
+      "aliases": [],
+      "span": "“I guess you’re going to take me to the police-station,” he remarked to Sherlock Holmes."
+    },
+    {
+      "id": "e151",
+      "name": "Salt Lake Mountains",
+      "type": "Location",
+      "aliases": [],
+      "span": "Salt Lake Mountains"
+    },
+    {
+      "id": "e152",
+      "name": "The Echo",
+      "type": "Organization",
+      "aliases": [],
+      "span": "The Echo"
+    },
+    {
+      "id": "e153",
+      "name": "Marriage Ring",
+      "type": "Object",
+      "aliases": [],
+      "span": "I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "e1",
+      "relation": "studied_at",
+      "target": "e2",
+      "evidence_span": "I took my degree of Doctor of Medicine of the University of London"
+    },
+    {
+      "source": "e1",
+      "relation": "trained_at",
+      "target": "e3",
+      "evidence_span": "and proceeded to Netley to go through the course prescribed for surgeons in the army"
+    },
+    {
+      "source": "e1",
+      "relation": "member_of",
+      "target": "e4",
+      "evidence_span": "I was duly attached to the Fifth Northumberland Fusiliers as Assistant Surgeon"
+    },
+    {
+      "source": "e4",
+      "relation": "located_in",
+      "target": "e5",
+      "evidence_span": "The regiment was stationed in India at the time"
+    },
+    {
+      "source": "e1",
+      "relation": "arrived_at",
+      "target": "e6",
+      "evidence_span": "On landing at Bombay"
+    },
+    {
+      "source": "e1",
+      "relation": "traveled_to",
+      "target": "e7",
+      "evidence_span": "and succeeded in reaching Candahar in safety"
+    },
+    {
+      "source": "e1",
+      "relation": "member_of",
+      "target": "e8",
+      "evidence_span": "I was removed from my brigade and attached to the Berkshires"
+    },
+    {
+      "source": "e1",
+      "relation": "participated_in",
+      "target": "e9",
+      "evidence_span": "with whom I served at the fatal battle of Maiwand"
+    },
+    {
+      "source": "e1",
+      "relation": "saved_by",
+      "target": "e10",
+      "evidence_span": "had it not been for the devotion and courage shown by Murray, my orderly"
+    },
+    {
+      "source": "e1",
+      "relation": "treated_at",
+      "target": "e11",
+      "evidence_span": "I was removed, with a great train of wounded sufferers, to the base hospital at Peshawar"
+    },
+    {
+      "source": "e1",
+      "relation": "returned_to",
+      "target": "e12",
+      "evidence_span": "I was dispatched, accordingly, in the troopship ‘Orontes,’ and landed a month later on Portsmouth jetty"
+    },
+    {
+      "source": "e1",
+      "relation": "lives_at",
+      "target": "e13",
+      "evidence_span": "I naturally gravitated to London"
+    },
+    {
+      "source": "e1",
+      "relation": "stayed_at",
+      "target": "e14",
+      "evidence_span": "There I stayed for some time at a private hotel in the Strand"
+    },
+    {
+      "source": "e1",
+      "relation": "met",
+      "target": "e15",
+      "evidence_span": "when some one tapped me on the shoulder, and turning round I recognized young Stamford"
+    },
+    {
+      "source": "e15",
+      "relation": "worked_at",
+      "target": "e16",
+      "evidence_span": "who had been a dresser under me at Barts"
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e17",
+      "evidence_span": "You don’t know Sherlock Holmes yet"
+    },
+    {
+      "source": "e1",
+      "relation": "lunches_at",
+      "target": "e18",
+      "evidence_span": "I asked him to lunch with me at the Holborn"
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e19",
+      "evidence_span": "I was standing at the Criterion Bar"
+    },
+    {
+      "source": "e1",
+      "relation": "traveled_to",
+      "target": "e5",
+      "evidence_span": "The regiment was stationed in India at the time"
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e15",
+      "evidence_span": "I recognized young Stamford, who had been a dresser under me at Barts"
+    },
+    {
+      "source": "e15",
+      "relation": "friend_of",
+      "target": "e17",
+      "evidence_span": "You don't know Sherlock Holmes yet"
+    },
+    {
+      "source": "e17",
+      "relation": "worked_at",
+      "target": "e22",
+      "evidence_span": "He is sure to be at the laboratory"
+    },
+    {
+      "source": "e24",
+      "relation": "meets",
+      "target": "e25",
+      "evidence_span": "I recognized young Stamford, who had been a dresser under me at Barts."
+    },
+    {
+      "source": "e24",
+      "relation": "lunches_at",
+      "target": "e27",
+      "evidence_span": "I asked him to lunch with me at the Holborn, and we started off together in a hansom."
+    },
+    {
+      "source": "e24",
+      "relation": "meets",
+      "target": "e23",
+      "evidence_span": "Dr. Watson, Mr. Sherlock Holmes,” said Stamford, introducing us."
+    },
+    {
+      "source": "e25",
+      "relation": "friend_of",
+      "target": "e23",
+      "evidence_span": "You don’t know Sherlock Holmes yet,"
+    },
+    {
+      "source": "e23",
+      "relation": "lives_at",
+      "target": "e26",
+      "evidence_span": "I have my eye on a suite in Baker Street,"
+    },
+    {
+      "source": "e24",
+      "relation": "lives_at",
+      "target": "e26",
+      "evidence_span": "Call for me here at noon to-morrow, and we'll go together and settle everything,"
+    },
+    {
+      "source": "e1",
+      "relation": "traveled_to",
+      "target": "e3",
+      "evidence_span": "I proceeded to Netley to go through the course prescribed for surgeons in the army"
+    },
+    {
+      "source": "e1",
+      "relation": "traveled_to",
+      "target": "e21",
+      "evidence_span": "landed a month later on Portsmouth jetty"
+    },
+    {
+      "source": "e1",
+      "relation": "traveled_to",
+      "target": "e13",
+      "evidence_span": "I naturally gravitated to London"
+    },
+    {
+      "source": "e1",
+      "relation": "traveled_to",
+      "target": "e20",
+      "evidence_span": "I had enough of both in Afghanistan to last me for the remainder of my natural existence"
+    },
+    {
+      "source": "e17",
+      "relation": "works_at",
+      "target": "e22",
+      "evidence_span": "He is sure to be at the laboratory"
+    },
+    {
+      "source": "e1",
+      "relation": "lives_at",
+      "target": "e24",
+      "evidence_span": "inspected the rooms at No. 221B, Baker Street"
+    },
+    {
+      "source": "e17",
+      "relation": "lives_at",
+      "target": "e24",
+      "evidence_span": "I have my eye on a suite in Baker Street"
+    },
+    {
+      "source": "e1",
+      "relation": "lives_with",
+      "target": "e17",
+      "evidence_span": "we at once entered into possession"
+    },
+    {
+      "source": "e17",
+      "relation": "meets",
+      "target": "e25",
+      "evidence_span": "a young girl called, fashionably dressed, and stayed for half an hour or more"
+    },
+    {
+      "source": "e2",
+      "relation": "friend_of",
+      "target": "e3",
+      "evidence_span": "The sight of a friendly face in the great wilderness of London is a pleasant thing indeed to a lonely man."
+    },
+    {
+      "source": "e2",
+      "relation": "meets",
+      "target": "e1",
+      "evidence_span": "Dr. Watson, Mr. Sherlock Holmes,” said Stamford, introducing us."
+    },
+    {
+      "source": "e2",
+      "relation": "lives_with",
+      "target": "e1",
+      "evidence_span": "I think we may consider the thing as settled—that is, if the rooms are agreeable to you."
+    },
+    {
+      "source": "e1",
+      "relation": "lives_at",
+      "target": "e5",
+      "evidence_span": "I have my eye on a suite in Baker Street, which would suit us down to the ground."
+    },
+    {
+      "source": "e2",
+      "relation": "lives_at",
+      "target": "e5",
+      "evidence_span": "I think we may consider the thing as settled—that is, if the rooms are agreeable to you."
+    },
+    {
+      "source": "e3",
+      "relation": "works_at",
+      "target": "e9",
+      "evidence_span": "young Stamford, who had been a dresser under me at Barts."
+    },
+    {
+      "source": "e1",
+      "relation": "works_at",
+      "target": "e11",
+      "evidence_span": "He either avoids the place for weeks, or else he works there from morning to night."
+    },
+    {
+      "source": "e2",
+      "relation": "lives_at",
+      "target": "e13",
+      "evidence_span": "Call for me here at noon to-morrow, and we'll go together and settle everything."
+    },
+    {
+      "source": "e1",
+      "relation": "works_at",
+      "target": "e12",
+      "evidence_span": "He either avoids the place for weeks, or else he works there from morning to night."
+    },
+    {
+      "source": "e2",
+      "relation": "studied_at",
+      "target": "e11",
+      "evidence_span": "In the year 1878 I took my degree of Doctor of Medicine of the University of London."
+    },
+    {
+      "source": "e2",
+      "relation": "worked_at",
+      "target": "e10",
+      "evidence_span": "I recognized young Stamford, who had been a dresser under me at Barts."
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e4",
+      "evidence_span": "Lestrade is a well-known detective. He got himself into a fog recently over a forgery case, and that was what brought him here."
+    },
+    {
+      "source": "e1",
+      "relation": "friend_of",
+      "target": "e2",
+      "evidence_span": "My friend here wants to take diggings"
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e3",
+      "evidence_span": "Dr. Watson, Mr. Sherlock Holmes,” said Stamford, introducing us."
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e17",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens"
+    },
+    {
+      "source": "e3",
+      "relation": "friend_of",
+      "target": "e1",
+      "evidence_span": "This is very piquant. I am much obliged to you for bringing us together."
+    },
+    {
+      "source": "e4",
+      "relation": "works_at",
+      "target": "e16",
+      "evidence_span": "Gregson is the smartest of the Scotland Yarders"
+    },
+    {
+      "source": "e5",
+      "relation": "found_at",
+      "target": "e10",
+      "evidence_span": "discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of ‘Enoch J. Drebber"
+    },
+    {
+      "source": "e6",
+      "relation": "works_at",
+      "target": "e16",
+      "evidence_span": "Gregson is the smartest of the Scotland Yarders"
+    },
+    {
+      "source": "e7",
+      "relation": "lives_at",
+      "target": "e1",
+      "evidence_span": "I have my eye on a suite in Baker Street"
+    },
+    {
+      "source": "e8",
+      "relation": "located_in",
+      "target": "e13",
+      "evidence_span": "As we made our way to the hospital after leaving the Holborn"
+    },
+    {
+      "source": "e9",
+      "relation": "traveled_to",
+      "target": "e2",
+      "evidence_span": "You have been in Afghanistan, I perceive."
+    },
+    {
+      "source": "e10",
+      "relation": "located_in",
+      "target": "e11",
+      "evidence_span": "3, Lauriston Gardens, off the Brixton Road"
+    },
+    {
+      "source": "e12",
+      "relation": "located_in",
+      "target": "e13",
+      "evidence_span": "Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e15",
+      "relation": "member_of",
+      "target": "e15",
+      "evidence_span": "A sergeant, sir, Royal Marine Light Infantry, sir."
+    },
+    {
+      "source": "e38",
+      "relation": "investigates",
+      "target": "e48",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e46",
+      "relation": "investigates",
+      "target": "e48",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e47",
+      "relation": "investigates",
+      "target": "e48",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e42",
+      "relation": "found_at",
+      "target": "e49",
+      "evidence_span": "discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of ‘Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e49",
+      "relation": "located_in",
+      "target": "e41",
+      "evidence_span": "Number 3, Lauriston Gardens wore an ill-omened and minatory look."
+    },
+    {
+      "source": "e39",
+      "relation": "investigates",
+      "target": "e49",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e40",
+      "relation": "investigates",
+      "target": "e49",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e41",
+      "relation": "investigates",
+      "target": "e49",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e42",
+      "relation": "found_at",
+      "target": "e48",
+      "evidence_span": "discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of ‘Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e48",
+      "relation": "located_in",
+      "target": "e47",
+      "evidence_span": "3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e47",
+      "relation": "located_in",
+      "target": "e46",
+      "evidence_span": "Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e39",
+      "relation": "investigates",
+      "target": "e56",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e41",
+      "relation": "found_at",
+      "target": "e50",
+      "evidence_span": "discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of ‘Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e42",
+      "relation": "mentioned",
+      "target": "e56",
+      "evidence_span": "Pocket edition of Boccaccio’s _Decameron_, with name of Joseph Stangerson upon the fly-leaf."
+    },
+    {
+      "source": "e43",
+      "relation": "investigates",
+      "target": "e56",
+      "evidence_span": "My colleague, Mr. Lestrade, is here. I had relied upon him to look after this."
+    },
+    {
+      "source": "e44",
+      "relation": "investigates",
+      "target": "e56",
+      "evidence_span": "Lestrade, lean and ferret-like as ever, was standing by the doorway, and greeted my companion and myself."
+    },
+    {
+      "source": "e41",
+      "relation": "lives_at",
+      "target": "e45",
+      "evidence_span": "Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e41",
+      "relation": "mentions",
+      "target": "e42",
+      "evidence_span": "Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson."
+    },
+    {
+      "source": "e42",
+      "relation": "located_in",
+      "target": "e51",
+      "evidence_span": "American Exchange, Strand—to be left till called for."
+    },
+    {
+      "source": "e41",
+      "relation": "travels_to",
+      "target": "e54",
+      "evidence_span": "It is clear that this unfortunate man was about to return to New York."
+    },
+    {
+      "source": "e39",
+      "relation": "compares_to",
+      "target": "e55",
+      "evidence_span": "It reminds me of the circumstances attendant on the death of Van Jansen, in Utrecht, in the year ‘34."
+    },
+    {
+      "source": "e44",
+      "relation": "discovers",
+      "target": "e57",
+      "evidence_span": "Mr. Gregson, I have just made a discovery of the highest importance, and one which would have been overlooked had I not made a careful examination of the walls."
+    },
+    {
+      "source": "e45",
+      "relation": "investigates",
+      "target": "e49",
+      "evidence_span": "Sherlock Holmes led me to the nearest telegraph office, whence he dispatched a long telegram."
+    },
+    {
+      "source": "e45",
+      "relation": "meets",
+      "target": "e46",
+      "evidence_span": "Holmes took a note of the address. 'Come along, Doctor,' he said; 'we shall go and look him up.'"
+    },
+    {
+      "source": "e46",
+      "relation": "found_at",
+      "target": "e49",
+      "evidence_span": "Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss."
+    },
+    {
+      "source": "e49",
+      "relation": "located_in",
+      "target": "e50",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road."
+    },
+    {
+      "source": "e49",
+      "relation": "originates_from",
+      "target": "e51",
+      "evidence_span": "Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e54",
+      "relation": "mentions",
+      "target": "e55",
+      "evidence_span": "Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson. At what address? American Exchange, Strand—to be left till called for."
+    },
+    {
+      "source": "e59",
+      "relation": "located_in",
+      "target": "e60",
+      "evidence_span": "It reminds me of the circumstances attendant on the death of Van Jansen, in Utrecht, in the year ‘34."
+    },
+    {
+      "source": "e61",
+      "relation": "works_with",
+      "target": "e62",
+      "evidence_span": "My colleague, Mr. Lestrade, is here. I had relied upon him to look after this."
+    },
+    {
+      "source": "e63",
+      "relation": "translates_to",
+      "target": "e64",
+      "evidence_span": "‘Rache,’ is the German for ‘revenge;’ so don’t lose your time looking for Miss Rachel."
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e22",
+      "evidence_span": "There has been a bad business during the night at 3, Lauriston Gardens"
+    },
+    {
+      "source": "e4",
+      "relation": "found_at",
+      "target": "e23",
+      "evidence_span": "discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of ‘Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e5",
+      "relation": "mentioned",
+      "target": "e22",
+      "evidence_span": "Pocket edition of Boccaccio’s _Decameron_, with name of Joseph Stangerson upon the fly-leaf."
+    },
+    {
+      "source": "e6",
+      "relation": "works_at",
+      "target": "e21",
+      "evidence_span": "Gregson is the smartest of the Scotland Yarders"
+    },
+    {
+      "source": "e7",
+      "relation": "works_at",
+      "target": "e21",
+      "evidence_span": "he and Lestrade are the pick of a bad lot."
+    },
+    {
+      "source": "e8",
+      "relation": "found_at",
+      "target": "e9",
+      "evidence_span": "You will find him at 46, Audley Court, Kennington Park Gate."
+    },
+    {
+      "source": "e23",
+      "relation": "located_in",
+      "target": "e3",
+      "evidence_span": "Number 3, Lauriston Gardens wore an ill-omened and minatory look."
+    },
+    {
+      "source": "e52",
+      "relation": "investigates",
+      "target": "e73",
+      "evidence_span": "Sherlock Holmes led me to the nearest telegraph office, whence he dispatched a long telegram."
+    },
+    {
+      "source": "e52",
+      "relation": "meets",
+      "target": "e54",
+      "evidence_span": "We thought that we should like to hear it all from your own lips."
+    },
+    {
+      "source": "e54",
+      "relation": "found_at",
+      "target": "e68",
+      "evidence_span": "I went into the room where the light was a-burnin’."
+    },
+    {
+      "source": "e58",
+      "relation": "found_at",
+      "target": "e68",
+      "evidence_span": "discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of ‘Enoch J. Drebber, Cleveland, Ohio, U. S. A."
+    },
+    {
+      "source": "e52",
+      "relation": "discovers",
+      "target": "e72",
+      "evidence_span": "It was not done by a German. The A, if you noticed, was printed somewhat after the German fashion."
+    },
+    {
+      "source": "e57",
+      "relation": "discovers",
+      "target": "e72",
+      "evidence_span": "Mr. Gregson, I have just made a discovery of the highest importance, and one which would have been overlooked had I not made a careful examination of the walls."
+    },
+    {
+      "source": "e55",
+      "relation": "investigates",
+      "target": "e60",
+      "evidence_span": "Every time that I closed my eyes I saw before me the distorted baboon-like countenance of the murdered man."
+    },
+    {
+      "source": "e55",
+      "relation": "meets",
+      "target": "e56",
+      "evidence_span": "We were shown into a little front parlour to await his coming. He appeared presently, looking a little irritable at being disturbed in his slumbers."
+    },
+    {
+      "source": "e56",
+      "relation": "works_with",
+      "target": "e57",
+      "evidence_span": "I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin’."
+    },
+    {
+      "source": "e55",
+      "relation": "works_with",
+      "target": "e58",
+      "evidence_span": "Mr. Gregson or Mr. Lestrade will answer for that."
+    },
+    {
+      "source": "e55",
+      "relation": "works_with",
+      "target": "e59",
+      "evidence_span": "Mr. Gregson or Mr. Lestrade will answer for that."
+    },
+    {
+      "source": "e60",
+      "relation": "originates_from",
+      "target": "e61",
+      "evidence_span": "Enoch J. Drebber, of Cleveland"
+    },
+    {
+      "source": "e56",
+      "relation": "patrols",
+      "target": "e62",
+      "evidence_span": "It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me."
+    },
+    {
+      "source": "e55",
+      "relation": "investigates",
+      "target": "e63",
+      "evidence_span": "Number 3, Lauriston Gardens wore an ill-omened and minatory look."
+    },
+    {
+      "source": "e56",
+      "relation": "patrols",
+      "target": "e64",
+      "evidence_span": "a-talkin’. Presently—maybe about two or a little after—I thought I would take a look round and see that all was right down the Brixton Road."
+    },
+    {
+      "source": "e55",
+      "relation": "visits",
+      "target": "e65",
+      "evidence_span": "That’s Audley Court in there,” he said, pointing to a narrow slit in the line of dead-coloured brick."
+    },
+    {
+      "source": "e56",
+      "relation": "lives_at",
+      "target": "e66",
+      "evidence_span": "John Rance,” he said. “He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate."
+    },
+    {
+      "source": "e55",
+      "relation": "lives_at",
+      "target": "e67",
+      "evidence_span": "Apply Dr. Watson, 221B, Baker Street, between eight and nine this evening."
+    },
+    {
+      "source": "e70",
+      "relation": "found_at",
+      "target": "e68",
+      "evidence_span": "In Brixton Road, this morning,” it ran, “a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e70",
+      "relation": "found_at",
+      "target": "e69",
+      "evidence_span": "In Brixton Road, this morning,” it ran, “a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e58",
+      "relation": "investigates",
+      "target": "e75",
+      "evidence_span": "Sherlock Holmes approached the body, and, kneeling down, examined it intently."
+    },
+    {
+      "source": "e58",
+      "relation": "meets",
+      "target": "e60",
+      "evidence_span": "Holmes took a note of the address. 'Come along, Doctor,' he said; 'we shall go and look him up.'"
+    },
+    {
+      "source": "e58",
+      "relation": "mentions",
+      "target": "e62",
+      "evidence_span": "It reminds me of the circumstances attendant on the death of Van Jansen, in Utrecht, in the year ‘34."
+    },
+    {
+      "source": "e59",
+      "relation": "mentions",
+      "target": "e62",
+      "evidence_span": "If ever human features bespoke vice of the most malignant type, they were certainly those of Enoch J. Drebber, of Cleveland."
+    },
+    {
+      "source": "e60",
+      "relation": "mentions",
+      "target": "e61",
+      "evidence_span": "That brought Murcher and two more to the spot."
+    },
+    {
+      "source": "e64",
+      "relation": "investigates",
+      "target": "e75",
+      "evidence_span": "Gregson had a stretcher and four men at hand."
+    },
+    {
+      "source": "e65",
+      "relation": "investigates",
+      "target": "e75",
+      "evidence_span": "Lestrade, lean and ferret-like as ever, was standing by the doorway, and greeted my companion and myself."
+    },
+    {
+      "source": "e66",
+      "relation": "found_at",
+      "target": "e74",
+      "evidence_span": "It belongs to my girl Sally, as was married only this time twelvemonth."
+    },
+    {
+      "source": "e74",
+      "relation": "found_at",
+      "target": "e70",
+      "evidence_span": "In Brixton Road, this morning,” it ran, “a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e3",
+      "evidence_span": "Sherlock Holmes led me to the nearest telegraph office, whence he dispatched a long telegram. He then hailed a cab, and ordered the driver to take us to the address given us by Lestrade."
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e5",
+      "evidence_span": "Lestrade glanced at his note-book. ‘John Rance,’ he said. ‘He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate.’"
+    },
+    {
+      "source": "e1",
+      "relation": "discovers",
+      "target": "e23",
+      "evidence_span": "‘Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish."
+    },
+    {
+      "source": "e2",
+      "relation": "friend_of",
+      "target": "e1",
+      "evidence_span": "I passed my hand over my brow. ‘My head is in a whirl,’ I remarked; ‘the more one thinks of it the more mysterious it grows."
+    },
+    {
+      "source": "e5",
+      "relation": "found_at",
+      "target": "e6",
+      "evidence_span": "Lestrade glanced at his note-book. ‘John Rance,’ he said. ‘He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate.’"
+    },
+    {
+      "source": "e8",
+      "relation": "patrols",
+      "target": "e9",
+      "evidence_span": "At one o’clock it began to rain, and I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin’."
+    },
+    {
+      "source": "e13",
+      "relation": "found_at",
+      "target": "e10",
+      "evidence_span": "In Brixton Road, this morning,” it ran, “a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e14",
+      "relation": "lives_at",
+      "target": "e16",
+      "evidence_span": "Sally lives in lodgings at 3, Mayfield Place, Peckham."
+    },
+    {
+      "source": "e17",
+      "relation": "parent_of",
+      "target": "e14",
+      "evidence_span": "It belongs to my girl Sally, as was married only this time twelvemonth, which her husband is steward aboard a Union boat,"
+    },
+    {
+      "source": "e18",
+      "relation": "investigates",
+      "target": "e3",
+      "evidence_span": "‘Have you made any inquiries as to this man, Stangerson? ’ ‘I did it at once, sir,’ said Gregson."
+    },
+    {
+      "source": "e19",
+      "relation": "discovers",
+      "target": "e23",
+      "evidence_span": "‘This was overlooked because it was in the darkest corner of the room, and no one thought of looking there."
+    },
+    {
+      "source": "e20",
+      "relation": "mentions",
+      "target": "e21",
+      "evidence_span": "Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson. ” “At what address? ” “American Exchange, Strand—to be left till called for."
+    },
+    {
+      "source": "e23",
+      "relation": "translates_to",
+      "target": "e24",
+      "evidence_span": "‘Rache,’ is the German for ‘revenge;’ so don’t lose your time looking for Miss Rachel."
+    },
+    {
+      "source": "e63",
+      "relation": "investigates",
+      "target": "e87",
+      "evidence_span": "Sherlock Holmes and I read these notices over together at breakfast"
+    },
+    {
+      "source": "e64",
+      "relation": "investigates",
+      "target": "e87",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case"
+    },
+    {
+      "source": "e65",
+      "relation": "investigates",
+      "target": "e87",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case"
+    },
+    {
+      "source": "e67",
+      "relation": "patrols",
+      "target": "e78",
+      "evidence_span": "him who has the Holland Grove beat"
+    },
+    {
+      "source": "e68",
+      "relation": "resides_at",
+      "target": "e79",
+      "evidence_span": "He had stayed at the boarding-house of Madame Charpentier, in Torquay Terrace, Camberwell"
+    },
+    {
+      "source": "e69",
+      "relation": "travels_with",
+      "target": "e68",
+      "evidence_span": "He was accompanied in his travels by his private secretary, Mr. Joseph Stangerson"
+    },
+    {
+      "source": "e68",
+      "relation": "found_at",
+      "target": "e72",
+      "evidence_span": "Mr. Drebber’s body was, as recorded, discovered in an empty house in the Brixton Road"
+    },
+    {
+      "source": "e69",
+      "relation": "last_seen_at",
+      "target": "e81",
+      "evidence_span": "They were afterwards seen together upon the platform"
+    },
+    {
+      "source": "e70",
+      "relation": "works_with",
+      "target": "e63",
+      "evidence_span": "‘Tention! ” cried Holmes, in a sharp tone, and the six dirty little scoundrels stood in a line like so many disreputable statuettes"
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e33",
+      "evidence_span": "I’ll follow her, he said, hurriedly; she must be an accomplice, and will lead me to him."
+    },
+    {
+      "source": "e3",
+      "relation": "found_at",
+      "target": "e17",
+      "evidence_span": "Mr. Drebber’s body was, as recorded, discovered in an empty house in the Brixton Road, many miles from Euston."
+    },
+    {
+      "source": "e4",
+      "relation": "partner_of",
+      "target": "e3",
+      "evidence_span": "He was accompanied in his travels by his private secretary, Mr. Joseph Stangerson."
+    },
+    {
+      "source": "e5",
+      "relation": "investigates",
+      "target": "e33",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case."
+    },
+    {
+      "source": "e6",
+      "relation": "investigates",
+      "target": "e33",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case."
+    },
+    {
+      "source": "e7",
+      "relation": "mentions",
+      "target": "e3",
+      "evidence_span": "I made my report at the office."
+    },
+    {
+      "source": "e8",
+      "relation": "meets",
+      "target": "e7",
+      "evidence_span": "I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin’."
+    },
+    {
+      "source": "e9",
+      "relation": "sibling_of",
+      "target": "e10",
+      "evidence_span": "You have murdered your brother."
+    },
+    {
+      "source": "e11",
+      "relation": "parent_of",
+      "target": "e13",
+      "evidence_span": "It belongs to my girl Sally."
+    },
+    {
+      "source": "e12",
+      "relation": "spouse_of",
+      "target": "e11",
+      "evidence_span": "as was married only this time twelvemonth, which her husband is steward aboard a Union boat."
+    },
+    {
+      "source": "e14",
+      "relation": "works_with",
+      "target": "e1",
+      "evidence_span": "‘Tention! cried Holmes, in a sharp tone, and the six dirty little scoundrels stood in a line like so many disreputable statuettes."
+    },
+    {
+      "source": "e15",
+      "relation": "located_in",
+      "target": "e16",
+      "evidence_span": "a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e17",
+      "relation": "located_in",
+      "target": "e16",
+      "evidence_span": "a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e18",
+      "relation": "originates_from",
+      "target": "e3",
+      "evidence_span": "Enoch J. Drebber, of Cleveland."
+    },
+    {
+      "source": "e19",
+      "relation": "located_in",
+      "target": "e20",
+      "evidence_span": "Torquay Terrace, Camberwell."
+    },
+    {
+      "source": "e20",
+      "relation": "located_in",
+      "target": "e19",
+      "evidence_span": "Torquay Terrace, Camberwell."
+    },
+    {
+      "source": "e21",
+      "relation": "located_in",
+      "target": "e22",
+      "evidence_span": "the Liverpool express."
+    },
+    {
+      "source": "e23",
+      "relation": "located_in",
+      "target": "e24",
+      "evidence_span": "Sally lives in lodgings at 3, Mayfield Place, Peckham."
+    },
+    {
+      "source": "e24",
+      "relation": "located_in",
+      "target": "e23",
+      "evidence_span": "Sally lives in lodgings at 3, Mayfield Place, Peckham."
+    },
+    {
+      "source": "e25",
+      "relation": "located_in",
+      "target": "e16",
+      "evidence_span": "That’s Audley Court in there."
+    },
+    {
+      "source": "e26",
+      "relation": "located_in",
+      "target": "e16",
+      "evidence_span": "a strollin’ down, thinkin’ between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house."
+    },
+    {
+      "source": "e27",
+      "relation": "located_in",
+      "target": "e16",
+      "evidence_span": "a strollin’ down, thinkin’ between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house."
+    },
+    {
+      "source": "e28",
+      "relation": "located_in",
+      "target": "e16",
+      "evidence_span": "a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e29",
+      "relation": "works_at",
+      "target": "e5",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case."
+    },
+    {
+      "source": "e29",
+      "relation": "works_at",
+      "target": "e6",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case."
+    },
+    {
+      "source": "e30",
+      "relation": "mentions",
+      "target": "e33",
+      "evidence_span": "The Daily Telegraph remarked that in the history of crime there had seldom been a tragedy which presented stranger features."
+    },
+    {
+      "source": "e31",
+      "relation": "mentions",
+      "target": "e33",
+      "evidence_span": "The Standard commented upon the fact that lawless outrages of the sort usually occurred under a Liberal Administration."
+    },
+    {
+      "source": "e32",
+      "relation": "mentions",
+      "target": "e33",
+      "evidence_span": "The Daily News observed that there was no doubt as to the crime being a political one."
+    },
+    {
+      "source": "e34",
+      "relation": "found_at",
+      "target": "e17",
+      "evidence_span": "Why should the second man write up the German word RACHE before decamping?"
+    },
+    {
+      "source": "e35",
+      "relation": "found_at",
+      "target": "e16",
+      "evidence_span": "a plain gold wedding ring, found in the roadway between the ‘White Hart’ Tavern and Holland Grove."
+    },
+    {
+      "source": "e1",
+      "relation": "interviews",
+      "target": "e2",
+      "evidence_span": "I’ll tell it ye from the beginning,” he said."
+    },
+    {
+      "source": "e1",
+      "relation": "interviews",
+      "target": "e3",
+      "evidence_span": "Let us hear how you arrived at this most gratifying result."
+    },
+    {
+      "source": "e2",
+      "relation": "works_with",
+      "target": "e10",
+      "evidence_span": "That brought Murcher and two more to the spot."
+    },
+    {
+      "source": "e3",
+      "relation": "investigates",
+      "target": "e5",
+      "evidence_span": "I have made the whole thing as clear as day."
+    },
+    {
+      "source": "e5",
+      "relation": "stayed_at",
+      "target": "e21",
+      "evidence_span": "He had sent the hat to a Mr. Drebber, residing at Charpentier’s Boarding Establishment, Torquay Terrace."
+    },
+    {
+      "source": "e5",
+      "relation": "accompanied_by",
+      "target": "e6",
+      "evidence_span": "He and his secretary, Mr. Stangerson, had been travelling on the Continent."
+    },
+    {
+      "source": "e7",
+      "relation": "sibling_of",
+      "target": "e9",
+      "evidence_span": "You have murdered your brother."
+    },
+    {
+      "source": "e7",
+      "relation": "child_of",
+      "target": "e8",
+      "evidence_span": "My son is on leave just now."
+    },
+    {
+      "source": "e8",
+      "relation": "owns",
+      "target": "e21",
+      "evidence_span": "Charpentier’s Boarding Establishment, Torquay Terrace."
+    },
+    {
+      "source": "e1",
+      "relation": "employs",
+      "target": "e11",
+      "evidence_span": "In future you shall send up Wiggins alone to report."
+    },
+    {
+      "source": "e1",
+      "relation": "lives_at",
+      "target": "e14",
+      "evidence_span": "Apply Dr. Watson, 221B, Baker Street"
+    },
+    {
+      "source": "e2",
+      "relation": "lives_at",
+      "target": "e14",
+      "evidence_span": "Apply Dr. Watson, 221B, Baker Street"
+    },
+    {
+      "source": "e3",
+      "relation": "investigates",
+      "target": "e28",
+      "evidence_span": "I have made the whole thing as clear as day"
+    },
+    {
+      "source": "e4",
+      "relation": "investigates",
+      "target": "e28",
+      "evidence_span": "I seem to have dropped into a sort of council of war"
+    },
+    {
+      "source": "e5",
+      "relation": "found_at",
+      "target": "e15",
+      "evidence_span": "Drebber had been found in the Brixton Road"
+    },
+    {
+      "source": "e6",
+      "relation": "found_at",
+      "target": "e19",
+      "evidence_span": "seen together at Euston Station"
+    },
+    {
+      "source": "e7",
+      "relation": "kills",
+      "target": "e5",
+      "evidence_span": "I suppose you are arresting me for being concerned in the death of that scoundrel Drebber"
+    },
+    {
+      "source": "e8",
+      "relation": "mentions",
+      "target": "e5",
+      "evidence_span": "Have you heard of the mysterious death of your late boarder Mr. Enoch J. Drebber"
+    },
+    {
+      "source": "e10",
+      "relation": "works_with",
+      "target": "e1",
+      "evidence_span": "‘Tention! ” cried Holmes, in a sharp tone"
+    },
+    {
+      "source": "e11",
+      "relation": "found_at",
+      "target": "e22",
+      "evidence_span": "13, Duncan Street, Houndsditch"
+    },
+    {
+      "source": "e13",
+      "relation": "lives_at",
+      "target": "e22",
+      "evidence_span": "the house belonged to a respectable paperhanger, named Keswick"
+    },
+    {
+      "source": "e27",
+      "relation": "found_at",
+      "target": "e15",
+      "evidence_span": "a plain gold wedding ring, found in the roadway"
+    },
+    {
+      "source": "e81",
+      "relation": "investigates",
+      "target": "e114",
+      "evidence_span": "Sherlock Holmes and I read these notices over together at breakfast"
+    },
+    {
+      "source": "e81",
+      "relation": "investigates",
+      "target": "e115",
+      "evidence_span": "Sherlock Holmes and I read these notices over together at breakfast"
+    },
+    {
+      "source": "e83",
+      "relation": "killed_by",
+      "target": "e87",
+      "evidence_span": "He then turned to Alice, and before my very face, proposed to her that she should fly with him."
+    },
+    {
+      "source": "e84",
+      "relation": "killed_by",
+      "target": "e112",
+      "evidence_span": "The word RACHE, written in letters of blood"
+    },
+    {
+      "source": "e87",
+      "relation": "sibling_of",
+      "target": "e86",
+      "evidence_span": "You have murdered your brother."
+    },
+    {
+      "source": "e87",
+      "relation": "kills",
+      "target": "e83",
+      "evidence_span": "He still carried the heavy stick which the mother described him as having with him when he followed Drebber."
+    },
+    {
+      "source": "e88",
+      "relation": "investigates",
+      "target": "e114",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case"
+    },
+    {
+      "source": "e89",
+      "relation": "investigates",
+      "target": "e114",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case"
+    },
+    {
+      "source": "e91",
+      "relation": "parent_of",
+      "target": "e90",
+      "evidence_span": "It belongs to my girl Sally"
+    },
+    {
+      "source": "e92",
+      "relation": "spouse_of",
+      "target": "e90",
+      "evidence_span": "which her husband is steward aboard a Union boat"
+    },
+    {
+      "source": "e86",
+      "relation": "lives_at",
+      "target": "e84",
+      "evidence_span": "My name is Sawyer—her’s is Dennis, which Tom Dennis married her—and a smart, clean lad, too, as long as he’s at sea, and no steward in the company more thought of; but when on shore, what with the women and what with liquor shops——”"
+    },
+    {
+      "source": "e83",
+      "relation": "lives_at",
+      "target": "e85",
+      "evidence_span": "Sally lives in lodgings at 3, Mayfield Place, Peckham."
+    },
+    {
+      "source": "e88",
+      "relation": "lives_at",
+      "target": "e84",
+      "evidence_span": "On inquiring at Number 13 we found that the house belonged to a respectable paperhanger, named Keswick, and that no one of the name either of Sawyer or Dennis had ever been heard of there."
+    },
+    {
+      "source": "e17",
+      "relation": "investigates",
+      "target": "e89",
+      "evidence_span": "Is it on this Brixton case that you are employing them?"
+    },
+    {
+      "source": "e29",
+      "relation": "investigates",
+      "target": "e89",
+      "evidence_span": "I have made the whole thing as clear as day."
+    },
+    {
+      "source": "e36",
+      "relation": "investigates",
+      "target": "e89",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case, and it is confidently anticipated that these well-known officers will speedily throw light upon the matter."
+    },
+    {
+      "source": "e90",
+      "relation": "mentions",
+      "target": "e93",
+      "evidence_span": "After alluding airily to the Vehmgericht, aqua tofana, Carbonari, the Marchioness de Brinvilliers, the Darwinian theory, the principles of Malthus, and the Ratcliff Highway murders, the article concluded by admonishing the Government and advocating a closer watch over foreigners in England."
+    },
+    {
+      "source": "e90",
+      "relation": "mentions",
+      "target": "e94",
+      "evidence_span": "After alluding airily to the Vehmgericht, aqua tofana, Carbonari, the Marchioness de Brinvilliers, the Darwinian theory, the principles of Malthus, and the Ratcliff Highway murders, the article concluded by admonishing the Government and advocating a closer watch over foreigners in England."
+    },
+    {
+      "source": "e39",
+      "relation": "found_at",
+      "target": "e95",
+      "evidence_span": "He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson."
+    },
+    {
+      "source": "e95",
+      "relation": "located_in",
+      "target": "e96",
+      "evidence_span": "Halliday’s Private Hotel, in Little George Street."
+    },
+    {
+      "source": "e38",
+      "relation": "located_in",
+      "target": "e30",
+      "evidence_span": "an empty house in the Brixton Road"
+    },
+    {
+      "source": "e39",
+      "relation": "stayed_at",
+      "target": "e97",
+      "evidence_span": "Stangerson was a quiet reserved man, but his employer, I am sorry to say, was far otherwise."
+    },
+    {
+      "source": "e97",
+      "relation": "located_in",
+      "target": "e98",
+      "evidence_span": "Torquay Terrace, Camberwell."
+    },
+    {
+      "source": "e39",
+      "relation": "traveled_to",
+      "target": "e99",
+      "evidence_span": "They were afterwards seen together upon the platform."
+    },
+    {
+      "source": "e39",
+      "relation": "traveled_to",
+      "target": "e100",
+      "evidence_span": "He was to catch the first."
+    },
+    {
+      "source": "e103",
+      "relation": "travels_to",
+      "target": "e5",
+      "evidence_span": "J. H. is in Europe."
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e21",
+      "evidence_span": "Sherlock Holmes and I read these notices over together at breakfast"
+    },
+    {
+      "source": "e3",
+      "relation": "investigates",
+      "target": "e21",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case"
+    },
+    {
+      "source": "e4",
+      "relation": "investigates",
+      "target": "e21",
+      "evidence_span": "Mr. Lestrade and Mr. Gregson, of Scotland Yard, are both engaged upon the case"
+    },
+    {
+      "source": "e11",
+      "relation": "kills",
+      "target": "e5",
+      "evidence_span": "let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber"
+    },
+    {
+      "source": "e11",
+      "relation": "kills",
+      "target": "e6",
+      "evidence_span": "let me introduce you to Mr. Jefferson Hope, the murderer of... Joseph Stangerson"
+    },
+    {
+      "source": "e5",
+      "relation": "found_at",
+      "target": "e12",
+      "evidence_span": "Drebber had been found in the Brixton Road"
+    },
+    {
+      "source": "e6",
+      "relation": "found_at",
+      "target": "e14",
+      "evidence_span": "Joseph Stangerson was murdered at Halliday’s Private Hotel"
+    },
+    {
+      "source": "e5",
+      "relation": "mentions",
+      "target": "e22",
+      "evidence_span": "the writing on the wall"
+    },
+    {
+      "source": "e6",
+      "relation": "mentions",
+      "target": "e22",
+      "evidence_span": "The word RACHE, written in letters of blood"
+    },
+    {
+      "source": "e1",
+      "relation": "mentions",
+      "target": "e23",
+      "evidence_span": "After alluding airily to the Vehmgericht"
+    },
+    {
+      "source": "e1",
+      "relation": "mentions",
+      "target": "e24",
+      "evidence_span": "After alluding airily to... Carbonari"
+    },
+    {
+      "source": "e88",
+      "relation": "investigates",
+      "target": "e93",
+      "evidence_span": "Holmes remarked. “The mere sight of an official-looking person seals men’s lips."
+    },
+    {
+      "source": "e88",
+      "relation": "investigates",
+      "target": "e92",
+      "evidence_span": "Holmes observed. “Would you mind letting us know what you have seen and done?"
+    },
+    {
+      "source": "e89",
+      "relation": "investigates",
+      "target": "e91",
+      "evidence_span": "I have made the whole thing as clear as day."
+    },
+    {
+      "source": "e90",
+      "relation": "investigates",
+      "target": "e92",
+      "evidence_span": "Lestrade went after his man, Stangerson"
+    },
+    {
+      "source": "e91",
+      "relation": "kills",
+      "target": "e93",
+      "evidence_span": "Arthur would rather that we spoke the truth"
+    },
+    {
+      "source": "e96",
+      "relation": "kills",
+      "target": "e93",
+      "evidence_span": "the murderer of Enoch Drebber"
+    },
+    {
+      "source": "e96",
+      "relation": "kills",
+      "target": "e92",
+      "evidence_span": "the murderer of Joseph Stangerson"
+    },
+    {
+      "source": "e93",
+      "relation": "found_at",
+      "target": "e97",
+      "evidence_span": "Drebber had been found in the Brixton Road"
+    },
+    {
+      "source": "e92",
+      "relation": "found_at",
+      "target": "e100",
+      "evidence_span": "Stangerson was murdered at Halliday’s Private Hotel"
+    },
+    {
+      "source": "e102",
+      "relation": "found_at",
+      "target": "e100",
+      "evidence_span": "The word RACHE, written in letters of blood"
+    },
+    {
+      "source": "e103",
+      "relation": "discovers",
+      "target": "e92",
+      "evidence_span": "the pills which I suspected in the case of Drebber are actually found after the death of Stangerson"
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e4",
+      "evidence_span": "the murderer of Joseph Stangerson"
+    },
+    {
+      "source": "e2",
+      "relation": "kills",
+      "target": "e3",
+      "evidence_span": "the murderer of Enoch Drebber"
+    },
+    {
+      "source": "e2",
+      "relation": "kills",
+      "target": "e4",
+      "evidence_span": "the murderer of Joseph Stangerson"
+    },
+    {
+      "source": "e5",
+      "relation": "parent_of",
+      "target": "e6",
+      "evidence_span": "her daughter withdrew"
+    },
+    {
+      "source": "e5",
+      "relation": "parent_of",
+      "target": "e7",
+      "evidence_span": "my son Arthur"
+    },
+    {
+      "source": "e6",
+      "relation": "sibling_of",
+      "target": "e7",
+      "evidence_span": "You have murdered your brother"
+    },
+    {
+      "source": "e7",
+      "relation": "sibling_of",
+      "target": "e6",
+      "evidence_span": "passionately fond of his sister"
+    },
+    {
+      "source": "e8",
+      "relation": "investigates",
+      "target": "e3",
+      "evidence_span": "Gregson’s view of the matter"
+    },
+    {
+      "source": "e9",
+      "relation": "investigates",
+      "target": "e4",
+      "evidence_span": "Lestrade went after his man, Stangerson"
+    },
+    {
+      "source": "e4",
+      "relation": "found_at",
+      "target": "e11",
+      "evidence_span": "Halliday’s Private Hotel"
+    },
+    {
+      "source": "e11",
+      "relation": "located_in",
+      "target": "e12",
+      "evidence_span": "Little George Street"
+    },
+    {
+      "source": "e3",
+      "relation": "found_at",
+      "target": "e13",
+      "evidence_span": "Brixton Road"
+    },
+    {
+      "source": "e4",
+      "relation": "meets",
+      "target": "e3",
+      "evidence_span": "Drebber parted from Stangerson at the station"
+    },
+    {
+      "source": "e15",
+      "relation": "found_at",
+      "target": "e4",
+      "evidence_span": "above the murdered man"
+    },
+    {
+      "source": "e16",
+      "relation": "discovers",
+      "target": "e4",
+      "evidence_span": "after the death of Stangerson"
+    },
+    {
+      "source": "e18",
+      "relation": "located_in",
+      "target": "e19",
+      "evidence_span": "Looking down from the Sierra Blanco"
+    },
+    {
+      "source": "e18",
+      "relation": "located_in",
+      "target": "e20",
+      "evidence_span": "the great salt plain stretched before his eyes"
+    },
+    {
+      "source": "e3",
+      "relation": "killed_by",
+      "target": "e4",
+      "evidence_span": "I arrested him... he answered us as bold as brass, ‘I suppose you are arresting me for being concerned in the death of that scoundrel Drebber,"
+    },
+    {
+      "source": "e8",
+      "relation": "kills",
+      "target": "e4",
+      "evidence_span": "let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber"
+    },
+    {
+      "source": "e8",
+      "relation": "kills",
+      "target": "e5",
+      "evidence_span": "let me introduce you to Mr. Jefferson Hope, the murderer... of Joseph Stangerson"
+    },
+    {
+      "source": "e5",
+      "relation": "found_at",
+      "target": "e9",
+      "evidence_span": "Joseph Stangerson,” said Lestrade gravely, “was murdered at Halliday’s Private Hotel"
+    },
+    {
+      "source": "e9",
+      "relation": "located_in",
+      "target": "e10",
+      "evidence_span": "Halliday’s Private Hotel, in Little George Street"
+    },
+    {
+      "source": "e4",
+      "relation": "found_at",
+      "target": "e12",
+      "evidence_span": "At two in the morning Drebber had been found in the Brixton Road"
+    },
+    {
+      "source": "e1",
+      "relation": "discovers",
+      "target": "e13",
+      "evidence_span": "The word RACHE, written in letters of blood,” he said"
+    },
+    {
+      "source": "e5",
+      "relation": "possesses",
+      "target": "e14",
+      "evidence_span": "on the window-sill a small chip ointment box containing a couple of pills"
+    },
+    {
+      "source": "e14",
+      "relation": "kills",
+      "target": "e15",
+      "evidence_span": "One of these pills in that box one was of the most deadly poison"
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e20",
+      "evidence_span": "Sherlock Holmes sprang from his chair with an exclamation of delight. 'The last link,' he cried, exultantly. 'My case is complete.'"
+    },
+    {
+      "source": "e1",
+      "relation": "kills",
+      "target": "e6",
+      "evidence_span": "let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
+    },
+    {
+      "source": "e4",
+      "relation": "killed_by",
+      "target": "e6",
+      "evidence_span": "let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
+    },
+    {
+      "source": "e5",
+      "relation": "killed_by",
+      "target": "e6",
+      "evidence_span": "let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
+    },
+    {
+      "source": "e7",
+      "relation": "rescues",
+      "target": "e8",
+      "evidence_span": "me and that little un are all that's left o' twenty-one people. The rest is all dead o' thirst and hunger away down in the south."
+    },
+    {
+      "source": "e17",
+      "relation": "rescues",
+      "target": "e7",
+      "evidence_span": "We are the Mormons... We have come to seek a refuge from the violent man and from the godless, even though it be the heart of the desert."
+    },
+    {
+      "source": "e17",
+      "relation": "rescues",
+      "target": "e8",
+      "evidence_span": "We are the Mormons... We have come to seek a refuge from the violent man and from the godless, even though it be the heart of the desert."
+    },
+    {
+      "source": "e6",
+      "relation": "kills",
+      "target": "e7",
+      "evidence_span": "Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
+    },
+    {
+      "source": "e6",
+      "relation": "kills",
+      "target": "e8",
+      "evidence_span": "Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson."
+    },
+    {
+      "source": "e9",
+      "relation": "parent_of",
+      "target": "e10",
+      "evidence_span": "me and that little un are all that’s left o’ twenty-one people. The rest is all dead o’ thirst and hunger away down in the south."
+    },
+    {
+      "source": "e11",
+      "relation": "leader_of",
+      "target": "e21",
+      "evidence_span": "Brigham Young has said it, and he has spoken with the voice of Joseph Smith, which is the voice of God."
+    },
+    {
+      "source": "e12",
+      "relation": "founder_of",
+      "target": "e21",
+      "evidence_span": "We are of those who believe in those sacred writings, drawn in Egyptian letters on plates of beaten gold, which were handed unto the holy Joseph Smith at Palmyra."
+    },
+    {
+      "source": "e13",
+      "relation": "member_of",
+      "target": "e21",
+      "evidence_span": "“Shall I go forward and see, Brother Stangerson,” asked one of the band."
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e5",
+      "evidence_span": "the murderer of Enoch Drebber and of Joseph Stangerson"
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e6",
+      "evidence_span": "the murderer of Enoch Drebber and of Joseph Stangerson"
+    },
+    {
+      "source": "e4",
+      "relation": "kills",
+      "target": "e5",
+      "evidence_span": "the murderer of Enoch Drebber and of Joseph Stangerson"
+    },
+    {
+      "source": "e4",
+      "relation": "kills",
+      "target": "e6",
+      "evidence_span": "the murderer of Enoch Drebber and of Joseph Stangerson"
+    },
+    {
+      "source": "e7",
+      "relation": "parent_of",
+      "target": "e8",
+      "evidence_span": "the little girl who had shared his fortunes and had been adopted as his daughter"
+    },
+    {
+      "source": "e9",
+      "relation": "member_of",
+      "target": "e12",
+      "evidence_span": "Elder Stangerson"
+    },
+    {
+      "source": "e10",
+      "relation": "leader_of",
+      "target": "e12",
+      "evidence_span": "Brigham Young has said it, and he has spoken with the voice of Joseph Smith"
+    },
+    {
+      "source": "e11",
+      "relation": "founder_of",
+      "target": "e12",
+      "evidence_span": "the holy Joseph Smith at Palmyra"
+    },
+    {
+      "source": "e12",
+      "relation": "located_in",
+      "target": "e14",
+      "evidence_span": "We have come from Nauvoo, in the State of Illinois"
+    },
+    {
+      "source": "e12",
+      "relation": "travels_to",
+      "target": "e15",
+      "evidence_span": "On, on to Zion!"
+    },
+    {
+      "source": "e7",
+      "relation": "travels_to",
+      "target": "e15",
+      "evidence_span": "accompanied the Mormons to the end of their great pilgrimage"
+    },
+    {
+      "source": "e8",
+      "relation": "travels_to",
+      "target": "e15",
+      "evidence_span": "accompanied the Mormons to the end of their great pilgrimage"
+    },
+    {
+      "source": "e7",
+      "relation": "lives_at",
+      "target": "e16",
+      "evidence_span": "it was unanimously agreed that he should be provided with as large and as fertile a tract of land as any of the settlers"
+    },
+    {
+      "source": "e8",
+      "relation": "lives_at",
+      "target": "e16",
+      "evidence_span": "it was unanimously agreed that he should be provided with as large and as fertile a tract of land as any of the settlers"
+    },
+    {
+      "source": "e16",
+      "relation": "located_in",
+      "target": "e15",
+      "evidence_span": "in the whole of Salt Lake City"
+    },
+    {
+      "source": "e17",
+      "relation": "located_in",
+      "target": "e15",
+      "evidence_span": "from the great inland sea to the distant Wahsatch Mountains"
+    },
+    {
+      "source": "e18",
+      "relation": "located_in",
+      "target": "e15",
+      "evidence_span": "the northern slope of the Sierra Blanco"
+    },
+    {
+      "source": "e19",
+      "relation": "located_in",
+      "target": "e15",
+      "evidence_span": "To the right of the Sierra Blanco—so we shall reach the Rio Grande"
+    },
+    {
+      "source": "e20",
+      "relation": "located_in",
+      "target": "e15",
+      "evidence_span": "the gold fever had broken out in California, and the Overland Route lay through the City of the Elect"
+    },
+    {
+      "source": "e1",
+      "relation": "kills",
+      "target": "e2",
+      "evidence_span": "the murderer of Enoch Drebber"
+    },
+    {
+      "source": "e1",
+      "relation": "kills",
+      "target": "e3",
+      "evidence_span": "the murderer of... Joseph Stangerson"
+    },
+    {
+      "source": "e4",
+      "relation": "investigates",
+      "target": "e1",
+      "evidence_span": "Sherlock Holmes sprang to his feet again. ‘Gentlemen,’ he cried, with flashing eyes, ‘let me introduce you to Mr. Jefferson Hope, the murderer"
+    },
+    {
+      "source": "e5",
+      "relation": "works_at",
+      "target": "e20",
+      "evidence_span": "Gregson, Lestrade... sprang upon him like so many staghounds. He was dragged back into the room... ‘We have his cab,’ said Sherlock Holmes. ‘It will serve to take him to Scotland Yard."
+    },
+    {
+      "source": "e6",
+      "relation": "works_at",
+      "target": "e20",
+      "evidence_span": "Gregson, Lestrade... sprang upon him like so many staghounds. He was dragged back into the room... ‘We have his cab,’ said Sherlock Holmes. ‘It will serve to take him to Scotland Yard."
+    },
+    {
+      "source": "e8",
+      "relation": "child_of",
+      "target": "e7",
+      "evidence_span": "me and that little un are all that’s left o’ twenty-one people. The rest is all dead o’ thirst and hunger away down in the south... ‘Is she your child? ’ asked someone. ‘I guess she is now,’ the other cried, defiantly; ‘she’s mine ‘cause I saved her."
+    },
+    {
+      "source": "e9",
+      "relation": "leader_of",
+      "target": "e12",
+      "evidence_span": "We are the Mormons... We have come from Nauvoo, in the State of Illinois, where we had founded our temple. We have come to seek a refuge from the violent man and from the godless, even though it be the heart of the desert."
+    },
+    {
+      "source": "e10",
+      "relation": "founder_of",
+      "target": "e12",
+      "evidence_span": "We are the Mormons... We have come from Nauvoo, in the State of Illinois, where we had founded our temple."
+    },
+    {
+      "source": "e11",
+      "relation": "member_of",
+      "target": "e12",
+      "evidence_span": "We are the Mormons... We have come from Nauvoo, in the State of Illinois, where we had founded our temple."
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e8",
+      "evidence_span": "The sight of the fair young girl, as frank and wholesome as the Sierra breezes, had stirred his volcanic, untamed heart to its very depths."
+    },
+    {
+      "source": "e1",
+      "relation": "visits",
+      "target": "e7",
+      "evidence_span": "He called on John Ferrier that night, and many times again, until his face was a familiar one at the farm-house."
+    },
+    {
+      "source": "e1",
+      "relation": "adopted_daughter_of",
+      "target": "e2",
+      "evidence_span": "accompanied the Mormons to the end of their great pilgrimage. Little Lucy Ferrier was borne along pleasantly enough in Elder Stangerson’s waggon, a retreat which she shared with the Mormon’s three wives and with his son, a headstrong forward boy of twelve."
+    },
+    {
+      "source": "e1",
+      "relation": "lives_in",
+      "target": "e8",
+      "evidence_span": "From the great inland sea to the distant Wahsatch Mountains there was no name better known than that of John Ferrier."
+    },
+    {
+      "source": "e2",
+      "relation": "lives_in",
+      "target": "e8",
+      "evidence_span": "So the bud blossomed into a flower, and the year which saw her father the richest of the farmers left her as fair a specimen of American girlhood as could be found in the whole Pacific slope."
+    },
+    {
+      "source": "e3",
+      "relation": "in_love_with",
+      "target": "e2",
+      "evidence_span": "The sight of the fair young girl, as frank and wholesome as the Sierra breezes, had stirred his volcanic, untamed heart to its very depths."
+    },
+    {
+      "source": "e4",
+      "relation": "led_by",
+      "target": "e5",
+      "evidence_span": "The hand of God is leading us under the person of our Prophet."
+    },
+    {
+      "source": "e5",
+      "relation": "inspired_by",
+      "target": "e6",
+      "evidence_span": "Brigham Young has said it, and he has spoken with the voice of Joseph Smith, which is the voice of God."
+    },
+    {
+      "source": "e1",
+      "relation": "opposed_to",
+      "target": "e4",
+      "evidence_span": "He had always determined, deep down in his resolute heart, that nothing would ever induce him to allow his daughter to wed a Mormon."
+    },
+    {
+      "source": "e1",
+      "relation": "parent_of",
+      "target": "e2",
+      "evidence_span": "his adopted child"
+    },
+    {
+      "source": "e2",
+      "relation": "located_in",
+      "target": "e6",
+      "evidence_span": "She has grown to be the flower of Utah"
+    },
+    {
+      "source": "e4",
+      "relation": "leader_of",
+      "target": "e5",
+      "evidence_span": "the great Brigham Young himself"
+    },
+    {
+      "source": "e7",
+      "relation": "member_of",
+      "target": "e5",
+      "evidence_span": "Stangerson has a son, and Drebber has a son, and either of them would gladly welcome your daughter to their house"
+    },
+    {
+      "source": "e8",
+      "relation": "member_of",
+      "target": "e5",
+      "evidence_span": "Stangerson has a son, and Drebber has a son, and either of them would gladly welcome your daughter to their house"
+    },
+    {
+      "source": "e1",
+      "relation": "threatened_by",
+      "target": "e4",
+      "evidence_span": "It were better for you, John Ferrier, that you and she were now lying blanched skeletons upon the Sierra Blanco, than that you should put your weak wills against the orders of the Holy Four!"
+    },
+    {
+      "source": "e3",
+      "relation": "travels_to",
+      "target": "e6",
+      "evidence_span": "a party starting for Nevada to-morrow"
+    },
+    {
+      "source": "e4",
+      "relation": "leader_of",
+      "target": "e7",
+      "evidence_span": "the great Brigham Young himself"
+    },
+    {
+      "source": "e8",
+      "relation": "parent_of",
+      "target": "e11",
+      "evidence_span": "Stangerson has a son"
+    },
+    {
+      "source": "e9",
+      "relation": "parent_of",
+      "target": "e12",
+      "evidence_span": "Drebber has a son"
+    },
+    {
+      "source": "e4",
+      "relation": "threatened_by",
+      "target": "e1",
+      "evidence_span": "It were better for you, John Ferrier, that you and she were now lying blanched skeletons upon the Sierra Blanco"
+    },
+    {
+      "source": "e1",
+      "relation": "in_love_with",
+      "target": "e3",
+      "evidence_span": "the young man’s return, and of the impending loss of his adopted child"
+    },
+    {
+      "source": "e2",
+      "relation": "in_love_with",
+      "target": "e3",
+      "evidence_span": "her young heart was no longer her own"
+    },
+    {
+      "source": "e4",
+      "relation": "leader_of",
+      "target": "e9",
+      "evidence_span": "the great Brigham Young himself"
+    },
+    {
+      "source": "e1",
+      "relation": "threatened_by",
+      "target": "e9",
+      "evidence_span": "Such a marriage he regarded as no marriage at all, but as a shame and a disgrace"
+    },
+    {
+      "source": "e1",
+      "relation": "plans_to_leave",
+      "target": "e12",
+      "evidence_span": "it will be time to look out for squalls when we do. We have a clear month before us; at the end of that, I guess we had best shin out of Utah"
+    },
+    {
+      "source": "e5",
+      "relation": "son_of",
+      "target": "e6",
+      "evidence_span": "the son of Elder Drebber"
+    },
+    {
+      "source": "e13",
+      "relation": "interested_in",
+      "target": "e2",
+      "evidence_span": "Stangerson has a son, and Drebber has a son, and either of them would gladly welcome your daughter to their house"
+    },
+    {
+      "source": "e14",
+      "relation": "interested_in",
+      "target": "e2",
+      "evidence_span": "Stangerson has a son, and Drebber has a son, and either of them would gladly welcome your daughter to their house"
+    },
+    {
+      "source": "e1",
+      "relation": "friend_of",
+      "target": "e3",
+      "evidence_span": "Jefferson Hope packed all the eatables that he could find into a small parcel, and filled a stoneware jar with water"
+    },
+    {
+      "source": "e3",
+      "relation": "rescues",
+      "target": "e2",
+      "evidence_span": "It's Lucy that brings me here, and before harm comes on her I guess there will be one less o' the Hope family in Utah."
+    },
+    {
+      "source": "e4",
+      "relation": "leader_of",
+      "target": "e18",
+      "evidence_span": "Brigham Young"
+    },
+    {
+      "source": "e1",
+      "relation": "plans_to_leave",
+      "target": "e9",
+      "evidence_span": "We have a clear month before us; at the end of that, I guess we had best shin out of Utah."
+    },
+    {
+      "source": "e1",
+      "relation": "lives_in",
+      "target": "e7",
+      "evidence_span": "John Ferrier went in to Salt Lake City"
+    },
+    {
+      "source": "e3",
+      "relation": "travels_to",
+      "target": "e15",
+      "evidence_span": "We must push for Carson City through the mountains."
+    },
+    {
+      "source": "e1",
+      "relation": "opponent_of",
+      "target": "e14",
+      "evidence_span": "nothing would ever induce him to allow his daughter to wed a Mormon"
+    },
+    {
+      "source": "e4",
+      "relation": "leader_of",
+      "target": "e14",
+      "evidence_span": "the Mormon chief"
+    },
+    {
+      "source": "e5",
+      "relation": "founder_of",
+      "target": "e14",
+      "evidence_span": "the sainted Joseph Smith"
+    },
+    {
+      "source": "e6",
+      "relation": "member_of",
+      "target": "e14",
+      "evidence_span": "Brother Stangerson"
+    },
+    {
+      "source": "e7",
+      "relation": "member_of",
+      "target": "e14",
+      "evidence_span": "Brother Drebber"
+    },
+    {
+      "source": "e15",
+      "relation": "enemy_of",
+      "target": "e1",
+      "evidence_span": "the Danite Band, or the Avenging Angels, is a sinister and an ill-omened one"
+    },
+    {
+      "source": "e16",
+      "relation": "leader_of",
+      "target": "e14",
+      "evidence_span": "the Sacred Council of Four"
+    },
+    {
+      "source": "e1",
+      "relation": "plans_to_leave",
+      "target": "e8",
+      "evidence_span": "We have a clear month before us; at the end of that, I guess we had best shin out of Utah"
+    },
+    {
+      "source": "e3",
+      "relation": "rescues",
+      "target": "e1",
+      "evidence_span": "a devoted ally"
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e12",
+      "evidence_span": "We must push for Carson City through the mountains"
+    },
+    {
+      "source": "e3",
+      "relation": "meets_at",
+      "target": "e13",
+      "evidence_span": "a mule and two horses waiting in the Eagle Ravine"
+    },
+    {
+      "source": "e1",
+      "relation": "rescues",
+      "target": "e2",
+      "evidence_span": "Jefferson Hope packed all the eatables that he could find into a small parcel, and filled a stoneware jar with water"
+    },
+    {
+      "source": "e1",
+      "relation": "rescues",
+      "target": "e3",
+      "evidence_span": "He had hardly completed his arrangements before the farmer returned with his daughter all dressed and ready for a start."
+    },
+    {
+      "source": "e2",
+      "relation": "father_of",
+      "target": "e3",
+      "evidence_span": "She was at the doorway, and came down to meet him."
+    },
+    {
+      "source": "e2",
+      "relation": "lives_in",
+      "target": "e4",
+      "evidence_span": "On the morning which followed his interview with the Mormon Prophet, John Ferrier went in to Salt Lake City"
+    },
+    {
+      "source": "e1",
+      "relation": "plans_to_leave",
+      "target": "e5",
+      "evidence_span": "We must push for Carson City through the mountains."
+    },
+    {
+      "source": "e6",
+      "relation": "led_by",
+      "target": "e7",
+      "evidence_span": "the great Brigham Young himself."
+    },
+    {
+      "source": "e8",
+      "relation": "member_of",
+      "target": "e6",
+      "evidence_span": "Joseph Stangerson, who travelled with you in the desert when the Lord stretched out His hand and gathered you into the true fold."
+    },
+    {
+      "source": "e9",
+      "relation": "member_of",
+      "target": "e6",
+      "evidence_span": "the son of Elder Drebber"
+    },
+    {
+      "source": "e1",
+      "relation": "hides_at",
+      "target": "e10",
+      "evidence_span": "I have a mule and two horses waiting in the Eagle Ravine."
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e11",
+      "evidence_span": "Once safe in Carson we may rest for the remainder of our lives."
+    },
+    {
+      "source": "e6",
+      "relation": "has_division",
+      "target": "e12",
+      "evidence_span": "To this day, in the lonely ranches of the West, the name of the Danite Band, or the Avenging Angels, is a sinister and an ill-omened one."
+    },
+    {
+      "source": "e2",
+      "relation": "meets",
+      "target": "e3",
+      "evidence_span": "saw a stout, sandy-haired, middle-aged man coming up the pathway. His heart leapt to his mouth, for this was none other than the great Brigham Young himself"
+    },
+    {
+      "source": "e2",
+      "relation": "plans_to_leave",
+      "target": "e8",
+      "evidence_span": "it will be time to look out for squalls when we do. We have a clear month before us; at the end of that, I guess we had best shin out of Utah"
+    },
+    {
+      "source": "e2",
+      "relation": "father_of",
+      "target": "e4",
+      "evidence_span": "He had his daughter to attend to his wants"
+    },
+    {
+      "source": "e5",
+      "relation": "rescues",
+      "target": "e2",
+      "evidence_span": "Jefferson Hope packed all the eatables that he could find into a small parcel"
+    },
+    {
+      "source": "e5",
+      "relation": "rescues",
+      "target": "e4",
+      "evidence_span": "Jefferson Hope packed all the eatables that he could find into a small parcel"
+    },
+    {
+      "source": "e2",
+      "relation": "travels_to",
+      "target": "e9",
+      "evidence_span": "We must push for Carson City through the mountains"
+    },
+    {
+      "source": "e5",
+      "relation": "travels_to",
+      "target": "e9",
+      "evidence_span": "We must push for Carson City through the mountains"
+    },
+    {
+      "source": "e4",
+      "relation": "travels_to",
+      "target": "e9",
+      "evidence_span": "We must push for Carson City through the mountains"
+    },
+    {
+      "source": "e11",
+      "relation": "son_of",
+      "target": "e14",
+      "evidence_span": "Stangerson has a son"
+    },
+    {
+      "source": "e12",
+      "relation": "son_of",
+      "target": "e14",
+      "evidence_span": "Drebber has a son"
+    },
+    {
+      "source": "e3",
+      "relation": "threatened_by",
+      "target": "e2",
+      "evidence_span": "It were better for you, John Ferrier, that you and she were now lying blanched skeletons upon the Sierra Blanco"
+    },
+    {
+      "source": "e2",
+      "relation": "plans_to_leave",
+      "target": "e5",
+      "evidence_span": "We must push for Carson City through the mountains."
+    },
+    {
+      "source": "e3",
+      "relation": "spouse_of",
+      "target": "e10",
+      "evidence_span": "She was married yesterday to young Drebber."
+    },
+    {
+      "source": "e8",
+      "relation": "leader_of",
+      "target": "e12",
+      "evidence_span": "There is a warrant against you from the Holy Four for assisting the Ferriers away."
+    },
+    {
+      "source": "e10",
+      "relation": "member_of",
+      "target": "e12",
+      "evidence_span": "When they argued it out in council, Drebber's party was the stronger, so the Prophet gave her over to him."
+    },
+    {
+      "source": "e1",
+      "relation": "kills",
+      "target": "e4",
+      "evidence_span": "He returned to his miserable lodgings with his plan of vengeance all arranged. It chanced, however, that Drebber, looking from his window, had recognized the vagrant in the street, and had read murder in his eyes."
+    },
+    {
+      "source": "e3",
+      "relation": "partner_of",
+      "target": "e1",
+      "evidence_span": "The greeting between the lovers was warm, but brief, for minutes were precious, and there was much to be done."
+    },
+    {
+      "source": "e3",
+      "relation": "forced_to_marry",
+      "target": "e4",
+      "evidence_span": "She was married yesterday to young Drebber."
+    },
+    {
+      "source": "e4",
+      "relation": "enemy_of",
+      "target": "e1",
+      "evidence_span": "He returned to his miserable lodgings with his plan of vengeance all arranged."
+    },
+    {
+      "source": "e5",
+      "relation": "enemy_of",
+      "target": "e1",
+      "evidence_span": "He returned to his miserable lodgings with his plan of vengeance all arranged."
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e6",
+      "evidence_span": "He therefore accosted him when he got up to him, with the object of finding out what Lucy Ferrier’s fate had been."
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e7",
+      "evidence_span": "We must push for Carson City through the mountains."
+    },
+    {
+      "source": "e1",
+      "relation": "originates_from",
+      "target": "e9",
+      "evidence_span": "a Washoe hunter"
+    },
+    {
+      "source": "e1",
+      "relation": "discovers",
+      "target": "e11",
+      "evidence_span": "It was but a glance of a face in a window, but that one glance told him that Cleveland in Ohio possessed the men whom he was in pursuit of."
+    },
+    {
+      "source": "e2",
+      "relation": "opposes",
+      "target": "e13",
+      "evidence_span": "In the whole history of the settlement there had never been such a case of rank disobedience to the authority of the Elders."
+    },
+    {
+      "source": "e13",
+      "relation": "has_division",
+      "target": "e14",
+      "evidence_span": "You have defied the Prophet and the Council of Four."
+    },
+    {
+      "source": "e13",
+      "relation": "has_division",
+      "target": "e15",
+      "evidence_span": "There is a warrant against you from the Holy Four for assisting the Ferriers away."
+    },
+    {
+      "source": "e1",
+      "relation": "visits",
+      "target": "e16",
+      "evidence_span": "Stooping over her, he pressed his lips reverently to her cold forehead, and then, snatching up her hand, he took the wedding-ring from her finger."
+    },
+    {
+      "source": "e4",
+      "relation": "married_at",
+      "target": "e17",
+      "evidence_span": "that’s what those flags are for on the Endowment House."
+    },
+    {
+      "source": "e1",
+      "relation": "pursues",
+      "target": "e8",
+      "evidence_span": "pursuit of his enemies"
+    },
+    {
+      "source": "e1",
+      "relation": "pursues",
+      "target": "e9",
+      "evidence_span": "pursuit of his enemies"
+    },
+    {
+      "source": "e3",
+      "relation": "forced_to_marry",
+      "target": "e8",
+      "evidence_span": "married yesterday to young Drebber"
+    },
+    {
+      "source": "e8",
+      "relation": "kills",
+      "target": "e2",
+      "evidence_span": "Stangerson had shot her father"
+    },
+    {
+      "source": "e1",
+      "relation": "arrested_by",
+      "target": "e17",
+      "evidence_span": "going to take me to the police-station"
+    },
+    {
+      "source": "e1",
+      "relation": "interrogated_by",
+      "target": "e18",
+      "evidence_span": "I’ve got a good deal to say"
+    },
+    {
+      "source": "e1",
+      "relation": "kills",
+      "target": "e5",
+      "evidence_span": "They have perished, and by my hand."
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e7",
+      "evidence_span": "I guess you're going to take me to the police-station."
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e9",
+      "evidence_span": "Gregson and Lestrade exchanged glances as if they thought this proposition rather a bold one;"
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e10",
+      "evidence_span": "Gregson and Lestrade exchanged glances as if they thought this proposition rather a bold one;"
+    },
+    {
+      "source": "e3",
+      "relation": "married_at",
+      "target": "e11",
+      "evidence_span": "She was married yesterday to young Drebber."
+    },
+    {
+      "source": "e4",
+      "relation": "lives_at",
+      "target": "e21",
+      "evidence_span": "They were at a boarding-house at Camberwell, over on the other side of the river."
+    },
+    {
+      "source": "e5",
+      "relation": "lives_at",
+      "target": "e21",
+      "evidence_span": "They were at a boarding-house at Camberwell, over on the other side of the river."
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e14",
+      "evidence_span": "When I got to London my pocket was about empty, and I found that I must turn my hand to something for my living."
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e16",
+      "evidence_span": "I departed for Europe, and tracked my enemies from city to city,"
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e17",
+      "evidence_span": "When he reached St. Petersburg they had departed for Paris;"
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e18",
+      "evidence_span": "When he followed them there he learned that they had just set off for Copenhagen."
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e19",
+      "evidence_span": "At the Danish capital he was again a few days late, for they had journeyed on to London,"
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e20",
+      "evidence_span": "At the Danish capital he was again a few days late, for they had journeyed on to London,"
+    },
+    {
+      "source": "e2",
+      "relation": "parent_of",
+      "target": "e3",
+      "evidence_span": "a father and a daughter"
+    },
+    {
+      "source": "e3",
+      "relation": "in_love_with",
+      "target": "e1",
+      "evidence_span": "That girl that I spoke of was to have married me twenty years ago."
+    },
+    {
+      "source": "e4",
+      "relation": "partner_of",
+      "target": "e5",
+      "evidence_span": "Drebber and Stangerson"
+    },
+    {
+      "source": "e4",
+      "relation": "lives_at",
+      "target": "e17",
+      "evidence_span": "They were at a boarding-house at Camberwell, over on the other side of the river."
+    },
+    {
+      "source": "e5",
+      "relation": "lives_at",
+      "target": "e17",
+      "evidence_span": "They were at a boarding-house at Camberwell, over on the other side of the river."
+    },
+    {
+      "source": "e5",
+      "relation": "works_for",
+      "target": "e4",
+      "evidence_span": "nothing more than his paid servant"
+    },
+    {
+      "source": "e1",
+      "relation": "meets",
+      "target": "e2",
+      "evidence_span": "“I guess you’re going to take me to the police-station,” he remarked to Sherlock Holmes."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e11",
+      "evidence_span": "By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption. How to get Drebber to that house was the difficult problem which I had now to solve."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e12",
+      "evidence_span": "They were at a boarding-house at Camberwell, over on the other side of the river."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e13",
+      "evidence_span": "At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e14",
+      "evidence_span": "‘Drive me to Halliday’s Private Hotel,’ said he."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e15",
+      "evidence_span": "A little way on one side of the camp was a low-lying heap of reddish soil, which had assuredly not been there before. There was no mistaking it for anything but a newly-dug grave. As the young hunter approached it, he perceived that a stick had been planted on it, with a sheet of paper stuck in the cleft fork of it. The inscription upon the paper was brief, but to the point: JOHN FERRIER, FORMERLY OF SALT LAKE CITY, Died August 4th, 1860."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e16",
+      "evidence_span": "“You dog! ’ I said; ‘I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e17",
+      "evidence_span": "one evening I was driving up and down Torquay Terrace, as the street was called in which they boarded,"
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e18",
+      "evidence_span": "We rattled across Waterloo Bridge and through miles of streets,"
+    },
+    {
+      "source": "e1",
+      "relation": "worked_at",
+      "target": "e19",
+      "evidence_span": "Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College."
+    },
+    {
+      "source": "e1",
+      "relation": "found_at",
+      "target": "e20",
+      "evidence_span": "“I guess you’re going to take me to the police-station,” he remarked to Sherlock Holmes."
+    },
+    {
+      "source": "e4",
+      "relation": "found_at",
+      "target": "e15",
+      "evidence_span": "That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it."
+    },
+    {
+      "source": "e1",
+      "relation": "pursues",
+      "target": "e4",
+      "evidence_span": "I have carried it about with me, and have followed him and his accomplice over two continents until I caught them."
+    },
+    {
+      "source": "e1",
+      "relation": "pursues",
+      "target": "e5",
+      "evidence_span": "I have carried it about with me, and have followed him and his accomplice over two continents until I caught them."
+    },
+    {
+      "source": "e3",
+      "relation": "married_at",
+      "target": "e4",
+      "evidence_span": "She was married yesterday to young Drebber."
+    },
+    {
+      "source": "e4",
+      "relation": "lives_at",
+      "target": "e10",
+      "evidence_span": "They were at a boarding-house at Camberwell"
+    },
+    {
+      "source": "e5",
+      "relation": "lives_at",
+      "target": "e10",
+      "evidence_span": "They were at a boarding-house at Camberwell"
+    },
+    {
+      "source": "e4",
+      "relation": "meets_at",
+      "target": "e12",
+      "evidence_span": "At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform."
+    },
+    {
+      "source": "e5",
+      "relation": "meets_at",
+      "target": "e12",
+      "evidence_span": "At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform."
+    },
+    {
+      "source": "e5",
+      "relation": "stayed_at",
+      "target": "e14",
+      "evidence_span": "I knew that he was staying at Halliday’s Private Hotel"
+    },
+    {
+      "source": "e17",
+      "relation": "works_with",
+      "target": "e19",
+      "evidence_span": "Gregson and Lestrade exchanged glances as if they thought this proposition rather a bold one"
+    },
+    {
+      "source": "e17",
+      "relation": "works_with",
+      "target": "e20",
+      "evidence_span": "Gregson and Lestrade exchanged glances as if they thought this proposition rather a bold one"
+    },
+    {
+      "source": "e18",
+      "relation": "friend_of",
+      "target": "e17",
+      "evidence_span": "my fellow-lodger"
+    },
+    {
+      "source": "e1",
+      "relation": "kills",
+      "target": "e7",
+      "evidence_span": "There is nothing left for me to hope for, or to desire. They have perished, and by my hand."
+    },
+    {
+      "source": "e1",
+      "relation": "pursues",
+      "target": "e6",
+      "evidence_span": "I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me."
+    },
+    {
+      "source": "e1",
+      "relation": "pursues",
+      "target": "e7",
+      "evidence_span": "I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me."
+    },
+    {
+      "source": "e1",
+      "relation": "meets_at",
+      "target": "e22",
+      "evidence_span": "I guess you’re going to take me to the police-station,” he remarked to Sherlock Holmes."
+    },
+    {
+      "source": "e1",
+      "relation": "possesses",
+      "target": "e23",
+      "evidence_span": "Why,” I cried, “you have an aortic aneurism!"
+    },
+    {
+      "source": "e1",
+      "relation": "possesses",
+      "target": "e24",
+      "evidence_span": "I helped myself to a little of it. I was a fairly good dispenser, so I worked this alkaloid into small, soluble pills, and each pill I put in a box with a similar pill made without the poison."
+    },
+    {
+      "source": "e1",
+      "relation": "possesses",
+      "target": "e25",
+      "evidence_span": "I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished."
+    },
+    {
+      "source": "e2",
+      "relation": "interrogated_by",
+      "target": "e1",
+      "evidence_span": "“I guess you’re going to take me to the police-station,” he remarked to Sherlock Holmes."
+    },
+    {
+      "source": "e6",
+      "relation": "killed_by",
+      "target": "e1",
+      "evidence_span": "There is nothing left for me to hope for, or to desire. They have perished, and by my hand."
+    },
+    {
+      "source": "e7",
+      "relation": "killed_by",
+      "target": "e1",
+      "evidence_span": "There is nothing left for me to hope for, or to desire. They have perished, and by my hand."
+    },
+    {
+      "source": "e1",
+      "relation": "investigates",
+      "target": "e2",
+      "evidence_span": "I had my enemies within my power."
+    },
+    {
+      "source": "e6",
+      "relation": "investigates",
+      "target": "e2",
+      "evidence_span": "I knew now that I held the clue to the mystery in my hand, and all that remained was to secure the murderer."
+    },
+    {
+      "source": "e6",
+      "relation": "investigates",
+      "target": "e3",
+      "evidence_span": "The murder of Stangerson was an incident which was entirely unexpected, but which could hardly in any case have been prevented."
+    },
+    {
+      "source": "e2",
+      "relation": "located_in",
+      "target": "e18",
+      "evidence_span": "They were at a boarding-house at Camberwell, over on the other side of the river."
+    },
+    {
+      "source": "e3",
+      "relation": "located_in",
+      "target": "e21",
+      "evidence_span": "I knew that he was staying at Halliday’s Private Hotel, and I hung about all day, but he never came out."
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e13",
+      "evidence_span": "When he reached St. Petersburg they had departed for Paris; and when he followed them there he learned that they had just set off for Copenhagen."
+    },
+    {
+      "source": "e1",
+      "relation": "travels_to",
+      "target": "e15",
+      "evidence_span": "At the Danish capital he was again a few days late, for they had journeyed on to London, where he at last succeeded in running them to earth."
+    },
+    {
+      "source": "e2",
+      "relation": "married_to",
+      "target": "e5",
+      "evidence_span": "That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it."
+    },
+    {
+      "source": "e6",
+      "relation": "investigates",
+      "target": "e1",
+      "evidence_span": "suspecting no harm, and the next thing I knew, this young man here had the bracelets on my wrists, and as neatly shackled as ever I saw in my life."
+    },
+    {
+      "source": "e7",
+      "relation": "investigates",
+      "target": "e1",
+      "evidence_span": "I have had access to Lestrade’s note-book, in which the prisoner’s words were taken down exactly as they were uttered."
+    },
+    {
+      "source": "e8",
+      "relation": "investigates",
+      "target": "e1",
+      "evidence_span": "Gregson and Lestrade will be wild about his death,” Holmes remarked, as we chatted it over next evening."
+    }
+  ]
+}
