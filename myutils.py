@@ -3,6 +3,8 @@ from typing import List, Optional, Tuple
 import requests
 import re
 from datetime import datetime
+from difflib import SequenceMatcher
+import time
 
 def fetch_raw_text(url: str, timeout: int = 30, user_agent: str = "cti-demo/1.0") -> Optional[str]:
     """
@@ -123,18 +125,71 @@ def chunk_text(text: str, max_chars: int = 3000, overlap: int = 200) -> List[str
     return chunks
 
 
-# -----------------------
-# quick self-test when run directly
-# -----------------------
-if __name__ == "__main__":
-    sample_url = "https://www.gutenberg.org/cache/epub/244/pg244.txt"
-    print("Fetching sample...")
-    raw = fetch_raw_text(sample_url)
-    if raw is None:
-        print("Failed to fetch sample. Network error or blocked by site.")
-    else:
-        core = strip_gutenberg_header_footer(raw)
-        print("Length after strip:", len(core))
-        ch = chunk_text(core, max_chars=1200, overlap=120)
-        print("Chunks:", len(ch))
-        print("First chunk preview:\n", ch[0][:400])
+
+def is_potential_alias(name1, name2, threshold=0.85):
+    """Check if two names are likely aliases of each other using fuzzy similarity."""
+    return SequenceMatcher(None, name1.lower(), name2.lower()).ratio() > threshold
+
+
+def merge_entities(global_entities, log_merges=True):
+    """
+    Merge duplicate/variant entities into canonical ones using alias similarity.
+    
+    Args:
+        global_entities (list): [{"id", "name", ...}, ...]
+        log_merges (bool): If True, print logs of merges.
+
+    Returns:
+        canonical_entities (list): merged list of entities.
+        resolved_map (dict): mapping of old IDs -> new canonical IDs.
+    """
+    resolved_map = {}
+    canonical_entities = []
+
+    for ent in global_entities:
+        matched = None
+        for canon in canonical_entities:
+            if (ent["name"].lower() == canon["name"].lower() or 
+                ent["name"].lower() in [a.lower() for a in canon.get("aliases", [])] or
+                is_potential_alias(ent["name"], canon["name"])):
+
+                matched = canon
+                break
+
+        if matched:
+            # Add alias if new
+            if ent["name"] not in matched["aliases"]:
+                matched["aliases"].append(ent["name"])
+            if log_merges:
+                sim = SequenceMatcher(None, ent["name"].lower(), matched["name"].lower()).ratio()
+                print(f"[Entity Resolution] Merged '{ent['name']}' -> '{matched['name']}' (sim={sim:.2f})")
+            resolved_map[ent["id"]] = matched["id"]
+        else:
+            if "aliases" not in ent:
+                ent["aliases"] = []
+            canonical_entities.append(ent)
+            resolved_map[ent["id"]] = ent["id"]
+
+    return canonical_entities, resolved_map
+
+
+def remap_relationships(global_relationships, resolved_map):
+    """Remap relationships to use canonical entity IDs (no recomputation)."""
+    resolved_relationships = []
+    seen = set()
+
+    for rel in global_relationships:
+        src = resolved_map[rel["source"]]
+        tgt = resolved_map[rel["target"]]
+
+        rel_key = (src, rel["relation"], tgt)
+        if rel_key not in seen:
+            resolved_relationships.append({
+                "source": src,
+                "relation": rel["relation"],
+                "target": tgt,
+                "evidence_span": rel.get("evidence_span", "")
+            })
+            seen.add(rel_key)
+
+    return resolved_relationships
