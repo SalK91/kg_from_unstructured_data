@@ -34,6 +34,8 @@ Instructions
 * Lowercase all relation types.
 * Avoid duplicate edges (same source, relation, target).
 * Evidence span: Use the **sentence containing the relation**.
+* Only use entity IDs that exist in the "entities" list of the current output or the global entity list.
+* Do not invent entity IDs. If a relation mentions an entity, it must first appear in "entities".
 
 3. IDs
 
