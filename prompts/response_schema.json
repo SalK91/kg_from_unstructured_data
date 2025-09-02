@@ -10,7 +10,22 @@
           "name": { "type": "string" },
           "type": {
             "type": "string",
-            "enum": ["Person", "Location", "Organization", "Event", "Work", "Object", "Date", "Role"]
+            "enum": [
+              "Person",
+              "Location",
+              "Organization",
+              "Event",
+              "Work",
+              "Object",
+              "Date",
+              "Role",
+              "Vehicle",
+              "Artifact",
+              "Publication",
+              "Institution",
+              "Mythical_Creature",
+              "Character_Role"
+            ]
           },
           "aliases": { "type": "array", "items": { "type": "string" } },
           "span": { "type": "string" }

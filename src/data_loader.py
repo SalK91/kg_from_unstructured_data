@@ -87,15 +87,16 @@ def fetch_and_clean(url: str, save_path: Optional[str] = None) -> Optional[str]:
 
     return cleaned_text
 
-def chunk_text(text: str, max_chars: int = 3000, overlap: int = 200) -> List[str]:
+def chunk_text(text: str, max_chars: int = 3000, overlap: int = 200) -> dict:
     """
     Chunk text into pieces no larger than max_chars (approx), with optional overlap.
     Splits on sentence boundaries where possible.
     If a single sentence is longer than max_chars, it will be included as its own chunk.
     Overlap is now applied with full words (no cutting words in half).
+    Returns a dictionary with chunk IDs as keys.
     """
     import re
-    from typing import List
+    from typing import List, Dict
 
     if not isinstance(text, str):
         raise TypeError("chunk_text expects a str")
@@ -154,4 +155,8 @@ def chunk_text(text: str, max_chars: int = 3000, overlap: int = 200) -> List[str
             new_chunks.append(candidate)
         chunks = new_chunks
 
-    return chunks
+    # convert to dictionary with IDs
+    chunk_dict: Dict[str, str] = {f"chunk_{i+1}": c for i, c in enumerate(chunks)}
+
+    return chunk_dict
+
