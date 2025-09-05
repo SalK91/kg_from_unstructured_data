@@ -1,0 +1,4800 @@
+[
+  {
+    "id": "e1",
+    "name": "Doctor of Medicine",
+    "type": "Role",
+    "aliases": [],
+    "span": "Doctor of Medicine",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e2",
+    "name": "University of London",
+    "type": "Institution",
+    "aliases": [],
+    "span": "University of London",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e3",
+    "name": "Netley",
+    "type": "Location",
+    "aliases": [],
+    "span": "Netley",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e4",
+    "name": "Fifth Northumberland Fusiliers",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Fifth Northumberland Fusiliers",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e5",
+    "name": "India",
+    "type": "Location",
+    "aliases": [],
+    "span": "India",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e6",
+    "name": "Afghanistan",
+    "type": "Location",
+    "aliases": [
+      "Afghan"
+    ],
+    "span": "Afghanistan",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e7",
+    "name": "Bombay",
+    "type": "Location",
+    "aliases": [],
+    "span": "Bombay",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e8",
+    "name": "Candahar",
+    "type": "Location",
+    "aliases": [],
+    "span": "Candahar",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e9",
+    "name": "Berkshires",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Berkshires",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e10",
+    "name": "Maiwand",
+    "type": "Location",
+    "aliases": [],
+    "span": "Maiwand",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e11",
+    "name": "Murray",
+    "type": "Person",
+    "aliases": [],
+    "span": "Murray",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e12",
+    "name": "Peshawar",
+    "type": "Location",
+    "aliases": [],
+    "span": "Peshawar",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e13",
+    "name": "England",
+    "type": "Location",
+    "aliases": [],
+    "span": "England",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e14",
+    "name": "Orontes",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "Orontes",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e15",
+    "name": "Portsmouth",
+    "type": "Location",
+    "aliases": [],
+    "span": "Portsmouth",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e16",
+    "name": "London",
+    "type": "Location",
+    "aliases": [
+      "Londoners"
+    ],
+    "span": "London",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e17",
+    "name": "Strand",
+    "type": "Location",
+    "aliases": [
+      "strain",
+      "incessant strain"
+    ],
+    "span": "Strand",
+    "chunk_id": "chunk_1"
+  },
+  {
+    "id": "e18",
+    "name": "Criterion Bar",
+    "type": "Location",
+    "aliases": [],
+    "span": "Criterion Bar",
+    "chunk_id": "chunk_2"
+  },
+  {
+    "id": "e19",
+    "name": "Stamford",
+    "type": "Person",
+    "aliases": [
+      "young Stamford"
+    ],
+    "span": "young Stamford",
+    "chunk_id": "chunk_2"
+  },
+  {
+    "id": "e20",
+    "name": "Holborn",
+    "type": "Location",
+    "aliases": [
+      "Holborn Restaurant"
+    ],
+    "span": "Holborn",
+    "chunk_id": "chunk_2"
+  },
+  {
+    "id": "e21",
+    "name": "Sherlock Holmes",
+    "type": "Person",
+    "aliases": [
+      "Sherlock Holmes' test"
+    ],
+    "span": "Sherlock Holmes",
+    "chunk_id": "chunk_2"
+  },
+  {
+    "id": "e22",
+    "name": "Barts",
+    "type": "Institution",
+    "aliases": [
+      "bears"
+    ],
+    "span": "Barts",
+    "chunk_id": "chunk_2"
+  },
+  {
+    "id": "e23",
+    "name": "Watson",
+    "type": "Person",
+    "aliases": [
+      "Watson",
+      "Dr. Watson"
+    ],
+    "span": "Watson",
+    "chunk_id": "chunk_2"
+  },
+  {
+    "id": "e24",
+    "name": "chemical laboratory",
+    "type": "Location",
+    "aliases": [
+      "the laboratory"
+    ],
+    "span": "chemical laboratory",
+    "chunk_id": "chunk_3"
+  },
+  {
+    "id": "e25",
+    "name": "Bunsen lamps",
+    "type": "Object",
+    "aliases": [],
+    "span": "Bunsen lamps",
+    "chunk_id": "chunk_4"
+  },
+  {
+    "id": "e26",
+    "name": "test-tube",
+    "type": "Object",
+    "aliases": [],
+    "span": "test-tube",
+    "chunk_id": "chunk_4"
+  },
+  {
+    "id": "e27",
+    "name": "hæmoglobin",
+    "type": "Object",
+    "aliases": [],
+    "span": "hæmoglobin",
+    "chunk_id": "chunk_4"
+  },
+  {
+    "id": "e28",
+    "name": "bodkin",
+    "type": "Object",
+    "aliases": [],
+    "span": "bodkin",
+    "chunk_id": "chunk_4"
+  },
+  {
+    "id": "e29",
+    "name": "chemical pipette",
+    "type": "Object",
+    "aliases": [],
+    "span": "chemical pipette",
+    "chunk_id": "chunk_4"
+  },
+  {
+    "id": "e30",
+    "name": "Guiacum test",
+    "type": "Artifact",
+    "aliases": [],
+    "span": "Guiacum test",
+    "chunk_id": "chunk_4"
+  },
+  {
+    "id": "e32",
+    "name": "Von Bischoff",
+    "type": "Person",
+    "aliases": [],
+    "span": "Von Bischoff",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e33",
+    "name": "Frankfort",
+    "type": "Location",
+    "aliases": [],
+    "span": "Frankfort",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e34",
+    "name": "Mason of Bradford",
+    "type": "Person",
+    "aliases": [],
+    "span": "Mason of Bradford",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e35",
+    "name": "Muller",
+    "type": "Person",
+    "aliases": [
+      "mule",
+      "notorious Muller"
+    ],
+    "span": "notorious Muller",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e36",
+    "name": "Lefevre",
+    "type": "Person",
+    "aliases": [],
+    "span": "Lefevre",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e37",
+    "name": "Montpellier",
+    "type": "Location",
+    "aliases": [],
+    "span": "Montpellier",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e38",
+    "name": "Samson",
+    "type": "Person",
+    "aliases": [],
+    "span": "Samson",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e39",
+    "name": "New Orleans",
+    "type": "Location",
+    "aliases": [],
+    "span": "New Orleans",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e40",
+    "name": "Baker Street",
+    "type": "Location",
+    "aliases": [
+      "221B, Baker Street",
+      "221B Baker Street"
+    ],
+    "span": "Baker Street",
+    "chunk_id": "chunk_5"
+  },
+  {
+    "id": "e41",
+    "name": "Thomas Carlyle",
+    "type": "Person",
+    "aliases": [],
+    "span": "Thomas Carlyle",
+    "chunk_id": "chunk_7"
+  },
+  {
+    "id": "e42",
+    "name": "Copernican Theory",
+    "type": "Artifact",
+    "aliases": [],
+    "span": "Copernican Theory",
+    "chunk_id": "chunk_7"
+  },
+  {
+    "id": "e43",
+    "name": "Solar System",
+    "type": "Object",
+    "aliases": [],
+    "span": "Solar System",
+    "chunk_id": "chunk_7"
+  },
+  {
+    "id": "e44",
+    "name": "Earth",
+    "type": "Object",
+    "aliases": [
+      "terrible death",
+      "death",
+      "heart"
+    ],
+    "span": "earth",
+    "chunk_id": "chunk_8"
+  },
+  {
+    "id": "e45",
+    "name": "Sun",
+    "type": "Object",
+    "aliases": [],
+    "span": "sun",
+    "chunk_id": "chunk_8"
+  },
+  {
+    "id": "e46",
+    "name": "Moon",
+    "type": "Object",
+    "aliases": [
+      "Mormon"
+    ],
+    "span": "moon",
+    "chunk_id": "chunk_8"
+  },
+  {
+    "id": "e47",
+    "name": "Mendelssohn’s Lieder",
+    "type": "Work",
+    "aliases": [],
+    "span": "Mendelssohn’s Lieder",
+    "chunk_id": "chunk_8"
+  },
+  {
+    "id": "e48",
+    "name": "Nineteenth Century",
+    "type": "Date",
+    "aliases": [],
+    "span": "nineteenth century",
+    "chunk_id": "chunk_8"
+  },
+  {
+    "id": "e49",
+    "name": "Mr. Lestrade",
+    "type": "Person",
+    "aliases": [
+      "Inspector Lestrade",
+      "Mr. Lestrade",
+      "Lestrade"
+    ],
+    "span": "Mr. Lestrade",
+    "chunk_id": "chunk_9"
+  },
+  {
+    "id": "e50",
+    "name": "The Book of Life",
+    "type": "Work",
+    "aliases": [],
+    "span": "The Book of Life",
+    "chunk_id": "chunk_9"
+  },
+  {
+    "id": "e51",
+    "name": "Inspector Lestrade",
+    "type": "Person",
+    "aliases": [
+      "Mr. Lestrade"
+    ],
+    "span": "Inspector Lestrade",
+    "chunk_id": "chunk_9"
+  },
+  {
+    "id": "e52",
+    "name": "4th of March",
+    "type": "Date",
+    "aliases": [],
+    "span": "4th of March",
+    "chunk_id": "chunk_10"
+  },
+  {
+    "id": "e53",
+    "name": "consulting detective",
+    "type": "Role",
+    "aliases": [],
+    "span": "consulting detective",
+    "chunk_id": "chunk_10"
+  },
+  {
+    "id": "e55",
+    "name": "Edgar Allan Poe",
+    "type": "Person",
+    "aliases": [],
+    "span": "Edgar Allan Poe",
+    "chunk_id": "chunk_11"
+  },
+  {
+    "id": "e56",
+    "name": "Dupin",
+    "type": "Character_Role",
+    "aliases": [],
+    "span": "Dupin",
+    "chunk_id": "chunk_11"
+  },
+  {
+    "id": "e57",
+    "name": "Gaboriau",
+    "type": "Person",
+    "aliases": [],
+    "span": "Gaboriau",
+    "chunk_id": "chunk_12"
+  },
+  {
+    "id": "e58",
+    "name": "Lecoq",
+    "type": "Character_Role",
+    "aliases": [],
+    "span": "Lecoq",
+    "chunk_id": "chunk_12"
+  },
+  {
+    "id": "e59",
+    "name": "Retired sergeant of Marines",
+    "type": "Person",
+    "aliases": [
+      "Commissionaire",
+      "retired sergeant of Marines"
+    ],
+    "span": "retired sergeant of Marines",
+    "chunk_id": "chunk_12"
+  },
+  {
+    "id": "e60",
+    "name": "Royal Marine Light Infantry",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Royal Marine Light Infantry",
+    "chunk_id": "chunk_12"
+  },
+  {
+    "id": "e62",
+    "name": "Lauriston Gardens",
+    "type": "Location",
+    "aliases": [],
+    "span": "Lauriston Gardens",
+    "chunk_id": "chunk_13"
+  },
+  {
+    "id": "e63",
+    "name": "Brixton Road",
+    "type": "Location",
+    "aliases": [],
+    "span": "Brixton Road",
+    "chunk_id": "chunk_13"
+  },
+  {
+    "id": "e64",
+    "name": "Enoch J. Drebber",
+    "type": "Person",
+    "aliases": [
+      "Enoch Drebber",
+      "Mr. Enoch Drebber"
+    ],
+    "span": "Enoch J. Drebber",
+    "chunk_id": "chunk_13"
+  },
+  {
+    "id": "e65",
+    "name": "Cleveland",
+    "type": "Location",
+    "aliases": [],
+    "span": "Cleveland",
+    "chunk_id": "chunk_13"
+  },
+  {
+    "id": "e66",
+    "name": "Ohio",
+    "type": "Location",
+    "aliases": [],
+    "span": "Ohio",
+    "chunk_id": "chunk_13"
+  },
+  {
+    "id": "e67",
+    "name": "U. S. A.",
+    "type": "Location",
+    "aliases": [],
+    "span": "U. S. A.",
+    "chunk_id": "chunk_13"
+  },
+  {
+    "id": "e68",
+    "name": "Tobias Gregson",
+    "type": "Person",
+    "aliases": [],
+    "span": "TOBIAS GREGSON",
+    "chunk_id": "chunk_14"
+  },
+  {
+    "id": "e69",
+    "name": "Scotland Yard",
+    "type": "Organization",
+    "aliases": [
+      "Scotland Yarders",
+      "Scotland Yard"
+    ],
+    "span": "Scotland Yarders",
+    "chunk_id": "chunk_14"
+  },
+  {
+    "id": "e70",
+    "name": "Narrator",
+    "type": "Person",
+    "aliases": [
+      "me",
+      "my",
+      "I"
+    ],
+    "span": "I",
+    "chunk_id": "chunk_14"
+  },
+  {
+    "id": "e71",
+    "name": "Police Constable",
+    "type": "Person",
+    "aliases": [],
+    "span": "police constable",
+    "chunk_id": "chunk_15"
+  },
+  {
+    "id": "e72",
+    "name": "Gregson",
+    "type": "Person",
+    "aliases": [
+      "Gregson",
+      "the detective",
+      "Mr. Gregson"
+    ],
+    "span": "Gregson",
+    "chunk_id": "chunk_16"
+  },
+  {
+    "id": "e73",
+    "name": "the house",
+    "type": "Location",
+    "aliases": [
+      "the hounds"
+    ],
+    "span": "the house",
+    "chunk_id": "chunk_16"
+  },
+  {
+    "id": "e74",
+    "name": "the room",
+    "type": "Location",
+    "aliases": [
+      "the dining-room"
+    ],
+    "span": "the room",
+    "chunk_id": "chunk_16"
+  },
+  {
+    "id": "e75",
+    "name": "the body",
+    "type": "Object",
+    "aliases": [
+      "the single grim motionless figure",
+      "the dead man"
+    ],
+    "span": "the body",
+    "chunk_id": "chunk_16"
+  },
+  {
+    "id": "e76",
+    "name": "suburban London",
+    "type": "Location",
+    "aliases": [],
+    "span": "suburban London",
+    "chunk_id": "chunk_16"
+  },
+  {
+    "id": "e77",
+    "name": "Van Jansen",
+    "type": "Person",
+    "aliases": [],
+    "span": "Van Jansen",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e78",
+    "name": "Utrecht",
+    "type": "Location",
+    "aliases": [],
+    "span": "Utrecht",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e79",
+    "name": "Joseph Stangerson",
+    "type": "Person",
+    "aliases": [
+      "Mr. Joseph Stangerson"
+    ],
+    "span": "Joseph Stangerson",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e80",
+    "name": "American Exchange",
+    "type": "Location",
+    "aliases": [],
+    "span": "American Exchange",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e81",
+    "name": "Guion Steamship Company",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Guion Steamship Company",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e82",
+    "name": "Liverpool",
+    "type": "Location",
+    "aliases": [],
+    "span": "Liverpool",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e83",
+    "name": "New York",
+    "type": "Location",
+    "aliases": [
+      "New Yorkers"
+    ],
+    "span": "New York",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e84",
+    "name": "Barraud",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Barraud",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e85",
+    "name": "Boccaccio",
+    "type": "Person",
+    "aliases": [],
+    "span": "Boccaccio",
+    "chunk_id": "chunk_17"
+  },
+  {
+    "id": "e86",
+    "name": "RACHE",
+    "type": "Object",
+    "aliases": [
+      "Rance",
+      "Rachel",
+      "John Rance"
+    ],
+    "span": "RACHE",
+    "chunk_id": "chunk_18"
+  },
+  {
+    "id": "e87",
+    "name": "John Rance",
+    "type": "Person",
+    "aliases": [],
+    "span": "John Rance",
+    "chunk_id": "chunk_19"
+  },
+  {
+    "id": "e88",
+    "name": "Audley Court",
+    "type": "Location",
+    "aliases": [],
+    "span": "Audley Court",
+    "chunk_id": "chunk_19"
+  },
+  {
+    "id": "e89",
+    "name": "Kennington Park Gate",
+    "type": "Location",
+    "aliases": [],
+    "span": "Kennington Park Gate",
+    "chunk_id": "chunk_19"
+  },
+  {
+    "id": "e91",
+    "name": "the wall",
+    "type": "Object",
+    "aliases": [],
+    "span": "the wall",
+    "chunk_id": "chunk_19"
+  },
+  {
+    "id": "e92",
+    "name": "the candle",
+    "type": "Object",
+    "aliases": [],
+    "span": "the candle",
+    "chunk_id": "chunk_19"
+  },
+  {
+    "id": "e93",
+    "name": "the mantelpiece",
+    "type": "Location",
+    "aliases": [],
+    "span": "the mantelpiece",
+    "chunk_id": "chunk_19"
+  },
+  {
+    "id": "e94",
+    "name": "the murderer",
+    "type": "Person",
+    "aliases": [
+      "murderer"
+    ],
+    "span": "the murderer",
+    "chunk_id": "chunk_19"
+  },
+  {
+    "id": "e95",
+    "name": "Trichinopoly cigar",
+    "type": "Object",
+    "aliases": [],
+    "span": "Trichinopoly cigar",
+    "chunk_id": "chunk_20"
+  },
+  {
+    "id": "e96",
+    "name": "four-wheeled cab",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "four-wheeled cab",
+    "chunk_id": "chunk_20"
+  },
+  {
+    "id": "e97",
+    "name": "Miss Rachel",
+    "type": "Person",
+    "aliases": [],
+    "span": "Miss Rachel",
+    "chunk_id": "chunk_20"
+  },
+  {
+    "id": "e99",
+    "name": "Doctor",
+    "type": "Person",
+    "aliases": [
+      "door",
+      "Doctor"
+    ],
+    "span": "Doctor",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e100",
+    "name": "Patent-leathers",
+    "type": "Person",
+    "aliases": [],
+    "span": "Patent-leathers",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e101",
+    "name": "Square-toes",
+    "type": "Person",
+    "aliases": [],
+    "span": "Square-toes",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e102",
+    "name": "Halle’s concert",
+    "type": "Event",
+    "aliases": [],
+    "span": "Halle’s concert",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e103",
+    "name": "Norman Neruda",
+    "type": "Person",
+    "aliases": [],
+    "span": "Norman Neruda",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e105",
+    "name": "Holmes",
+    "type": "Person",
+    "aliases": [],
+    "span": "Holmes",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e106",
+    "name": "Harry Murcher",
+    "type": "Person",
+    "aliases": [],
+    "span": "Harry Murcher",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e107",
+    "name": "Henrietta Street",
+    "type": "Location",
+    "aliases": [],
+    "span": "Henrietta Street",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e108",
+    "name": "White Hart",
+    "type": "Location",
+    "aliases": [
+      "‘White Hart’"
+    ],
+    "span": "‘White Hart’",
+    "chunk_id": "chunk_22"
+  },
+  {
+    "id": "e109",
+    "name": "the gate",
+    "type": "Location",
+    "aliases": [
+      "garden gate"
+    ],
+    "span": "the gate",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e110",
+    "name": "the door",
+    "type": "Object",
+    "aliases": [
+      "the floor"
+    ],
+    "span": "the door",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e111",
+    "name": "the kitchen door",
+    "type": "Object",
+    "aliases": [],
+    "span": "the kitchen door",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e112",
+    "name": "the street",
+    "type": "Location",
+    "aliases": [],
+    "span": "the street",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e113",
+    "name": "the railings",
+    "type": "Object",
+    "aliases": [
+      "the ring",
+      "railings"
+    ],
+    "span": "the railings",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e114",
+    "name": "the constable",
+    "type": "Person",
+    "aliases": [
+      "Rance",
+      "the table"
+    ],
+    "span": "the constable",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e115",
+    "name": "the wolf",
+    "type": "Person",
+    "aliases": [
+      "the world"
+    ],
+    "span": "the wolf",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e117",
+    "name": "Columbine’s New-fangled Banner",
+    "type": "Work",
+    "aliases": [],
+    "span": "Columbine’s New-fangled Banner",
+    "chunk_id": "chunk_23"
+  },
+  {
+    "id": "e118",
+    "name": "the drunk man",
+    "type": "Person",
+    "aliases": [
+      "the cove",
+      "the man"
+    ],
+    "span": "a-leanin’ up agin the railings, and a-singin’ at the pitch o’ his lungs about Columbine’s New-fangled Banner",
+    "chunk_id": "chunk_24"
+  },
+  {
+    "id": "e120",
+    "name": "the cab",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "the cab",
+    "chunk_id": "chunk_24"
+  },
+  {
+    "id": "e121",
+    "name": "our lodgings",
+    "type": "Location",
+    "aliases": [],
+    "span": "our lodgings",
+    "chunk_id": "chunk_24"
+  },
+  {
+    "id": "e122",
+    "name": "Chopin",
+    "type": "Person",
+    "aliases": [],
+    "span": "Chopin",
+    "chunk_id": "chunk_24"
+  },
+  {
+    "id": "e123",
+    "name": "the sofa",
+    "type": "Object",
+    "aliases": [],
+    "span": "the sofa",
+    "chunk_id": "chunk_25"
+  },
+  {
+    "id": "e124",
+    "name": "the concert",
+    "type": "Event",
+    "aliases": [],
+    "span": "the concert",
+    "chunk_id": "chunk_25"
+  },
+  {
+    "id": "e125",
+    "name": "the evening paper",
+    "type": "Publication",
+    "aliases": [
+      "Evening paper",
+      "the evening paper"
+    ],
+    "span": "the evening paper",
+    "chunk_id": "chunk_25"
+  },
+  {
+    "id": "e126",
+    "name": "the advertisement",
+    "type": "Publication",
+    "aliases": [
+      "the advertisement",
+      "Advertisement"
+    ],
+    "span": "the advertisement",
+    "chunk_id": "chunk_25"
+  },
+  {
+    "id": "e127",
+    "name": "the murdered man",
+    "type": "Person",
+    "aliases": [
+      "the victim"
+    ],
+    "span": "the murdered man",
+    "chunk_id": "chunk_25"
+  },
+  {
+    "id": "e130",
+    "name": "the law",
+    "type": "Institution",
+    "aliases": [],
+    "span": "the law",
+    "chunk_id": "chunk_25"
+  },
+  {
+    "id": "e132",
+    "name": "Brixton Road affair",
+    "type": "Event",
+    "aliases": [],
+    "span": "Brixton Road affair",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e133",
+    "name": "Nature",
+    "type": "Object",
+    "aliases": [],
+    "span": "Nature",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e135",
+    "name": "Wedding ring",
+    "type": "Object",
+    "aliases": [
+      "a gold wedding ring",
+      "gold wedding ring",
+      "circlet of gold",
+      "wedding-ring",
+      "plain gold wedding ring",
+      "a woman’s wedding ring"
+    ],
+    "span": "wedding ring",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e139",
+    "name": "White Hart Tavern",
+    "type": "Location",
+    "aliases": [
+      "‘White Hart’ Tavern"
+    ],
+    "span": "White Hart Tavern",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e140",
+    "name": "Holland Grove",
+    "type": "Location",
+    "aliases": [],
+    "span": "Holland Grove",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e141",
+    "name": "Man in the brown coat",
+    "type": "Person",
+    "aliases": [
+      "florid friend with the square toes"
+    ],
+    "span": "man in the brown coat",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e142",
+    "name": "Drebber",
+    "type": "Person",
+    "aliases": [
+      "Enoch J. Drebber",
+      "Mr. Drebber",
+      "Drebber’s body"
+    ],
+    "span": "Drebber",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e143",
+    "name": "Service revolver",
+    "type": "Object",
+    "aliases": [
+      "old service revolver"
+    ],
+    "span": "service revolver",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e144",
+    "name": "Violin",
+    "type": "Object",
+    "aliases": [
+      "fiddle"
+    ],
+    "span": "violin",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e145",
+    "name": "American telegram",
+    "type": "Publication",
+    "aliases": [],
+    "span": "American telegram",
+    "chunk_id": "chunk_26"
+  },
+  {
+    "id": "e146",
+    "name": "De Jure inter Gentes",
+    "type": "Work",
+    "aliases": [],
+    "span": "De Jure inter Gentes",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e147",
+    "name": "Philippe de Croy",
+    "type": "Person",
+    "aliases": [],
+    "span": "Philippe de Croy",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e148",
+    "name": "Liege",
+    "type": "Location",
+    "aliases": [
+      "Lowlands"
+    ],
+    "span": "Liege",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e149",
+    "name": "Charles",
+    "type": "Person",
+    "aliases": [],
+    "span": "Charles",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e150",
+    "name": "Guliolmi Whyte",
+    "type": "Person",
+    "aliases": [
+      "William Whyte"
+    ],
+    "span": "Guliolmi Whyte",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e151",
+    "name": "Old woman",
+    "type": "Person",
+    "aliases": [
+      "the old crone"
+    ],
+    "span": "a very old and wrinkled woman",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e152",
+    "name": "Sally",
+    "type": "Person",
+    "aliases": [
+      "my girl Sally"
+    ],
+    "span": "Sally",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e153",
+    "name": "Duncan Street, Houndsditch",
+    "type": "Location",
+    "aliases": [],
+    "span": "Duncan Street, Houndsditch",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e154",
+    "name": "Mayfield Place, Peckham",
+    "type": "Location",
+    "aliases": [],
+    "span": "Mayfield Place, Peckham",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e155",
+    "name": "Union boat",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "Union boat",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e156",
+    "name": "Circus",
+    "type": "Location",
+    "aliases": [],
+    "span": "circus",
+    "chunk_id": "chunk_27"
+  },
+  {
+    "id": "e157",
+    "name": "Tom Dennis",
+    "type": "Person",
+    "aliases": [],
+    "span": "Tom Dennis",
+    "chunk_id": "chunk_28"
+  },
+  {
+    "id": "e158",
+    "name": "Mrs. Sawyer",
+    "type": "Person",
+    "aliases": [
+      "the old woman",
+      "Sawyer",
+      "the old crone"
+    ],
+    "span": "a very old and wrinkled woman",
+    "chunk_id": "chunk_28"
+  },
+  {
+    "id": "e160",
+    "name": "Houndsditch",
+    "type": "Location",
+    "aliases": [],
+    "span": "Houndsditch",
+    "chunk_id": "chunk_28"
+  },
+  {
+    "id": "e161",
+    "name": "Duncan Street",
+    "type": "Location",
+    "aliases": [],
+    "span": "Duncan Street",
+    "chunk_id": "chunk_28"
+  },
+  {
+    "id": "e162",
+    "name": "four-wheeler",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "four-wheeler",
+    "chunk_id": "chunk_28"
+  },
+  {
+    "id": "e164",
+    "name": "Keswick",
+    "type": "Person",
+    "aliases": [],
+    "span": "Keswick",
+    "chunk_id": "chunk_29"
+  },
+  {
+    "id": "e166",
+    "name": "Dennis",
+    "type": "Person",
+    "aliases": [],
+    "span": "Dennis",
+    "chunk_id": "chunk_29"
+  },
+  {
+    "id": "e167",
+    "name": "Daily Telegraph",
+    "type": "Publication",
+    "aliases": [],
+    "span": "Daily Telegraph",
+    "chunk_id": "chunk_29"
+  },
+  {
+    "id": "e168",
+    "name": "Standard",
+    "type": "Publication",
+    "aliases": [],
+    "span": "Standard",
+    "chunk_id": "chunk_29"
+  },
+  {
+    "id": "e169",
+    "name": "Liberal Administration",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Liberal Administration",
+    "chunk_id": "chunk_29"
+  },
+  {
+    "id": "e170",
+    "name": "Daily News",
+    "type": "Publication",
+    "aliases": [],
+    "span": "Daily News",
+    "chunk_id": "chunk_30"
+  },
+  {
+    "id": "e171",
+    "name": "Torquay Terrace, Camberwell",
+    "type": "Location",
+    "aliases": [],
+    "span": "Torquay Terrace, Camberwell",
+    "chunk_id": "chunk_30"
+  },
+  {
+    "id": "e172",
+    "name": "Euston Station",
+    "type": "Location",
+    "aliases": [],
+    "span": "Euston Station",
+    "chunk_id": "chunk_30"
+  },
+  {
+    "id": "e173",
+    "name": "Madame Charpentier",
+    "type": "Person",
+    "aliases": [],
+    "span": "Madame Charpentier",
+    "chunk_id": "chunk_30"
+  },
+  {
+    "id": "e174",
+    "name": "4th inst.",
+    "type": "Date",
+    "aliases": [],
+    "span": "4th inst.",
+    "chunk_id": "chunk_30"
+  },
+  {
+    "id": "e175",
+    "name": "Metropolis",
+    "type": "Location",
+    "aliases": [],
+    "span": "Metropolis",
+    "chunk_id": "chunk_30"
+  },
+  {
+    "id": "e176",
+    "name": "street Arabs",
+    "type": "Person",
+    "aliases": [],
+    "span": "street Arabs",
+    "chunk_id": "chunk_30"
+  },
+  {
+    "id": "e177",
+    "name": "Wiggins",
+    "type": "Person",
+    "aliases": [],
+    "span": "Wiggins",
+    "chunk_id": "chunk_31"
+  },
+  {
+    "id": "e178",
+    "name": "Baker Street division of the detective police force",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Baker Street division of the detective police force",
+    "chunk_id": "chunk_31"
+  },
+  {
+    "id": "e179",
+    "name": "Brixton case",
+    "type": "Event",
+    "aliases": [],
+    "span": "Brixton case",
+    "chunk_id": "chunk_31"
+  },
+  {
+    "id": "e180",
+    "name": "Arthur Charpentier",
+    "type": "Person",
+    "aliases": [],
+    "span": "Arthur Charpentier",
+    "chunk_id": "chunk_31"
+  },
+  {
+    "id": "e181",
+    "name": "Her Majesty’s navy",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Her Majesty’s navy",
+    "chunk_id": "chunk_31"
+  },
+  {
+    "id": "e182",
+    "name": "Doctor Watson",
+    "type": "Person",
+    "aliases": [],
+    "span": "Doctor Watson",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e183",
+    "name": "Stangerson",
+    "type": "Person",
+    "aliases": [
+      "Stangerson",
+      "Mr. Stangerson"
+    ],
+    "span": "Stangerson",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e184",
+    "name": "John Underwood and Sons",
+    "type": "Organization",
+    "aliases": [],
+    "span": "John Underwood and Sons",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e185",
+    "name": "Camberwell Road",
+    "type": "Location",
+    "aliases": [
+      "Camberwell"
+    ],
+    "span": "Camberwell Road",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e187",
+    "name": "Charpentier’s Boarding Establishment",
+    "type": "Location",
+    "aliases": [],
+    "span": "Charpentier’s Boarding Establishment",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e188",
+    "name": "Torquay Terrace",
+    "type": "Location",
+    "aliases": [],
+    "span": "Torquay Terrace",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e189",
+    "name": "Alice",
+    "type": "Person",
+    "aliases": [],
+    "span": "Alice",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e190",
+    "name": "Arthur",
+    "type": "Person",
+    "aliases": [],
+    "span": "Arthur",
+    "chunk_id": "chunk_32"
+  },
+  {
+    "id": "e192",
+    "name": "Copenhagen",
+    "type": "Location",
+    "aliases": [],
+    "span": "Copenhagen",
+    "chunk_id": "chunk_33"
+  },
+  {
+    "id": "e193",
+    "name": "Continent",
+    "type": "Location",
+    "aliases": [],
+    "span": "Continent",
+    "chunk_id": "chunk_33"
+  },
+  {
+    "id": "e194",
+    "name": "Navy",
+    "type": "Organization",
+    "aliases": [
+      "Her Majesty’s navy"
+    ],
+    "span": "Navy",
+    "chunk_id": "chunk_33"
+  },
+  {
+    "id": "e195",
+    "name": "Mrs. Charpentier",
+    "type": "Person",
+    "aliases": [
+      "Young Charpentier",
+      "Charpentier"
+    ],
+    "span": "Mrs. Charpentier",
+    "chunk_id": "chunk_34"
+  },
+  {
+    "id": "e196",
+    "name": "Lieutenant Charpentier",
+    "type": "Person",
+    "aliases": [
+      "Arthur"
+    ],
+    "span": "Lieutenant Charpentier",
+    "chunk_id": "chunk_34"
+  },
+  {
+    "id": "e197",
+    "name": "oak cudgel",
+    "type": "Object",
+    "aliases": [
+      "heavy stick",
+      "stout oak cudgel"
+    ],
+    "span": "stout oak cudgel",
+    "chunk_id": "chunk_34"
+  },
+  {
+    "id": "e198",
+    "name": "Halliday’s Private Hotel",
+    "type": "Location",
+    "aliases": [],
+    "span": "Halliday’s Private Hotel",
+    "chunk_id": "chunk_35"
+  },
+  {
+    "id": "e199",
+    "name": "Boots",
+    "type": "Person",
+    "aliases": [],
+    "span": "Boots",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e200",
+    "name": "milk boy",
+    "type": "Person",
+    "aliases": [],
+    "span": "milk boy",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e201",
+    "name": "Europe",
+    "type": "Location",
+    "aliases": [],
+    "span": "Europe",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e203",
+    "name": "ladder",
+    "type": "Object",
+    "aliases": [
+      "ladders"
+    ],
+    "span": "ladder",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e204",
+    "name": "hotel",
+    "type": "Location",
+    "aliases": [],
+    "span": "hotel",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e205",
+    "name": "mews",
+    "type": "Location",
+    "aliases": [],
+    "span": "mews",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e206",
+    "name": "basin",
+    "type": "Object",
+    "aliases": [],
+    "span": "basin",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e207",
+    "name": "sheets",
+    "type": "Object",
+    "aliases": [],
+    "span": "sheets",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e208",
+    "name": "knife",
+    "type": "Object",
+    "aliases": [],
+    "span": "knife",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e209",
+    "name": "purse",
+    "type": "Object",
+    "aliases": [],
+    "span": "purse",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e210",
+    "name": "telegram",
+    "type": "Publication",
+    "aliases": [],
+    "span": "telegram",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e211",
+    "name": "novel",
+    "type": "Work",
+    "aliases": [],
+    "span": "novel",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e212",
+    "name": "pipe",
+    "type": "Object",
+    "aliases": [],
+    "span": "pipe",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e213",
+    "name": "glass of water",
+    "type": "Object",
+    "aliases": [],
+    "span": "glass of water",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e214",
+    "name": "window-sill",
+    "type": "Location",
+    "aliases": [],
+    "span": "window-sill",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e215",
+    "name": "chip ointment box",
+    "type": "Object",
+    "aliases": [],
+    "span": "chip ointment box",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e216",
+    "name": "pills",
+    "type": "Object",
+    "aliases": [],
+    "span": "pills",
+    "chunk_id": "chunk_37"
+  },
+  {
+    "id": "e217",
+    "name": "J. H.",
+    "type": "Person",
+    "aliases": [],
+    "span": "J. H.",
+    "chunk_id": "chunk_38"
+  },
+  {
+    "id": "e218",
+    "name": "terrier",
+    "type": "Object",
+    "aliases": [
+      "Ferriers",
+      "Ferrier",
+      "dog"
+    ],
+    "span": "terrier",
+    "chunk_id": "chunk_38"
+  },
+  {
+    "id": "e219",
+    "name": "landlady",
+    "type": "Person",
+    "aliases": [],
+    "span": "landlady",
+    "chunk_id": "chunk_38"
+  },
+  {
+    "id": "e220",
+    "name": "wine glass",
+    "type": "Object",
+    "aliases": [],
+    "span": "wine glass",
+    "chunk_id": "chunk_38"
+  },
+  {
+    "id": "e221",
+    "name": "saucer",
+    "type": "Object",
+    "aliases": [],
+    "span": "saucer",
+    "chunk_id": "chunk_38"
+  },
+  {
+    "id": "e225",
+    "name": "cab",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "cab",
+    "chunk_id": "chunk_40"
+  },
+  {
+    "id": "e226",
+    "name": "steel handcuffs",
+    "type": "Object",
+    "aliases": [],
+    "span": "steel handcuffs",
+    "chunk_id": "chunk_40"
+  },
+  {
+    "id": "e227",
+    "name": "Jefferson Hope",
+    "type": "Person",
+    "aliases": [],
+    "span": "Mr. Jefferson Hope",
+    "chunk_id": "chunk_41"
+  },
+  {
+    "id": "e229",
+    "name": "North American Continent",
+    "type": "Location",
+    "aliases": [],
+    "span": "North American Continent",
+    "chunk_id": "chunk_41"
+  },
+  {
+    "id": "e230",
+    "name": "Great Alkali Plain",
+    "type": "Location",
+    "aliases": [
+      "extreme verge of the alkali plain",
+      "alkali plain"
+    ],
+    "span": "Great Alkali Plain",
+    "chunk_id": "chunk_41"
+  },
+  {
+    "id": "e231",
+    "name": "Sierra Nevada",
+    "type": "Location",
+    "aliases": [],
+    "span": "Sierra Nevada",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e232",
+    "name": "Nebraska",
+    "type": "Location",
+    "aliases": [],
+    "span": "Nebraska",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e233",
+    "name": "Yellowstone River",
+    "type": "Location",
+    "aliases": [],
+    "span": "Yellowstone River",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e234",
+    "name": "Colorado",
+    "type": "Location",
+    "aliases": [],
+    "span": "Colorado",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e235",
+    "name": "Sierra Blanco",
+    "type": "Location",
+    "aliases": [],
+    "span": "Sierra Blanco",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e236",
+    "name": "Pawnees",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Pawnees",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e237",
+    "name": "Blackfeet",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Blackfeet",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e238",
+    "name": "coyote",
+    "type": "Mythical_Creature",
+    "aliases": [],
+    "span": "coyote",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e239",
+    "name": "buzzard",
+    "type": "Mythical_Creature",
+    "aliases": [
+      "vultures of the west",
+      "buzzards",
+      "cocks and hens"
+    ],
+    "span": "buzzard",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e240",
+    "name": "grizzly bear",
+    "type": "Mythical_Creature",
+    "aliases": [],
+    "span": "grizzly bear",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e241",
+    "name": "solitary traveller",
+    "type": "Person",
+    "aliases": [],
+    "span": "solitary traveller",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e242",
+    "name": "4th of May, 1847",
+    "type": "Date",
+    "aliases": [],
+    "span": "fourth of May, eighteen hundred and forty-seven",
+    "chunk_id": "chunk_42"
+  },
+  {
+    "id": "e243",
+    "name": "little girl",
+    "type": "Person",
+    "aliases": [
+      "pretty little girl"
+    ],
+    "span": "little girl",
+    "chunk_id": "chunk_43"
+  },
+  {
+    "id": "e244",
+    "name": "mother",
+    "type": "Person",
+    "aliases": [],
+    "span": "mother",
+    "chunk_id": "chunk_43"
+  },
+  {
+    "id": "e245",
+    "name": "Bob",
+    "type": "Person",
+    "aliases": [
+      "brother Bob"
+    ],
+    "span": "brother Bob",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e246",
+    "name": "Mr. Bender",
+    "type": "Person",
+    "aliases": [],
+    "span": "Mr. Bender",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e247",
+    "name": "Indian Pete",
+    "type": "Person",
+    "aliases": [],
+    "span": "Indian Pete",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e248",
+    "name": "Mrs. McGregor",
+    "type": "Person",
+    "aliases": [],
+    "span": "Mrs. McGregor",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e249",
+    "name": "Johnny Hones",
+    "type": "Person",
+    "aliases": [],
+    "span": "Johnny Hones",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e250",
+    "name": "man",
+    "type": "Person",
+    "aliases": [
+      "companion"
+    ],
+    "span": "man",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e251",
+    "name": "Illinois",
+    "type": "Location",
+    "aliases": [],
+    "span": "Illinois",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e252",
+    "name": "Missouri",
+    "type": "Location",
+    "aliases": [],
+    "span": "Missouri",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e253",
+    "name": "Heaven",
+    "type": "Location",
+    "aliases": [],
+    "span": "Heaven",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e254",
+    "name": "glittering fragments of mica",
+    "type": "Object",
+    "aliases": [
+      "pretty things",
+      "fine things"
+    ],
+    "span": "glittering fragments of mica",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e256",
+    "name": "God",
+    "type": "Mythical_Creature",
+    "aliases": [],
+    "span": "God",
+    "chunk_id": "chunk_44"
+  },
+  {
+    "id": "e258",
+    "name": "caravan",
+    "type": "Organization",
+    "aliases": [
+      "great caravan"
+    ],
+    "span": "caravan",
+    "chunk_id": "chunk_45"
+  },
+  {
+    "id": "e259",
+    "name": "boulder",
+    "type": "Location",
+    "aliases": [
+      "solitary bluff",
+      "boulders"
+    ],
+    "span": "boulder",
+    "chunk_id": "chunk_45"
+  },
+  {
+    "id": "e260",
+    "name": "great multitude of moving creatures",
+    "type": "Organization",
+    "aliases": [],
+    "span": "great multitude of moving creatures",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e261",
+    "name": "great herds of bisons",
+    "type": "Organization",
+    "aliases": [],
+    "span": "great herds of bisons",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e262",
+    "name": "prairie land",
+    "type": "Location",
+    "aliases": [],
+    "span": "prairie land",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e263",
+    "name": "arid wilds",
+    "type": "Location",
+    "aliases": [],
+    "span": "arid wilds",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e265",
+    "name": "two castaways",
+    "type": "Person",
+    "aliases": [],
+    "span": "two castaways",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e267",
+    "name": "West",
+    "type": "Location",
+    "aliases": [],
+    "span": "West",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e268",
+    "name": "enormous plain",
+    "type": "Location",
+    "aliases": [],
+    "span": "enormous plain",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e269",
+    "name": "nomad people",
+    "type": "Organization",
+    "aliases": [],
+    "span": "nomad people",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e270",
+    "name": "great mass of humanity",
+    "type": "Organization",
+    "aliases": [],
+    "span": "great mass of humanity",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e271",
+    "name": "two tired wayfarers",
+    "type": "Person",
+    "aliases": [],
+    "span": "two tired wayfarers",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e272",
+    "name": "score or more of grave ironfaced men",
+    "type": "Person",
+    "aliases": [],
+    "span": "score or more of grave ironfaced men",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e273",
+    "name": "sombre homespun garments",
+    "type": "Object",
+    "aliases": [],
+    "span": "sombre homespun garments",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e274",
+    "name": "rifles",
+    "type": "Object",
+    "aliases": [
+      "rifle"
+    ],
+    "span": "rifles",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e275",
+    "name": "base of the mountains",
+    "type": "Location",
+    "aliases": [],
+    "span": "base of the mountains",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e276",
+    "name": "horizon",
+    "type": "Location",
+    "aliases": [],
+    "span": "horizon",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e277",
+    "name": "Rio Grande",
+    "type": "Location",
+    "aliases": [],
+    "span": "Rio Grande",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e278",
+    "name": "His own chosen people",
+    "type": "Organization",
+    "aliases": [],
+    "span": "His own chosen people",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e279",
+    "name": "youngest and keenest-eyed",
+    "type": "Person",
+    "aliases": [],
+    "span": "youngest and keenest-eyed",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e280",
+    "name": "rugged crag",
+    "type": "Location",
+    "aliases": [],
+    "span": "rugged crag",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e281",
+    "name": "little wisp of pink",
+    "type": "Object",
+    "aliases": [],
+    "span": "little wisp of pink",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e282",
+    "name": "grey rocks",
+    "type": "Location",
+    "aliases": [
+      "great rock"
+    ],
+    "span": "grey rocks",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e283",
+    "name": "vanguard",
+    "type": "Organization",
+    "aliases": [],
+    "span": "vanguard",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e284",
+    "name": "Redskins",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Redskins",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e285",
+    "name": "great mountains",
+    "type": "Location",
+    "aliases": [],
+    "span": "great mountains",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e286",
+    "name": "Brother Stangerson",
+    "type": "Person",
+    "aliases": [],
+    "span": "Brother Stangerson",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e287",
+    "name": "Elder",
+    "type": "Person",
+    "aliases": [
+      "Elders"
+    ],
+    "span": "Elder",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e288",
+    "name": "young fellows",
+    "type": "Person",
+    "aliases": [],
+    "span": "young fellows",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e289",
+    "name": "practised scouts",
+    "type": "Person",
+    "aliases": [],
+    "span": "practised scouts",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e290",
+    "name": "watchers from the plain below",
+    "type": "Person",
+    "aliases": [],
+    "span": "watchers from the plain below",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e291",
+    "name": "skyline",
+    "type": "Location",
+    "aliases": [],
+    "span": "skyline",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e292",
+    "name": "little plateau",
+    "type": "Location",
+    "aliases": [],
+    "span": "little plateau",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e293",
+    "name": "barren hill",
+    "type": "Location",
+    "aliases": [],
+    "span": "barren hill",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e294",
+    "name": "single giant boulder",
+    "type": "Object",
+    "aliases": [],
+    "span": "single giant boulder",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e295",
+    "name": "tall man",
+    "type": "Person",
+    "aliases": [],
+    "span": "tall man",
+    "chunk_id": "chunk_46"
+  },
+  {
+    "id": "e296",
+    "name": "John Ferrier",
+    "type": "Person",
+    "aliases": [],
+    "span": "John Ferrier",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e297",
+    "name": "Lucy Ferrier",
+    "type": "Person",
+    "aliases": [
+      "little girl",
+      "little child",
+      "little un"
+    ],
+    "span": "Lucy Ferrier",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e298",
+    "name": "Mormons",
+    "type": "Organization",
+    "aliases": [
+      "persecuted children of God",
+      "chosen of the Angel Merona"
+    ],
+    "span": "Mormons",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e299",
+    "name": "Angel Merona",
+    "type": "Mythical_Creature",
+    "aliases": [],
+    "span": "Angel Merona",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e300",
+    "name": "Joseph Smith",
+    "type": "Person",
+    "aliases": [
+      "holy Joseph Smith"
+    ],
+    "span": "Joseph Smith",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e301",
+    "name": "Palmyra",
+    "type": "Location",
+    "aliases": [],
+    "span": "Palmyra",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e302",
+    "name": "Nauvoo",
+    "type": "Location",
+    "aliases": [],
+    "span": "Nauvoo",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e303",
+    "name": "Prophet",
+    "type": "Person",
+    "aliases": [],
+    "span": "Prophet",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e304",
+    "name": "waggons",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "waggons",
+    "chunk_id": "chunk_47"
+  },
+  {
+    "id": "e305",
+    "name": "Brigham Young",
+    "type": "Person",
+    "aliases": [],
+    "span": "Brigham Young",
+    "chunk_id": "chunk_48"
+  },
+  {
+    "id": "e306",
+    "name": "Elder Stangerson",
+    "type": "Person",
+    "aliases": [
+      "Brother Stangerson"
+    ],
+    "span": "Brother Stangerson",
+    "chunk_id": "chunk_48"
+  },
+  {
+    "id": "e307",
+    "name": "Zion",
+    "type": "Location",
+    "aliases": [],
+    "span": "Zion",
+    "chunk_id": "chunk_48"
+  },
+  {
+    "id": "e308",
+    "name": "Rocky Mountains",
+    "type": "Location",
+    "aliases": [],
+    "span": "Rocky Mountains",
+    "chunk_id": "chunk_48"
+  },
+  {
+    "id": "e309",
+    "name": "Mississippi",
+    "type": "Location",
+    "aliases": [],
+    "span": "Mississippi",
+    "chunk_id": "chunk_48"
+  },
+  {
+    "id": "e310",
+    "name": "Utah",
+    "type": "Location",
+    "aliases": [],
+    "span": "Utah",
+    "chunk_id": "chunk_49"
+  },
+  {
+    "id": "e311",
+    "name": "Kemball",
+    "type": "Person",
+    "aliases": [],
+    "span": "Kemball",
+    "chunk_id": "chunk_49"
+  },
+  {
+    "id": "e312",
+    "name": "Johnston",
+    "type": "Person",
+    "aliases": [],
+    "span": "Johnston",
+    "chunk_id": "chunk_49"
+  },
+  {
+    "id": "e313",
+    "name": "Salt Lake City",
+    "type": "Location",
+    "aliases": [],
+    "span": "Salt Lake City",
+    "chunk_id": "chunk_50"
+  },
+  {
+    "id": "e314",
+    "name": "Wahsatch Mountains",
+    "type": "Location",
+    "aliases": [],
+    "span": "Wahsatch Mountains",
+    "chunk_id": "chunk_50"
+  },
+  {
+    "id": "e315",
+    "name": "Atlantic",
+    "type": "Location",
+    "aliases": [],
+    "span": "Atlantic",
+    "chunk_id": "chunk_50"
+  },
+  {
+    "id": "e316",
+    "name": "Latter Day Saints",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Latter Day Saints",
+    "chunk_id": "chunk_50"
+  },
+  {
+    "id": "e317",
+    "name": "California",
+    "type": "Location",
+    "aliases": [],
+    "span": "California",
+    "chunk_id": "chunk_51"
+  },
+  {
+    "id": "e318",
+    "name": "City of the Elect",
+    "type": "Location",
+    "aliases": [],
+    "span": "City of the Elect",
+    "chunk_id": "chunk_51"
+  },
+  {
+    "id": "e319",
+    "name": "Pacific slope",
+    "type": "Location",
+    "aliases": [],
+    "span": "Pacific slope",
+    "chunk_id": "chunk_51"
+  },
+  {
+    "id": "e320",
+    "name": "Poncho",
+    "type": "Object",
+    "aliases": [
+      "the mustang"
+    ],
+    "span": "Poncho",
+    "chunk_id": "chunk_51"
+  },
+  {
+    "id": "e321",
+    "name": "her preserver",
+    "type": "Person",
+    "aliases": [],
+    "span": "her preserver",
+    "chunk_id": "chunk_51"
+  },
+  {
+    "id": "e322",
+    "name": "Nevada Mountains",
+    "type": "Location",
+    "aliases": [],
+    "span": "Nevada Mountains",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e323",
+    "name": "St. Louis",
+    "type": "Location",
+    "aliases": [],
+    "span": "St. Louis",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e324",
+    "name": "Sierra",
+    "type": "Location",
+    "aliases": [],
+    "span": "Sierra",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e325",
+    "name": "farm-house",
+    "type": "Location",
+    "aliases": [],
+    "span": "farm-house",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e326",
+    "name": "valley",
+    "type": "Location",
+    "aliases": [],
+    "span": "valley",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e327",
+    "name": "horse",
+    "type": "Object",
+    "aliases": [
+      "house",
+      "horses",
+      "powerful roan horse",
+      "excited horse",
+      "frightened horse"
+    ],
+    "span": "horse",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e328",
+    "name": "cows",
+    "type": "Object",
+    "aliases": [
+      "drove"
+    ],
+    "span": "cows",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e329",
+    "name": "saddle",
+    "type": "Object",
+    "aliases": [],
+    "span": "saddle",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e330",
+    "name": "bridle",
+    "type": "Object",
+    "aliases": [],
+    "span": "bridle",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e331",
+    "name": "curb",
+    "type": "Object",
+    "aliases": [],
+    "span": "curb",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e332",
+    "name": "outskirts",
+    "type": "Location",
+    "aliases": [],
+    "span": "outskirts",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e333",
+    "name": "broad sombrero",
+    "type": "Object",
+    "aliases": [],
+    "span": "broad sombrero",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e334",
+    "name": "riding-whip",
+    "type": "Object",
+    "aliases": [],
+    "span": "riding-whip",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e335",
+    "name": "road",
+    "type": "Location",
+    "aliases": [
+      "broad road",
+      "roads",
+      "more-frequented roads"
+    ],
+    "span": "road",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e336",
+    "name": "companions",
+    "type": "Person",
+    "aliases": [],
+    "span": "companions",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e337",
+    "name": "silver",
+    "type": "Object",
+    "aliases": [],
+    "span": "silver",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e338",
+    "name": "lodes",
+    "type": "Object",
+    "aliases": [],
+    "span": "lodes",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e339",
+    "name": "capital",
+    "type": "Object",
+    "aliases": [],
+    "span": "capital",
+    "chunk_id": "chunk_52"
+  },
+  {
+    "id": "e341",
+    "name": "gate",
+    "type": "Location",
+    "aliases": [],
+    "span": "gate",
+    "chunk_id": "chunk_53"
+  },
+  {
+    "id": "e342",
+    "name": "pathway",
+    "type": "Location",
+    "aliases": [],
+    "span": "pathway",
+    "chunk_id": "chunk_53"
+  },
+  {
+    "id": "e343",
+    "name": "cañon",
+    "type": "Location",
+    "aliases": [],
+    "span": "cañon",
+    "chunk_id": "chunk_53"
+  },
+  {
+    "id": "e344",
+    "name": "mines",
+    "type": "Location",
+    "aliases": [],
+    "span": "mines",
+    "chunk_id": "chunk_53"
+  },
+  {
+    "id": "e345",
+    "name": "doorway",
+    "type": "Location",
+    "aliases": [],
+    "span": "doorway",
+    "chunk_id": "chunk_53"
+  },
+  {
+    "id": "e347",
+    "name": "Land of the Saints",
+    "type": "Location",
+    "aliases": [],
+    "span": "Land of the Saints",
+    "chunk_id": "chunk_54"
+  },
+  {
+    "id": "e348",
+    "name": "Inquisition of Seville",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Inquisition of Seville",
+    "chunk_id": "chunk_54"
+  },
+  {
+    "id": "e349",
+    "name": "German Vehmgericht",
+    "type": "Organization",
+    "aliases": [],
+    "span": "German Vehmgericht",
+    "chunk_id": "chunk_54"
+  },
+  {
+    "id": "e350",
+    "name": "Secret Societies of Italy",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Secret Societies of Italy",
+    "chunk_id": "chunk_54"
+  },
+  {
+    "id": "e351",
+    "name": "State of Utah",
+    "type": "Location",
+    "aliases": [],
+    "span": "State of Utah",
+    "chunk_id": "chunk_54"
+  },
+  {
+    "id": "e352",
+    "name": "Danite Band",
+    "type": "Organization",
+    "aliases": [
+      "Danite Band",
+      "Avenging Angels"
+    ],
+    "span": "Danite Band",
+    "chunk_id": "chunk_54"
+  },
+  {
+    "id": "e354",
+    "name": "Church",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Church",
+    "chunk_id": "chunk_54"
+  },
+  {
+    "id": "e355",
+    "name": "Chosen Valley",
+    "type": "Location",
+    "aliases": [],
+    "span": "Chosen Valley",
+    "chunk_id": "chunk_55"
+  },
+  {
+    "id": "e356",
+    "name": "Temple",
+    "type": "Location",
+    "aliases": [],
+    "span": "Temple",
+    "chunk_id": "chunk_55"
+  },
+  {
+    "id": "e357",
+    "name": "Gentile",
+    "type": "Person",
+    "aliases": [
+      "Gentiles"
+    ],
+    "span": "Gentile",
+    "chunk_id": "chunk_55"
+  },
+  {
+    "id": "e358",
+    "name": "Sacred Council of Four",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Sacred Council of Four",
+    "chunk_id": "chunk_55"
+  },
+  {
+    "id": "e359",
+    "name": "leader of the Mormons",
+    "type": "Person",
+    "aliases": [],
+    "span": "leader of the Mormons",
+    "chunk_id": "chunk_56"
+  },
+  {
+    "id": "e360",
+    "name": "Lucy",
+    "type": "Person",
+    "aliases": [
+      "Lucy Ferrier"
+    ],
+    "span": "Lucy",
+    "chunk_id": "chunk_56"
+  },
+  {
+    "id": "e361",
+    "name": "Heber C. Kemball",
+    "type": "Person",
+    "aliases": [],
+    "span": "Heber C. Kemball",
+    "chunk_id": "chunk_56"
+  },
+  {
+    "id": "e362",
+    "name": "Nevada",
+    "type": "Location",
+    "aliases": [],
+    "span": "Nevada",
+    "chunk_id": "chunk_56"
+  },
+  {
+    "id": "e363",
+    "name": "Mormon Prophet",
+    "type": "Person",
+    "aliases": [
+      "Prophet"
+    ],
+    "span": "Mormon Prophet",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e364",
+    "name": "Elder Drebber",
+    "type": "Person",
+    "aliases": [],
+    "span": "Elder Drebber",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e365",
+    "name": "farm",
+    "type": "Location",
+    "aliases": [],
+    "span": "farm",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e366",
+    "name": "shotgun",
+    "type": "Object",
+    "aliases": [
+      "rusty old shotgun"
+    ],
+    "span": "shotgun",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e367",
+    "name": "sitting-room",
+    "type": "Location",
+    "aliases": [],
+    "span": "sitting-room",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e368",
+    "name": "rocking-chair",
+    "type": "Object",
+    "aliases": [],
+    "span": "rocking-chair",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e369",
+    "name": "stove",
+    "type": "Object",
+    "aliases": [],
+    "span": "stove",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e370",
+    "name": "window",
+    "type": "Location",
+    "aliases": [
+      "windows"
+    ],
+    "span": "window",
+    "chunk_id": "chunk_57"
+  },
+  {
+    "id": "e371",
+    "name": "small square of paper",
+    "type": "Object",
+    "aliases": [],
+    "span": "small square of paper",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e372",
+    "name": "coverlet",
+    "type": "Object",
+    "aliases": [],
+    "span": "coverlet",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e373",
+    "name": "bed",
+    "type": "Object",
+    "aliases": [],
+    "span": "bed",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e374",
+    "name": "outhouse",
+    "type": "Location",
+    "aliases": [],
+    "span": "outhouse",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e375",
+    "name": "doors",
+    "type": "Object",
+    "aliases": [],
+    "span": "doors",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e379",
+    "name": "placards",
+    "type": "Object",
+    "aliases": [],
+    "span": "placards",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e380",
+    "name": "walls",
+    "type": "Location",
+    "aliases": [
+      "wall"
+    ],
+    "span": "walls",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e381",
+    "name": "floors",
+    "type": "Location",
+    "aliases": [
+      "floor"
+    ],
+    "span": "floors",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e382",
+    "name": "ceiling",
+    "type": "Location",
+    "aliases": [],
+    "span": "ceiling",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e384",
+    "name": "mountains",
+    "type": "Location",
+    "aliases": [
+      "the mountains"
+    ],
+    "span": "mountains",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e385",
+    "name": "settlement",
+    "type": "Location",
+    "aliases": [],
+    "span": "settlement",
+    "chunk_id": "chunk_59"
+  },
+  {
+    "id": "e387",
+    "name": "Washoe hunter",
+    "type": "Person",
+    "aliases": [],
+    "span": "Washoe hunter",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e388",
+    "name": "Eagle Ravine",
+    "type": "Location",
+    "aliases": [],
+    "span": "Eagle Ravine",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e389",
+    "name": "Carson City",
+    "type": "Location",
+    "aliases": [],
+    "span": "Carson City",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e390",
+    "name": "Hope family",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Hope family",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e391",
+    "name": "side window",
+    "type": "Location",
+    "aliases": [],
+    "span": "side window",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e392",
+    "name": "fields",
+    "type": "Location",
+    "aliases": [],
+    "span": "fields",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e393",
+    "name": "revolver",
+    "type": "Object",
+    "aliases": [],
+    "span": "revolver",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e394",
+    "name": "front entrance",
+    "type": "Location",
+    "aliases": [],
+    "span": "front entrance",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e395",
+    "name": "back entrance",
+    "type": "Location",
+    "aliases": [],
+    "span": "back entrance",
+    "chunk_id": "chunk_61"
+  },
+  {
+    "id": "e397",
+    "name": "the fields",
+    "type": "Location",
+    "aliases": [
+      "the cornfields"
+    ],
+    "span": "the fields",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e398",
+    "name": "the hedge",
+    "type": "Location",
+    "aliases": [],
+    "span": "the hedge",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e400",
+    "name": "the high road",
+    "type": "Location",
+    "aliases": [],
+    "span": "the high road",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e402",
+    "name": "Eagle Cañon",
+    "type": "Location",
+    "aliases": [],
+    "span": "Eagle Cañon",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e403",
+    "name": "bag of gold and notes",
+    "type": "Object",
+    "aliases": [],
+    "span": "bag of gold and notes",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e404",
+    "name": "scanty provisions and water",
+    "type": "Object",
+    "aliases": [],
+    "span": "scanty provisions and water",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e405",
+    "name": "small bundle",
+    "type": "Object",
+    "aliases": [],
+    "span": "small bundle",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e406",
+    "name": "dark cloud",
+    "type": "Object",
+    "aliases": [],
+    "span": "dark cloud",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e407",
+    "name": "little garden",
+    "type": "Location",
+    "aliases": [],
+    "span": "little garden",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e408",
+    "name": "gap",
+    "type": "Location",
+    "aliases": [],
+    "span": "gap",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e409",
+    "name": "shadow",
+    "type": "Location",
+    "aliases": [],
+    "span": "shadow",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e410",
+    "name": "town",
+    "type": "Location",
+    "aliases": [],
+    "span": "town",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e411",
+    "name": "rugged and narrow footpath",
+    "type": "Location",
+    "aliases": [],
+    "span": "rugged and narrow footpath",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e412",
+    "name": "two dark jagged peaks",
+    "type": "Location",
+    "aliases": [],
+    "span": "two dark jagged peaks",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e413",
+    "name": "defile",
+    "type": "Location",
+    "aliases": [
+      "defiles"
+    ],
+    "span": "defile",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e414",
+    "name": "retired corner",
+    "type": "Location",
+    "aliases": [],
+    "span": "retired corner",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e417",
+    "name": "great crag",
+    "type": "Location",
+    "aliases": [],
+    "span": "great crag",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e418",
+    "name": "basaltic columns",
+    "type": "Object",
+    "aliases": [],
+    "span": "basaltic columns",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e419",
+    "name": "young hunter",
+    "type": "Person",
+    "aliases": [],
+    "span": "young hunter",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e420",
+    "name": "mountain owl",
+    "type": "Object",
+    "aliases": [],
+    "span": "mountain owl",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e421",
+    "name": "Whip-poor-Will",
+    "type": "Object",
+    "aliases": [],
+    "span": "Whip-poor-Will",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e422",
+    "name": "Brother Drebber",
+    "type": "Person",
+    "aliases": [],
+    "span": "Brother Drebber",
+    "chunk_id": "chunk_62"
+  },
+  {
+    "id": "e423",
+    "name": "The Holy Four",
+    "type": "Organization",
+    "aliases": [
+      "Holy Four"
+    ],
+    "span": "The Holy Four",
+    "chunk_id": "chunk_63"
+  },
+  {
+    "id": "e424",
+    "name": "the Saints",
+    "type": "Organization",
+    "aliases": [],
+    "span": "the Saints",
+    "chunk_id": "chunk_63"
+  },
+  {
+    "id": "e425",
+    "name": "the chosen people",
+    "type": "Organization",
+    "aliases": [
+      "Chosen People"
+    ],
+    "span": "the chosen people",
+    "chunk_id": "chunk_63"
+  },
+  {
+    "id": "e426",
+    "name": "Carson",
+    "type": "Location",
+    "aliases": [],
+    "span": "Carson",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e427",
+    "name": "great snow-capped peaks",
+    "type": "Location",
+    "aliases": [],
+    "span": "great snow-capped peaks",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e428",
+    "name": "larch",
+    "type": "Object",
+    "aliases": [],
+    "span": "larch",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e429",
+    "name": "pine",
+    "type": "Object",
+    "aliases": [],
+    "span": "pine",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e430",
+    "name": "barren valley",
+    "type": "Location",
+    "aliases": [],
+    "span": "barren valley",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e431",
+    "name": "trees",
+    "type": "Object",
+    "aliases": [],
+    "span": "trees",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e434",
+    "name": "silent gorges",
+    "type": "Location",
+    "aliases": [],
+    "span": "silent gorges",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e435",
+    "name": "weary horses",
+    "type": "Object",
+    "aliases": [],
+    "span": "weary horses",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e436",
+    "name": "eastern horizon",
+    "type": "Location",
+    "aliases": [],
+    "span": "eastern horizon",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e437",
+    "name": "caps of the great mountains",
+    "type": "Location",
+    "aliases": [],
+    "span": "caps of the great mountains",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e438",
+    "name": "three fugitives",
+    "type": "Person",
+    "aliases": [],
+    "span": "three fugitives",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e439",
+    "name": "wild torrent",
+    "type": "Location",
+    "aliases": [],
+    "span": "wild torrent",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e440",
+    "name": "ravine",
+    "type": "Location",
+    "aliases": [
+      "ravines"
+    ],
+    "span": "ravine",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e441",
+    "name": "beetling crag",
+    "type": "Location",
+    "aliases": [],
+    "span": "beetling crag",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e442",
+    "name": "terrible organization",
+    "type": "Organization",
+    "aliases": [],
+    "span": "terrible organization",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e443",
+    "name": "sheltered nook",
+    "type": "Location",
+    "aliases": [],
+    "span": "sheltered nook",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e444",
+    "name": "dried branches",
+    "type": "Object",
+    "aliases": [],
+    "span": "dried branches",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e445",
+    "name": "blazing fire",
+    "type": "Object",
+    "aliases": [],
+    "span": "blazing fire",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e446",
+    "name": "sea level",
+    "type": "Location",
+    "aliases": [],
+    "span": "sea level",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e447",
+    "name": "three animals",
+    "type": "Object",
+    "aliases": [],
+    "span": "three animals",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e449",
+    "name": "jutting pinnacle",
+    "type": "Location",
+    "aliases": [],
+    "span": "jutting pinnacle",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e450",
+    "name": "big-horn",
+    "type": "Object",
+    "aliases": [],
+    "span": "big-horn",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e451",
+    "name": "flock",
+    "type": "Object",
+    "aliases": [],
+    "span": "flock",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e452",
+    "name": "hunter",
+    "type": "Person",
+    "aliases": [],
+    "span": "hunter",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e453",
+    "name": "precipice",
+    "type": "Location",
+    "aliases": [],
+    "span": "precipice",
+    "chunk_id": "chunk_64"
+  },
+  {
+    "id": "e456",
+    "name": "rock",
+    "type": "Object",
+    "aliases": [
+      "rocks"
+    ],
+    "span": "rock",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e457",
+    "name": "haunch",
+    "type": "Object",
+    "aliases": [],
+    "span": "haunch",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e458",
+    "name": "flank",
+    "type": "Object",
+    "aliases": [],
+    "span": "flank",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e459",
+    "name": "trophy",
+    "type": "Object",
+    "aliases": [],
+    "span": "trophy",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e460",
+    "name": "evening",
+    "type": "Date",
+    "aliases": [],
+    "span": "evening",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e461",
+    "name": "path",
+    "type": "Location",
+    "aliases": [],
+    "span": "path",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e462",
+    "name": "gorges",
+    "type": "Location",
+    "aliases": [
+      "gorge"
+    ],
+    "span": "gorges",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e463",
+    "name": "mountain torrent",
+    "type": "Location",
+    "aliases": [],
+    "span": "mountain torrent",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e464",
+    "name": "high cliffs",
+    "type": "Location",
+    "aliases": [],
+    "span": "high cliffs",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e465",
+    "name": "food",
+    "type": "Object",
+    "aliases": [],
+    "span": "food",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e466",
+    "name": "journey",
+    "type": "Event",
+    "aliases": [],
+    "span": "journey",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e467",
+    "name": "glen",
+    "type": "Location",
+    "aliases": [],
+    "span": "glen",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e468",
+    "name": "fire",
+    "type": "Object",
+    "aliases": [],
+    "span": "fire",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e469",
+    "name": "wood ashes",
+    "type": "Object",
+    "aliases": [],
+    "span": "wood ashes",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e470",
+    "name": "silence",
+    "type": "Object",
+    "aliases": [],
+    "span": "silence",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e471",
+    "name": "living creature",
+    "type": "Person",
+    "aliases": [],
+    "span": "living creature",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e472",
+    "name": "animals",
+    "type": "Object",
+    "aliases": [],
+    "span": "animals",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e473",
+    "name": "maiden",
+    "type": "Person",
+    "aliases": [],
+    "span": "maiden",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e474",
+    "name": "disaster",
+    "type": "Event",
+    "aliases": [],
+    "span": "disaster",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e475",
+    "name": "head",
+    "type": "Object",
+    "aliases": [],
+    "span": "head",
+    "chunk_id": "chunk_65"
+  },
+  {
+    "id": "e476",
+    "name": "August 4th, 1860",
+    "type": "Date",
+    "aliases": [],
+    "span": "August 4th, 1860",
+    "chunk_id": "chunk_66"
+  },
+  {
+    "id": "e477",
+    "name": "Elder’s son",
+    "type": "Person",
+    "aliases": [],
+    "span": "Elder’s son",
+    "chunk_id": "chunk_66"
+  },
+  {
+    "id": "e478",
+    "name": "home of the saints",
+    "type": "Location",
+    "aliases": [],
+    "span": "home of the saints",
+    "chunk_id": "chunk_66"
+  },
+  {
+    "id": "e479",
+    "name": "desolate fire",
+    "type": "Object",
+    "aliases": [],
+    "span": "desolate fire",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e480",
+    "name": "grief",
+    "type": "Object",
+    "aliases": [],
+    "span": "grief",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e481",
+    "name": "retribution",
+    "type": "Object",
+    "aliases": [],
+    "span": "retribution",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e482",
+    "name": "enemies",
+    "type": "Person",
+    "aliases": [],
+    "span": "enemies",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e483",
+    "name": "strong will",
+    "type": "Object",
+    "aliases": [],
+    "span": "strong will",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e484",
+    "name": "untiring energy",
+    "type": "Object",
+    "aliases": [],
+    "span": "untiring energy",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e485",
+    "name": "smouldering fire",
+    "type": "Object",
+    "aliases": [],
+    "span": "smouldering fire",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e486",
+    "name": "bundle",
+    "type": "Object",
+    "aliases": [],
+    "span": "bundle",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e487",
+    "name": "track of the avenging angels",
+    "type": "Location",
+    "aliases": [],
+    "span": "track of the avenging angels",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e490",
+    "name": "city",
+    "type": "Location",
+    "aliases": [],
+    "span": "city",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e491",
+    "name": "flags",
+    "type": "Object",
+    "aliases": [],
+    "span": "flags",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e492",
+    "name": "principal streets",
+    "type": "Location",
+    "aliases": [],
+    "span": "principal streets",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e493",
+    "name": "signs of festivity",
+    "type": "Object",
+    "aliases": [],
+    "span": "signs of festivity",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e494",
+    "name": "horse’s hoofs",
+    "type": "Object",
+    "aliases": [],
+    "span": "horse’s hoofs",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e495",
+    "name": "mounted man",
+    "type": "Person",
+    "aliases": [],
+    "span": "mounted man",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e496",
+    "name": "Mormon named Cowper",
+    "type": "Person",
+    "aliases": [
+      "Cowper"
+    ],
+    "span": "Mormon named Cowper",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e497",
+    "name": "young Drebber",
+    "type": "Person",
+    "aliases": [],
+    "span": "young Drebber",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e498",
+    "name": "Endowment House",
+    "type": "Location",
+    "aliases": [],
+    "span": "Endowment House",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e499",
+    "name": "young Stangerson",
+    "type": "Person",
+    "aliases": [],
+    "span": "young Stangerson",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e500",
+    "name": "party",
+    "type": "Organization",
+    "aliases": [],
+    "span": "party",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e501",
+    "name": "council",
+    "type": "Organization",
+    "aliases": [],
+    "span": "council",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e502",
+    "name": "Drebber's party",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Drebber’s party",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e505",
+    "name": "life",
+    "type": "Object",
+    "aliases": [],
+    "span": "life",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e506",
+    "name": "warrant",
+    "type": "Object",
+    "aliases": [],
+    "span": "warrant",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e507",
+    "name": "questions",
+    "type": "Object",
+    "aliases": [],
+    "span": "questions",
+    "chunk_id": "chunk_67"
+  },
+  {
+    "id": "e508",
+    "name": "the Prophet",
+    "type": "Person",
+    "aliases": [],
+    "span": "the Prophet",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e510",
+    "name": "suburbs",
+    "type": "Location",
+    "aliases": [],
+    "span": "suburbs",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e511",
+    "name": "mountain gorges",
+    "type": "Location",
+    "aliases": [],
+    "span": "mountain gorges",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e512",
+    "name": "Stangerson’s window",
+    "type": "Location",
+    "aliases": [],
+    "span": "Stangerson’s window",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e514",
+    "name": "cliff",
+    "type": "Location",
+    "aliases": [],
+    "span": "cliff",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e515",
+    "name": "haunts of the wild beasts",
+    "type": "Location",
+    "aliases": [],
+    "span": "haunts of the wild beasts",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e516",
+    "name": "bier",
+    "type": "Location",
+    "aliases": [],
+    "span": "bier",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e517",
+    "name": "room",
+    "type": "Location",
+    "aliases": [],
+    "span": "room",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e518",
+    "name": "stairs",
+    "type": "Location",
+    "aliases": [],
+    "span": "stairs",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e519",
+    "name": "weapon",
+    "type": "Object",
+    "aliases": [],
+    "span": "weapon",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e520",
+    "name": "white silent figure",
+    "type": "Object",
+    "aliases": [],
+    "span": "white silent figure",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e522",
+    "name": "bullet",
+    "type": "Object",
+    "aliases": [],
+    "span": "bullet",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e523",
+    "name": "attempts",
+    "type": "Event",
+    "aliases": [],
+    "span": "attempts",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e524",
+    "name": "expeditions",
+    "type": "Event",
+    "aliases": [
+      "repeated expeditions"
+    ],
+    "span": "expeditions",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e525",
+    "name": "measures",
+    "type": "Event",
+    "aliases": [],
+    "span": "measures",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e526",
+    "name": "terrible death",
+    "type": "Event",
+    "aliases": [
+      "terrible death of her father"
+    ],
+    "span": "terrible death",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e527",
+    "name": "hateful marriage",
+    "type": "Event",
+    "aliases": [],
+    "span": "hateful marriage",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e528",
+    "name": "Mormon custom",
+    "type": "Event",
+    "aliases": [],
+    "span": "Mormon custom",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e529",
+    "name": "episode",
+    "type": "Event",
+    "aliases": [],
+    "span": "episode",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e530",
+    "name": "alarm",
+    "type": "Event",
+    "aliases": [],
+    "span": "alarm",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e531",
+    "name": "prediction",
+    "type": "Event",
+    "aliases": [
+      "precaution"
+    ],
+    "span": "prediction",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e532",
+    "name": "lives",
+    "type": "Event",
+    "aliases": [],
+    "span": "lives",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e534",
+    "name": "bereavement",
+    "type": "Event",
+    "aliases": [],
+    "span": "bereavement",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e535",
+    "name": "fear",
+    "type": "Event",
+    "aliases": [
+      "inexpressible fear"
+    ],
+    "span": "fear",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e536",
+    "name": "astonishment",
+    "type": "Event",
+    "aliases": [
+      "inexpressible astonishment"
+    ],
+    "span": "astonishment",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e537",
+    "name": "desire for vengeance",
+    "type": "Event",
+    "aliases": [
+      "fierce desire for vengeance"
+    ],
+    "span": "desire for vengeance",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e538",
+    "name": "attempts upon their lives",
+    "type": "Event",
+    "aliases": [],
+    "span": "attempts upon their lives",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e539",
+    "name": "success",
+    "type": "Event",
+    "aliases": [],
+    "span": "success",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e541",
+    "name": "hope",
+    "type": "Event",
+    "aliases": [],
+    "span": "hope",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e542",
+    "name": "vindictiveness",
+    "type": "Event",
+    "aliases": [],
+    "span": "vindictiveness",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e543",
+    "name": "emotion",
+    "type": "Event",
+    "aliases": [
+      "other emotion"
+    ],
+    "span": "emotion",
+    "chunk_id": "chunk_68"
+  },
+  {
+    "id": "e548",
+    "name": "United States",
+    "type": "Location",
+    "aliases": [],
+    "span": "United States",
+    "chunk_id": "chunk_69"
+  },
+  {
+    "id": "e549",
+    "name": "Nevada mines",
+    "type": "Location",
+    "aliases": [],
+    "span": "Nevada mines",
+    "chunk_id": "chunk_69"
+  },
+  {
+    "id": "e550",
+    "name": "justice of the peace",
+    "type": "Person",
+    "aliases": [],
+    "span": "justice of the peace",
+    "chunk_id": "chunk_69"
+  },
+  {
+    "id": "e551",
+    "name": "private secretary",
+    "type": "Role",
+    "aliases": [],
+    "span": "private secretary",
+    "chunk_id": "chunk_69"
+  },
+  {
+    "id": "e552",
+    "name": "St. Petersburg",
+    "type": "Location",
+    "aliases": [],
+    "span": "St. Petersburg",
+    "chunk_id": "chunk_70"
+  },
+  {
+    "id": "e553",
+    "name": "Paris",
+    "type": "Location",
+    "aliases": [],
+    "span": "Paris",
+    "chunk_id": "chunk_70"
+  },
+  {
+    "id": "e554",
+    "name": "police-station",
+    "type": "Location",
+    "aliases": [],
+    "span": "police-station",
+    "chunk_id": "chunk_70"
+  },
+  {
+    "id": "e555",
+    "name": "police Inspector",
+    "type": "Person",
+    "aliases": [],
+    "span": "police Inspector",
+    "chunk_id": "chunk_70"
+  },
+  {
+    "id": "e556",
+    "name": "fellow-lodger",
+    "type": "Person",
+    "aliases": [],
+    "span": "fellow-lodger",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e557",
+    "name": "two detectives",
+    "type": "Person",
+    "aliases": [],
+    "span": "two detectives",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e558",
+    "name": "prisoner",
+    "type": "Person",
+    "aliases": [
+      "Mr. Jefferson Hope",
+      "Jefferson Hope"
+    ],
+    "span": "prisoner",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e559",
+    "name": "magistrates",
+    "type": "Person",
+    "aliases": [],
+    "span": "magistrates",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e560",
+    "name": "Salt Lake Mountains",
+    "type": "Location",
+    "aliases": [],
+    "span": "Salt Lake Mountains",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e561",
+    "name": "aortic aneurism",
+    "type": "Object",
+    "aliases": [
+      "aneurism"
+    ],
+    "span": "aortic aneurism",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e562",
+    "name": "Inspector",
+    "type": "Person",
+    "aliases": [
+      "police Inspector"
+    ],
+    "span": "Inspector",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e563",
+    "name": "chair",
+    "type": "Object",
+    "aliases": [],
+    "span": "chair",
+    "chunk_id": "chunk_71"
+  },
+  {
+    "id": "e565",
+    "name": "cabowner’s office",
+    "type": "Location",
+    "aliases": [],
+    "span": "cabowner’s office",
+    "chunk_id": "chunk_72"
+  },
+  {
+    "id": "e566",
+    "name": "boarding-house",
+    "type": "Location",
+    "aliases": [],
+    "span": "boarding-house",
+    "chunk_id": "chunk_72"
+  },
+  {
+    "id": "e567",
+    "name": "marriage ring",
+    "type": "Object",
+    "aliases": [],
+    "span": "marriage ring",
+    "chunk_id": "chunk_72"
+  },
+  {
+    "id": "e568",
+    "name": "map",
+    "type": "Object",
+    "aliases": [],
+    "span": "map",
+    "chunk_id": "chunk_72"
+  },
+  {
+    "id": "e569",
+    "name": "Waterloo Bridge",
+    "type": "Location",
+    "aliases": [],
+    "span": "Waterloo Bridge",
+    "chunk_id": "chunk_74"
+  },
+  {
+    "id": "e570",
+    "name": "Terrace",
+    "type": "Location",
+    "aliases": [],
+    "span": "Terrace",
+    "chunk_id": "chunk_74"
+  },
+  {
+    "id": "e571",
+    "name": "York College",
+    "type": "Institution",
+    "aliases": [],
+    "span": "York College",
+    "chunk_id": "chunk_74"
+  },
+  {
+    "id": "e572",
+    "name": "South America",
+    "type": "Location",
+    "aliases": [],
+    "span": "South America",
+    "chunk_id": "chunk_74"
+  },
+  {
+    "id": "e573",
+    "name": "alkaloid",
+    "type": "Object",
+    "aliases": [],
+    "span": "alkaloid",
+    "chunk_id": "chunk_74"
+  },
+  {
+    "id": "e574",
+    "name": "front room",
+    "type": "Location",
+    "aliases": [],
+    "span": "front room",
+    "chunk_id": "chunk_76"
+  },
+  {
+    "id": "e575",
+    "name": "wax candle",
+    "type": "Object",
+    "aliases": [],
+    "span": "wax candle",
+    "chunk_id": "chunk_76"
+  },
+  {
+    "id": "e576",
+    "name": "box",
+    "type": "Object",
+    "aliases": [],
+    "span": "box",
+    "chunk_id": "chunk_76"
+  },
+  {
+    "id": "e577",
+    "name": "Lucy’s marriage ring",
+    "type": "Object",
+    "aliases": [],
+    "span": "Lucy’s marriage ring",
+    "chunk_id": "chunk_76"
+  },
+  {
+    "id": "e578",
+    "name": "pocket",
+    "type": "Object",
+    "aliases": [],
+    "span": "pocket",
+    "chunk_id": "chunk_76"
+  },
+  {
+    "id": "e580",
+    "name": "foot",
+    "type": "Object",
+    "aliases": [],
+    "span": "foot",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e582",
+    "name": "blood",
+    "type": "Object",
+    "aliases": [],
+    "span": "blood",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e583",
+    "name": "nose",
+    "type": "Object",
+    "aliases": [],
+    "span": "nose",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e584",
+    "name": "hand",
+    "type": "Object",
+    "aliases": [],
+    "span": "hand",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e585",
+    "name": "police",
+    "type": "Organization",
+    "aliases": [],
+    "span": "police",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e586",
+    "name": "track",
+    "type": "Location",
+    "aliases": [],
+    "span": "track",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e587",
+    "name": "secret societies",
+    "type": "Organization",
+    "aliases": [],
+    "span": "secret societies",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e588",
+    "name": "newspapers",
+    "type": "Publication",
+    "aliases": [],
+    "span": "newspapers",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e591",
+    "name": "finger",
+    "type": "Object",
+    "aliases": [],
+    "span": "finger",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e592",
+    "name": "ring",
+    "type": "Object",
+    "aliases": [],
+    "span": "ring",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e593",
+    "name": "side street",
+    "type": "Location",
+    "aliases": [],
+    "span": "side street",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e594",
+    "name": "police-officer",
+    "type": "Person",
+    "aliases": [],
+    "span": "police-officer",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e596",
+    "name": "lane",
+    "type": "Location",
+    "aliases": [],
+    "span": "lane",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e597",
+    "name": "bedroom",
+    "type": "Location",
+    "aliases": [],
+    "span": "bedroom",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e598",
+    "name": "dawn",
+    "type": "Date",
+    "aliases": [],
+    "span": "dawn",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e599",
+    "name": "throat",
+    "type": "Object",
+    "aliases": [],
+    "span": "throat",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e600",
+    "name": "Providence",
+    "type": "Mythical_Creature",
+    "aliases": [],
+    "span": "Providence",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e601",
+    "name": "America",
+    "type": "Location",
+    "aliases": [],
+    "span": "America",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e602",
+    "name": "yard",
+    "type": "Location",
+    "aliases": [],
+    "span": "yard",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e603",
+    "name": "ragged youngster",
+    "type": "Person",
+    "aliases": [],
+    "span": "ragged youngster",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e604",
+    "name": "cabby",
+    "type": "Person",
+    "aliases": [],
+    "span": "cabby",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e605",
+    "name": "gentleman",
+    "type": "Person",
+    "aliases": [],
+    "span": "gentleman",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e607",
+    "name": "young man",
+    "type": "Person",
+    "aliases": [],
+    "span": "young man",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e608",
+    "name": "bracelets",
+    "type": "Object",
+    "aliases": [],
+    "span": "bracelets",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e609",
+    "name": "wrists",
+    "type": "Object",
+    "aliases": [],
+    "span": "wrists",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e610",
+    "name": "friend",
+    "type": "Person",
+    "aliases": [],
+    "span": "friend",
+    "chunk_id": "chunk_77"
+  },
+  {
+    "id": "e611",
+    "name": "the criminal",
+    "type": "Person",
+    "aliases": [
+      "criminal"
+    ],
+    "span": "the criminal",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e612",
+    "name": "the roadway",
+    "type": "Location",
+    "aliases": [],
+    "span": "the roadway",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e613",
+    "name": "a cab",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "a cab",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e614",
+    "name": "London growler",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "London growler",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e615",
+    "name": "gentleman’s brougham",
+    "type": "Vehicle",
+    "aliases": [],
+    "span": "gentleman’s brougham",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e616",
+    "name": "the garden path",
+    "type": "Location",
+    "aliases": [],
+    "span": "the garden path",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e617",
+    "name": "clay soil",
+    "type": "Object",
+    "aliases": [],
+    "span": "clay soil",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e618",
+    "name": "footprints",
+    "type": "Object",
+    "aliases": [],
+    "span": "footprints",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e619",
+    "name": "constables",
+    "type": "Person",
+    "aliases": [],
+    "span": "constables",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e620",
+    "name": "two men",
+    "type": "Person",
+    "aliases": [],
+    "span": "two men",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e622",
+    "name": "well-booted man",
+    "type": "Person",
+    "aliases": [],
+    "span": "well-booted man",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e623",
+    "name": "poison",
+    "type": "Object",
+    "aliases": [],
+    "span": "poison",
+    "chunk_id": "chunk_79"
+  },
+  {
+    "id": "e624",
+    "name": "dead man",
+    "type": "Person",
+    "aliases": [],
+    "span": "dead man",
+    "chunk_id": "chunk_80"
+  },
+  {
+    "id": "e625",
+    "name": "Dolsky",
+    "type": "Person",
+    "aliases": [],
+    "span": "Dolsky",
+    "chunk_id": "chunk_80"
+  },
+  {
+    "id": "e626",
+    "name": "Odessa",
+    "type": "Location",
+    "aliases": [],
+    "span": "Odessa",
+    "chunk_id": "chunk_80"
+  },
+  {
+    "id": "e627",
+    "name": "Leturier",
+    "type": "Person",
+    "aliases": [],
+    "span": "Leturier",
+    "chunk_id": "chunk_80"
+  },
+  {
+    "id": "e628",
+    "name": "toxicologist",
+    "type": "Person",
+    "aliases": [],
+    "span": "toxicologist",
+    "chunk_id": "chunk_80"
+  },
+  {
+    "id": "e630",
+    "name": "robust and ruddy-faced man",
+    "type": "Person",
+    "aliases": [],
+    "span": "a robust and ruddy-faced man",
+    "chunk_id": "chunk_81"
+  },
+  {
+    "id": "e631",
+    "name": "jarveys",
+    "type": "Person",
+    "aliases": [],
+    "span": "jarveys",
+    "chunk_id": "chunk_81"
+  },
+  {
+    "id": "e632",
+    "name": "Street Arab detective corps",
+    "type": "Organization",
+    "aliases": [],
+    "span": "Street Arab detective corps",
+    "chunk_id": "chunk_81"
+  },
+  {
+    "id": "e633",
+    "name": "Echo",
+    "type": "Publication",
+    "aliases": [],
+    "span": "Echo",
+    "chunk_id": "chunk_81"
+  },
+  {
+    "id": "e636",
+    "name": "British soil",
+    "type": "Location",
+    "aliases": [],
+    "span": "British soil",
+    "chunk_id": "chunk_82"
+  },
+  {
+    "id": "e637",
+    "name": "Study in Scarlet",
+    "type": "Work",
+    "aliases": [],
+    "span": "Study in Scarlet",
+    "chunk_id": "chunk_82"
+  },
+  {
+    "id": "e638",
+    "name": "Roman miser",
+    "type": "Person",
+    "aliases": [],
+    "span": "Roman miser",
+    "chunk_id": "chunk_82"
+  }
+]
